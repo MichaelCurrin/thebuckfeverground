@@ -1,11 +1,11 @@
 # Site settings
 title: The BuckFever Underground
 email: info@toastcoetzer.co.za
-description: Spoken word over improvised music
+description:
 baseurl: "thebuckfeverground"
-# For RSS and SEO consider setting this as a deploy value. How does it affect Github Pages
-# local serving and builds for hosted site?
 url: ""
+facebook_username: TheBuckfeverUnderground
+
 
 # Build settings
 markdown: kramdown
