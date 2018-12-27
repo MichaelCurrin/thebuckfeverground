@@ -1,0 +1,36 @@
+---
+layout: default
+
+# If image is set on the album, insert it.
+
+# Extract the name of this album from the directory structure. Then do the same for each track.
+# and filter on that value matching to get just the tracks in this album.
+# Assume the track filenames start with two digits so they can be used for automatic sorting.
+---
+
+{% assign music_page = site.pages | where: "name", "music.md" | first %}
+<p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
+
+
+{% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} album cover" width="300">
+    <br>
+{% endif %}
+
+
+{% assign album_path = page.path | split: "/" %}
+{% assign album_name = album_path[1] %}
+
+<ul>
+    {% assign all_tracks_sorted = site.music | where: "layout", "track" %}
+    {% for track in all_tracks_sorted %}
+        {% assign track_path = track.path | split: "/" %}
+        {% assign track_album_name = track_path[1] %}
+
+        {% if track_album_name == album_name %}
+            <li>
+                <a href="{{ track.url | relative_url }}">{{ track.title }}</a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
