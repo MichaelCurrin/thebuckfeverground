@@ -5,7 +5,10 @@ description:
 baseurl: "the-buckfever-underground"
 url: ""
 facebook_username: TheBuckfeverUnderground
-
+# This is used as the repo path.
+github_username: MichaelCurrin/the-buckfever-underground
+twitter_username: the_buckfever
+rss: rss
 
 # Build settings
 markdown: kramdown
