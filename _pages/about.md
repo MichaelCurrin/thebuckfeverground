@@ -1,13 +1,8 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
 
-The BuckFever Underground are an alternative South African band which has been performing poetry to improvised music since 1998.
+We are the BuckFever Underground - an alternative South African band which has been performing poetry with improvised music since 1998. We enjoy playing in bars, at writing and music festivals and especially home lounges.
 
-Toast Coetzer leads the band with his English and Afrikaans poetry. In its current form, the band includes Stephen Timm on drums and Michael Currin on electric guitar.
-
-Experimental ambient soundscapes from a lot of tracks are influenced by post rock and prog bands and often sounds like the Doors, Pink Floyd, Explosions in the Sky or Tool.
-
-We play in bars, festivals and the lounges of fans. We have a CDs and clothing for sale.
+Toast Coetzer is the frontman, writing and performing poetry in English and Afrikaans. In its current form, the band includes Stephen Timm on drums and Michael Currin on electric guitar. Michael takes inspiration for his experimental ambient soundscapes from bands like the Doors, Pink Floyd, Explosions in the Sky and Tool.
