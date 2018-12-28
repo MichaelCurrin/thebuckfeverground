@@ -68,6 +68,10 @@ defaults:
     values:
       layout: "post"
   - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+  - scope:
       path: ""
     values:
       layout: "default"
