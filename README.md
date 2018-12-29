@@ -1,9 +1,9 @@
-# The BuckFever Underground
+# The Buckfever Underground
 > Static site content for a South African band that performs poetry with improvised music
 
 _Author: [Michael Currin](https://github.com/MichaelCurrin) (web developer and band member)_.
 
-The project uses [Jekyll](http://jekyllrb.com/) to build a static website for The BuckFever Underground. The band's homepage is [thebuckfeverunderground.co.za](http://thebuckfeverunderground.co.za/) and this project is also hosted at [Github Pages site](https://michaelcurrin.github.io/thebuckfeverground/) as a staging environment.
+The project uses [Jekyll](http://jekyllrb.com/) to build a static website for The Buckfever Underground. The band's homepage is [thebuckfeverunderground.co.za](http://thebuckfeverunderground.co.za/) and this project is also hosted at [Github Pages site](https://michaelcurrin.github.io/thebuckfeverground/) as a staging environment.
 
 
 ## Installation
