@@ -3,9 +3,10 @@ title: Merch
 permalink: /merch/
 ---
 
-Place merch orders with Toast at <info@toastcoetzer.com>.
+Place your orders for CDs or clothing with Toast at <info@toastcoetzer.com>.
 
 We do not deliver to Mars yet, unless of course you mean that farm of the same name just north of Hotazel in the Northern Cape. We've been there and it was nice.
+
 
 ## CDs
 

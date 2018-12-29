@@ -4,7 +4,7 @@ email: info@toastcoetzer.co.za
 description: Catch the Buckfever
 
 baseurl: "/the-buckfever-underground"
-url: ""
+url: "http://thebuckfeverunderground.co.za"
 
 facebook_username: TheBuckfeverUnderground
 # This is used as the repo path.
@@ -19,6 +19,15 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - script
+  - README.md
+  - LICENSE
 
 
 # Keep top-level pages in their own directory.
