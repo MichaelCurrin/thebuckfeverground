@@ -1,0 +1,11 @@
+---
+title: Flight to Joburg
+---
+
+the small light stays on in your mouth and the hair on your temples fan out and contract like a feathery grass fan on the neck of a sunlit horse I move towards your eyes where your frown is asleep and dreams dance underneath a basket of puppies under aprons, the lashes now the building snaps a chord and your body moves around in an ocean of peace approaching Oliver Reginald Tambo the neighbourhoods below are neatly tilled fields of molten tar leading motor cars to homes humans disembark to water the doorways and fingers germinate toward light switches so that light and sound and warmth can make the home
+
+grow a heart and a hunger starts stewing on the stove in the sunshine when people stood breaking their arms I held your hand in mine and jumped off a cliff and we became birds and we became air and we became eyes at the bottom of a glass and we were wet and we were small and we became woken up by our phones and we ate and we left and outside the world had become mad and the bones of all the dead lay in the streets at the feet of the living which bent down like iron filings dancing to a subterranean current for as much as I could tell I could see right through my hands my mouth was made of cartilage you said you see I told you so we swam away like fish the trail of bubbles the
+
+only clue that we had followed in the steps of someone who came through earlier in the day dragging his panga over the cobbled stones like a Jamaican steel drum band which instead had to go to war and the buskers sang the same song they sang the same song so many times that it could be silent yet still you could hear the breath that music makes when it brushes past your ear I was a dove the day I was born I couldn’t fly I could just be dragged by a mongoose to its lair where its babies could tear me apart in secrecy underground to them blood tastes like chocolate and cries of anguish twinkle like little stars (we became birds we became air we became eyes at the bottom of a glass) come hold me tight come hold me tight hold me tight come hold me tight hold me
+
+tight hold me tight the door has been kicked down and outside I can hear the deathly hum of a lion turning the page

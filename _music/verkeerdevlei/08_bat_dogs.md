@@ -1,0 +1,9 @@
+---
+title: Bat-dogs
+---
+
+time bleeds from the hand around the coffee mug onto the table onto the floor streaming down the stairs out of the door down the street to the DVD store to rent ‘Ghost Dog: Way of the Samurai’ the opening credits start and the RZA’s soundtrack punches pigeon wing beats across the city and out and away to the Karoo which is black and cold like a distant planet were no flame has ever licked the gum-dust but eventually the light-sores come the reflecting cat’s eyes of township lights main roads industry in the aeroplane a child talks loudly, down below Busi Mhlongo is mourned and soccer snows down the pigeons change shape at night their wings grow leather their beaks teeth they swoop out into the wilds hungry for blood robots are not like people just like trees cannot be Satanists and clouds not accountants in the words of love light falls onto carpets dogs, laughter, the smell of food ring through the air and
+
+the fearsome attack of the enemy throbbing under the skin is anciently forgotten as if the Rosetta stone unearthed on the wrong planet of a vanquished civilisation come with us into the underground let’s tunnel to China through the molten heart when we get there we will be eighty and our bodies richly encrusted with coal-faced weaponry over which corporations will do battle I dream of a pond full of leaves under which fossils are forming and an alligator and a terrapin slipping silently from side to side doing laps without a ripple on the surface on the videotape the players are running across a 1990s rugby field everything is the past even the plastic tape itself just us here in the room are here now and soon us too will get up and leave and everything inside here the hen-with-chickens, the kettle, the cat, the curtains will be incinerated and we will be far, far away streaking comet-trails through bars
+
+with reality as our bat-dog eating bats eating bats eating bats
