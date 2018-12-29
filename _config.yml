@@ -37,11 +37,11 @@ include:
 # Nav bar order.
 header_pages:
   - "_pages/about.md"
-  - "_pages/shows.md"
+  #- "_pages/shows.md"
   - "_pages/music.md"
   - "_pages/merch.md"
-  - "_pages/blog.md"
-  - "_pages/press.md"
+  #- "_pages/blog.md"
+  #- "_pages/press.md"
   - "_pages/contact.md"
 
 
