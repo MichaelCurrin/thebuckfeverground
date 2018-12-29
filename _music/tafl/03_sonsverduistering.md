@@ -1,0 +1,5 @@
+---
+title: Sonsverduistering
+---
+
+hoe sliert die strale deur die klippies-lug, nat serpe van die sterre-slakke, miswolke kruip soos roomys oor die teerpad, waar die wildehonde aflek, traak-my-nie-agtig pis teen hoekpale. oog geknyp teen die dag, ou voue en droë kepe in die hoeke, skilfers in die hare, dik broedersbloed in die are, gekneusde ribbes en knarsende tande. soos die res val hy tussen yster en stof rond, rol warm note tussen vingers, brand gat op karsitplek, spoeg in pisbak, trek labels van bierbottels af, lek suiker van vingers, hengel vir palings so met die krans langs. maar die uitspansel voorspel niks nie, net die gewone uitbuitery, myn-muitery, grondafsmytery, vrou-afvryery, en leepoog-leeglêery. swaar diere sluip met kettings en byle in die nag rond, stel steltoue, maak sommetjies, smee alliansies met dun meisies in pelsjasse en kniekoppe. sodat, eendag, doodluiters, sy weg versper word deur ‘n rooimier, wat verwoed aanval vir twee minute, spoeg en slaan en pik en krap. en dan die aftog blaas en wegknikker op die wind van die ruimte, tot volgende keer, die verbete rol van die miskruierwiel, flou ge-olie, skeef gemoer.
