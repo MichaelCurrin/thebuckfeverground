@@ -8,31 +8,49 @@ The project uses [Jekyll](http://jekyllrb.com/) to build a static website for Th
 
 ## Installation
 
-Follow [Jekyll setup and run gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to get the repo and dependencies setup.
+Follow this [Jekyll setup and run gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to get the repo and dependencies setup.
 
 ```bash
 $ script/install.sh
 ```
 
 
-## Run
+## Production deploy
+
+Build the static site with configuration for a remote-hosted site other than Github Pages.
+
+```bash
+$ script/prod/build.sh
+```
+
+Then copy the output from generated `_site` directory to where your site is hosted.
+
+
+## Staging deploy
+
+If deploying to Github Pages, config your repo's Settings with the Github Pages functionality. Then push to the master branch to deploy.
+
+The [main config](_config.yml) file will be referenced.
+
+
+## Run on dev environment
 
 ### Build
 
-Build site so it is ready for deployment.
+Build site so it is ready for deployment. The [prod config](_config_prod.yml) file values will override the main config values.
 
 ```bash
-$ script/build.sh
+$ script/dev/build.sh
 ```
 
 ### Serve
 
-Build and the serve site locally.
+Build and the serve the site locally.
 
 #### Root path
 
 ```bash
-$ script/serve.sh
+$ script/dev/serve_root.sh
 ```
 
 Open in the browser: http://localhost:4000
@@ -42,7 +60,7 @@ Open in the browser: http://localhost:4000
 Do this to simulate running on a subpath on Github Pages.
 
 ```bash
-$ script/serve_subpath.sh
+$ script/dev/serve_subpath.sh
 ```
 
 Open in the browser: http://localhost:5000/the-buckfever-underground/
