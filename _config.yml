@@ -1,10 +1,16 @@
+###############
+# Main config #
+###############
+
+
 # Site settings
 title: The Buckfever Underground
 email: info@toastcoetzer.co.za
 description: Catch the Buckfever
 
+# Require for Github Pages deploy as staging environment.
 baseurl: "/the-buckfever-underground"
-url: "http://thebuckfeverunderground.co.za"
+url: ""
 
 facebook_username: TheBuckfeverUnderground
 # This is used as the repo path.
@@ -13,6 +19,7 @@ twitter_username: the_buckfever
 rss: rss
 
 album_images_dir: /assets/images/albums/
+
 
 # Build settings
 markdown: kramdown
