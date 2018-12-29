@@ -1,6 +1,6 @@
 ---
 title: Shows
-permalink: /shows
+permalink: /shows/
 ---
 
 <ul>
