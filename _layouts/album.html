@@ -11,15 +11,19 @@ layout: default
 {% assign music_page = site.pages | where: "name", "music.md" | first %}
 <p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
 
+<h1>{{ page.title }}</h1>
 
 {% if page.image %}
-    <img src="{{ page.image | relative_url }}" alt="{{ page.title }} album cover" width="300">
-    <br>
+    <div>
+        <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}" alt="{{ page.title }} album cover">
+    </div>
 {% endif %}
 
+<br>
 
 {{ content }}
 
+<br>
 
 {% assign album_path = page.path | split: "/" %}
 {% assign album_name = album_path[1] %}
