@@ -1,7 +1,7 @@
 ---
 title: The Buckfever Underground SAVES
 date: 2007-08-01
-image: saves cover produkte the buckfever underground.jpg
+image: "saves cover produkte the buckfever underground.jpg"
 price_local: R115 (incl postage in South Africa)
 price_foreign: R130 (including postage to anywhere else in the world)
 production: >-

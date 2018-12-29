@@ -15,15 +15,15 @@ Hear our music online through these channels:
 
 ## Discography
 
-Details of album releases are covered below, including pricing details and lyrics for tracks.
-
 How can I [order]({{ site.baseurl }}{% link _pages/merch.md %}) a CD?
+
+See details of album releases below, including pricing and lyrics.
 
 <ul>
     {% assign albums = site.music | where: "layout", "album" | sort: 'date' | reverse %}
     {% for album in albums %}
         <li>
-            <a href="{{ album.url | relative_url }}">{{ album.title}}</a>
+            {{ album.date | date: "%Y" }} - <a href="{{ album.url | relative_url }}">{{ album.title}}</a>
         </li>
     {% endfor %}
 </ul>
