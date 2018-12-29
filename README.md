@@ -17,17 +17,37 @@ $ script/install.sh
 
 ## Run
 
+### Build
+
 Build site so it is ready for deployment.
 
 ```bash
 $ script/build.sh
 ```
 
-Build and serve site locally.
+### Serve
+
+Build and the serve site locally.
+
+#### Root path
 
 ```bash
 $ script/serve.sh
 ```
+
+Open in the browser: http://localhost:4000
+
+#### Subpath
+
+Do this to simulate running on a subpath on Github Pages.
+
+```bash
+$ script/serve_subpath.sh
+```
+
+Open in the browser: http://localhost:5000/the-buckfever-underground/
+
+Note the trailing forwardslash. An alternate port number is used here so that both servers can be run at the same time for test purposes.
 
 
 ## Rights
