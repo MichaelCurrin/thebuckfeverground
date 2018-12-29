@@ -1,0 +1,5 @@
+---
+title: Burn talking bush
+---
+
+what exists is a word it’s a happy little worm and a bird will eat and shit it out again and sing and a bird will eat and shit it out again and sing just now the world blows balloons among the clouds I am eating clean spoonfuls of artichoke heart the song comes from inside cinders of joy and cheek-puffing tongue out kiss cool the earth kiss cool the earth my finger is fractured from the crack shines a light Leonard Cohen is in there lifting his hat vapour trails behind us four tyres and me the gravel trail alive the gravel trail alive the gravel trail alive with burning talking bush burning talking bush burning talking bush prickly-pear rabbits and night-light towns the plumbing’s in the ground but the water well is dry the plumbing’s in the ground but the water well is dry vapour trails behind us four tyres and me the gravel trail alive with burning talking bush with burning talking bush the plumbing’s in the ground but the water well is dry prickly-pear rabbits and night-light towns the plumbing’s in the ground but the water well is dry

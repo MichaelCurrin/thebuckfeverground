@@ -2,7 +2,7 @@
 layout: home
 ---
 
-We are BuckFever Underground - familiar, yet unlike anything you've ever heard before.
+We are the Buckfever Underground - familiar, yet unlike anything you've ever heard before.
 
 Every show is different, with a mix between carefully crafted words and improvised music.
 

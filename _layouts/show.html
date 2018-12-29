@@ -5,6 +5,6 @@ layout: default
 {% assign shows_page = site.pages | where: "name", "shows.md" | first %}
 <p>Back to <a href="{{ shows_page.url | relative_url }}">Shows</a></p>
 
-<h1>{{ page.title }}</h1>
+<h1>Show: {{ page.title }}</h1>
 
 {{ content }}
