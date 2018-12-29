@@ -1,7 +1,7 @@
 # Site settings
-title: The BuckFever Underground
+title: The Buckfever Underground
 email: info@toastcoetzer.co.za
-description: Catch the BuckFever
+description: Catch the Buckfever
 baseurl: "the-buckfever-underground"
 url: ""
 facebook_username: TheBuckfeverUnderground
@@ -10,11 +10,12 @@ github_username: MichaelCurrin/the-buckfever-underground
 twitter_username: the_buckfever
 rss: rss
 
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 
 # Keep top-level pages in their own directory.
