@@ -5,10 +5,13 @@ permalink: /merch/
 
 Place merch orders with Toast at <info@toastcoetzer.com>.
 
+We do not deliver to Mars yet, unless of course you mean that farm of the same name just north of Hotazel in the Northern Cape. We've been there and it was nice.
 
 ## CDs
 
-See the [Music]({% link _pages/music.md %}) page. Note that we might not have stock of all albums.
+{% comment %}Using relative_url does not work on link{% endcomment %}
+
+Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% link _pages/music.md %}) page. Stock is limited.
 
 
 ## Clothing
