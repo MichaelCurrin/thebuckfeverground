@@ -11,19 +11,46 @@ layout: default
 {% assign music_page = site.pages | where: "name", "music.md" | first %}
 <p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
 
-<h1>{{ page.title }}</h1>
+<h1>Album: {{ page.title }}</h1>
+
+<h3>{{ page.sub_title | markdownify }}</h3>
 
 {% if page.image %}
-    <div>
-        <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}" alt="{{ page.title }} album cover">
-    </div>
+    <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}" alt="{{ page.title }} album cover">
+    <br>
+    <br>
 {% endif %}
 
+
+<h2>Released</h2>
+
+{{ page.date | date: "%B %Y "}}
 <br>
+<br>
+
+
+<h2>Order</h2>
+
+<ul>
+    {% if page.price_local %}
+        <li>
+            {{ page.price_local }}
+        </li>
+    {% endif %}
+    {% if page.price_foreign %}
+        <li>
+            {{ page.price_foreign }}
+        </li>
+    {% endif %}
+</ul>
+
+
+Place CD orders with Toast at <a href="mailto:info@toastcoetzer.com">info@toastcoetzer.com</a>.<br>
+<br>
+
 
 {{ content }}
 
-<br>
 
 {% assign album_path = page.path | split: "/" %}
 {% assign album_name = album_path[1] %}
@@ -41,3 +68,9 @@ layout: default
         {% endif %}
     {% endfor %}
 </ul>
+
+
+<h2>Production</h2>
+
+{{ page.production }}
+<br>

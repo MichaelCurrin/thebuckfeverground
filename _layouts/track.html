@@ -5,6 +5,6 @@ layout: default
 {% assign music_page = site.pages | where: "name", "music.md" | first %}
 <p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
 
-<h1>{{ page.title }}</h1>
+<h1>Track: {{ page.title }}</h1>
 
 {{ content }}
