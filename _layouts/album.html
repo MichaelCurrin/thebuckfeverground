@@ -51,15 +51,16 @@ Place CD orders with Toast at <a href="mailto:info@toastcoetzer.com">info@toastc
 
 {{ content }}
 
+<br>
 
-{% assign album_path = page.path | split: "/" %}
-{% assign album_name = album_path[1] %}
+<h2>Tracklist</h2>
 
-<ul>
+{% assign album_name = page.path | split: "/" | slice: 1 %}
+
+<ol>
     {% assign all_tracks_sorted = site.music | where: "layout", "track" %}
     {% for track in all_tracks_sorted %}
-        {% assign track_path = track.path | split: "/" %}
-        {% assign track_album_name = track_path[1] %}
+        {% assign track_album_name = track.path | split: "/" | slice: 1 %}
 
         {% if track_album_name == album_name %}
             <li>
@@ -67,8 +68,9 @@ Place CD orders with Toast at <a href="mailto:info@toastcoetzer.com">info@toastc
             </li>
         {% endif %}
     {% endfor %}
-</ul>
+</ol>
 
+<br>
 
 <h2>Production</h2>
 
