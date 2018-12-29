@@ -50,14 +50,14 @@ Build and the serve the site locally.
 #### Root path
 
 ```bash
-$ script/dev/serve_root.sh
+$ script/dev/serve.sh
 ```
 
 Open in the browser: http://localhost:4000
 
 #### Subpath
 
-Do this to simulate running on a subpath on Github Pages.
+Run this locally to simulate running on a subpath (as if on Page Project on Github Pages).
 
 ```bash
 $ script/dev/serve_subpath.sh
