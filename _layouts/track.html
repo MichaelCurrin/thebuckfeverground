@@ -2,9 +2,22 @@
 layout: default
 ---
 
-{% assign music_page = site.pages | where: "name", "music.md" | first %}
-<p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
-
 <h1>Track: {{ page.title }}</h1>
+
+
+{% assign track_album_name = page.path | split: "/" | slice: 1 %}
+{% assign albums = site.music | where: "layout", "album" %}
+
+{% for album in albums %}
+    {% assign album_name = album.path | split: "/" | slice: 1 %}
+
+    {% if album_name == track_album_name %}
+        {% assign album_url = album.url %}
+        {% assign album_title = album.title %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+<h2>Album: <a href="{{ album_url | remove: index.html | relative_url }}">{{ album_title }}</a></h2>
+
 
 {{ content }}
