@@ -17,35 +17,41 @@ $ script/install.sh
 
 ## Production deploy
 
-Build the static site with configuration for a remote-hosted site other than Github Pages.
+### Build
+
+Build the static site to [_site_prod](_site_prod) directory.
+
+Uses configuration for the remote-hosted site (other than Github Pages).
 
 ```bash
 $ script/prod/build.sh
 ```
 
-Then copy the output from generated `_site` directory to where your site is hosted.
+### Test
+
+Optionally start a server in that directory to check everything built as expected.
+
+```bash
+$ script/prod/serve.sh
+```
+
+The domain in the source will be for prod (which affects SEO, sitemap and RSS) but the structure and layout should still be fine to look at in the browser.
+
+### Deploy
+
+Then copy the output from the [_site_prod](_site_prod) directory to where your site is hosted.
 
 
 ## Staging deploy
 
 If deploying to Github Pages, config your repo's Settings with the Github Pages functionality. Then push to the master branch to deploy.
 
-The [main config](_config.yml) file will be referenced.
 
-
-## Run on dev environment
-
-### Build
-
-Build site so it is ready for deployment. The [prod config](_config_prod.yml) file values will override the main config values.
-
-```bash
-$ script/dev/build.sh
-```
+## Dev deploy
 
 ### Serve
 
-Build and the serve the site locally.
+Build and the serve the site locally using the [_site](_site) directory.
 
 #### Root path
 
@@ -57,7 +63,7 @@ Open in the browser: http://localhost:4000
 
 #### Subpath
 
-Run this locally to simulate running on a subpath (as if on Page Project on Github Pages).
+Or, run this script instead to simulate running on a subpath (as if on Page Project on Github Pages).
 
 ```bash
 $ script/dev/serve_subpath.sh
