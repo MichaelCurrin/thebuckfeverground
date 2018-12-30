@@ -16,5 +16,5 @@ production: >-
 
 ## Buy online
 
-- [Apple Music](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playListId=265957191)
+- [Apple Music](https://itunes.apple.com/ca/album/saves/265957191)
 - [CD Baby](https://store.cdbaby.com/cd/buckfeverunderground)
