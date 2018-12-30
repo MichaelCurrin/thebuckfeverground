@@ -12,7 +12,7 @@
     {%- if include.out_link -%}
         <a href="{{ include.out_link }}">
     {%- endif -%}
-            <img src="{{ include.image_path }}" alt="{{ include.description }}">
+            <img src="{{ include.image_path | relative_url }}" alt="{{ include.description }}">
     {%- if include.out_link -%}
         </a>
     {%- endif -%}
