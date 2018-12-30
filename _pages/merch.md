@@ -22,3 +22,5 @@ We have the following available:
 - t-shirts
 - hoodies
 - caps
+
+See photos [here](https://www.instagram.com/stories/highlights/17949376867078598/).
