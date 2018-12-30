@@ -3,7 +3,12 @@ title: About
 permalink: /about/
 ---
 
-The Buckfever Underground is a South African spoken-word band, who play free-form improvised jazz-rock. We formed in 1998 and we are still going strong, playing in bars, writer and music festivals and especially lounges of fans.
+The Buckfever Underground is a South African spoken-word band, who play free-form improvised jazz-rock. We performing in bars, art festivals and lounges of fans.
+
+
+## History
+
+The Buckfever Underground has been around since 1998 when then students Toast Coetzer (vocals, lyrics) and Gilad Hockman (bass) started the band in Grahamstown. Jon Savage (keyboard) soon joined with Stephen Timm (drums) and Righard Kapp (guitar) joining after the band had relocated to Cape Town in the early 2000s.
 
 
 ## The name
@@ -11,9 +16,8 @@ The Buckfever Underground is a South African spoken-word band, who play free-for
 What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream - we are "underground".
 
 
-## Members
+## Current members
 
-In its current form, the band includes 3 members:
 
 ### Vocals
 
