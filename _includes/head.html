@@ -1,0 +1,16 @@
+{% comment %}
+    Override minima head.
+    Add GA even when not running on prod. There is a GA view for staging data. And localhost
+    data are included in the prod and staging views.
+{% endcomment %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    {%- feed_meta -%}
+    {%- if site.google_analytics -%}
+        {%- include google-analytics.html -%}
+    {%- endif -%}
+</head>
