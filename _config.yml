@@ -12,6 +12,9 @@ description: Catch the Buckfever
 baseurl: "/the-buckfever-underground"
 url: ""
 
+# Album images only need to be referenced by filename as this will be prepended on album pages.
+album_images_dir: /assets/images/albums/
+
 # Use for staging and prod. Filter out localhost and spam views on the GA view.
 google_analytics: UA-87705880-3
 
@@ -20,8 +23,6 @@ facebook_username: TheBuckfeverUnderground
 github_username: MichaelCurrin/the-buckfever-underground
 twitter_username: the_buckfever
 rss: rss
-
-album_images_dir: /assets/images/albums/
 
 
 # Build settings
