@@ -5,13 +5,6 @@ permalink: /about/
 
 The Buckfever Underground is a South African spoken-word band. We play free-form improvised jazz-rock / post-rock. We perform in bars, art festivals and the lounges of homes.
 
-{% include image.html
-    image_path="/assets/images/photos/2018/woodstock.jpg"
-    description="2018 shoot in Woodstock. From left: Michael, Toast and Stephen."
-    out_link="https://www.instagram.com/p/BjDP37clPpo/"
-%}
-
-
 ## The name
 
 What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream - we are "underground".
@@ -31,6 +24,12 @@ Stephen plays the drums, sometimes keys and has occasional brings out the percus
 
 Michael plays electric guitar and sometimes acoustic guitar. He takes inspiration for his experimental ambient soundscapes from bands like the Doors, Pink Floyd, Explosions in the Sky and Tool.
 
+{% include image.html
+    image_path="/assets/images/photos/2018/woodstock.jpg"
+    description="2018 shoot in Woodstock. From the left: Michael, Toast and Stephen."
+    out_link="https://www.instagram.com/p/BjDP37clPpo/"
+%}
+
 
 ## History
 
@@ -39,7 +38,16 @@ The Buckfever Underground has been around since 1998 when then students [Toast C
 {% include image.html
     image_path="/assets/images/photos/BU by Sam Reinders small.jpg"
     out_link="https://www.instagram.com/p/BjDP37clPpo/"
-    description="Sam Reinders took this picture of us in October 2011 just after we finished recording on our album Verkeerdevlei at Teatime Studios out in Brackenfell."
+    description="October 2011. Photo: Sam Reinders."
 %}
 
-The most recent addition to the band is [Michael Currin](#michael-currin) - he joined in 2016 to fill in for a few shows but soon became an official member of the band, playing shows and tours.
+The picture above is from just after we finished recording our Verkeerdevlei album at Teatime Studios out in Brackenfell. Picture from the left are: Gilad Hockman (bass, ideas, The Plan), Jon Savage (keyboards, big tunes), [Toast Coetzer](#toast-coetzer) (vocals, lyrics), [Stephen Timm](#stephen-timm) (drums, electronics, keyboards) and Righard Kapp (guitar magic). Righard lives in Bloemfontein and Gil lives in Joburg.
+
+
+{% include image.html
+    image_path="/assets/images/photos/2018/woodstock_bnw.jpg"
+    description="2018 shoot in Woodstock. From the left: Michael, Toast and Stephen."
+    out_link="https://www.instagram.com/p/BkrwHy8Fqex/"
+%}
+
+The latest member is the guitarist, [Michael Currin](#michael-currin), who joined in 2016.
