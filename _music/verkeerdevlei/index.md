@@ -17,3 +17,4 @@ production: >-
 - [Sjambok Music](https://sjambokmusic.com/sjambok-new/)
 - [CD Baby](https://store.cdbaby.com/cd/thebuckfeverunderground)
 - [Apple Music](https://itunes.apple.com/ca/album/verkeerdevlei/583610327)
+- [CD Universe](https://www.cduniverse.com/productinfo.asp?pid=8876717&style=music)
