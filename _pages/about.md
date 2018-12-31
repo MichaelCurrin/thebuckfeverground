@@ -3,7 +3,8 @@ title: About
 permalink: /about/
 ---
 
-The Buckfever Underground is a South African spoken-word band. We play free-form improvised jazz-rock / post-rock. We perform in bars, art festivals and the lounges of homes.
+The Buckfever Underground is a South African spoken-word band. We play free-form improvised jazz-rock / post-rock. We perform in bars, art festivals and lounges.
+
 
 ## The name
 
@@ -19,9 +20,22 @@ What does it mean? To have the "buckfever" describes the condition of a hunter o
 
 ## Current members
 
+
+{% include image.html
+    image_path="/assets/images/photos/2018/woodstock.jpg"
+    description="2018 shoot in Woodstock. From the left: Michael, Toast and Stephen."
+    out_link="https://www.instagram.com/p/BjDP37clPpo/"
+%}
+
+
 ### Toast Coetzer
 
-[Toast Coetzer](http://www.toastcoetzer.com/) writes and performs his poetry in both English and Afrikaans. Read more on his [Afrikaans Wikipedia page](https://af.wikipedia.org/wiki/Toast_Coetzer).
+Toast Coetzer writes and performs his poetry in both English and Afrikaans.
+
+Read more:
+
+- [toastcoetzer.com](http://www.toastcoetzer.com/)
+- Toast on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
 
 ### Stephen Timm
 
@@ -30,12 +44,6 @@ Stephen plays the drums, sometimes keys and has occasional brings out the percus
 ### Michael Currin
 
 Michael plays electric guitar and sometimes acoustic guitar. He takes inspiration for his experimental ambient soundscapes from bands like the Doors, Pink Floyd, Explosions in the Sky and Tool.
-
-{% include image.html
-    image_path="/assets/images/photos/2018/woodstock.jpg"
-    description="2018 shoot in Woodstock. From the left: Michael, Toast and Stephen."
-    out_link="https://www.instagram.com/p/BjDP37clPpo/"
-%}
 
 
 ## History
