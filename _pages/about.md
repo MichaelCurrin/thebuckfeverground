@@ -10,6 +10,13 @@ The Buckfever Underground is a South African spoken-word band. We play free-form
 What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream - we are "underground".
 
 
+{% include image.html
+    image_path="/assets/images/shows/bu city soiree gerhard house sam reinders the buckfever underground.jpg"
+    description="City soiree at Gerhard's house. Photo: Sam Reinders."
+    out_link="https://www.instagram.com/p/BjDP37clPpo/"
+%}
+
+
 ## Current members
 
 ### Toast Coetzer
