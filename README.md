@@ -5,6 +5,10 @@ _Author: [Michael Currin](https://github.com/MichaelCurrin) (web developer and b
 
 The project uses [Jekyll](http://jekyllrb.com/) to build a static website for The Buckfever Underground. The band's homepage is [thebuckfeverunderground.co.za](http://thebuckfeverunderground.co.za/) and this project is also hosted at [Github Pages site](https://michaelcurrin.github.io/thebuckfeverground/) as a staging environment.
 
+The rights to the content of this remain with band or the original creators (such as reviewers or photographers).
+
+Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
+
 
 ## Installation
 
@@ -72,10 +76,3 @@ $ script/dev/serve_subpath.sh
 Open in the browser: http://localhost:5000/the-buckfever-underground/
 
 Note the trailing forwardslash. An alternate port number is used here so that both servers can be run at the same time for test purposes.
-
-
-## Rights
-
-You may use the structure or some code of this project to help build your own sites. However, the rights to the content remain with band or the original artists.
-
-Inspiration for some layout of the site pages comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
