@@ -1,0 +1,38 @@
+---
+layout: default
+
+# A review child item with a link to the review item's parent grouping.
+---
+
+{% assign press_page = site.pages | where: "name", "press.md" | first %}
+
+{% assign grouping_name = page.path | split: "/" | slice: 1 %}
+{% assign press_mains = site.press | where: "layout", "press_main" %}
+
+{% for item in press_mains %}
+    {% assign name = item.path | split: "/" | slice: 1 %}
+
+    {% if name == grouping_name %}
+        <p>
+            Back to <a href="{{ baseurl }}{% link _pages/press.md %}">Press</a> | <a href="{{ item.url | remove: index.html | relative_url }}">{{ item.title }}</a>
+        </p>
+        {% break %}
+    {% endif %}
+{% endfor %}
+
+
+<h1>Review</h1>
+
+<h2>
+    {%- if page.headline -%}
+        <i>"{{ page.headline }}"<br></i>
+    {%- endif -%}
+    {%- if page.author -%}
+        {{ page.author }}&nbsp;
+    {%- endif -%}
+    <b>{{ page.publication }}</b>
+</h2>
+
+<h3>{{ page.time }}</h3>
+
+{{ content }}

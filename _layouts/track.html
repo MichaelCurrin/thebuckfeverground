@@ -1,5 +1,8 @@
 ---
 layout: default
+
+# Link to the previous and next tracks. Exclude albums which are also in the music collection.
+# Link to the track's album using the common parent directory name.
 ---
 
 <h1>Track: {{ page.title }}</h1>
@@ -12,12 +15,19 @@ layout: default
     {% assign album_name = album.path | split: "/" | slice: 1 %}
 
     {% if album_name == track_album_name %}
-        {% assign album_url = album.url %}
-        {% assign album_title = album.title %}
+        <h2>Album: <a href="{{ album.url | remove: index.html | relative_url }}">{{ album.title }}</a></h2>
         {% break %}
     {% endif %}
 {% endfor %}
-<h2>Album: <a href="{{ album_url | remove: index.html | relative_url }}">{{ album_title }}</a></h2>
 
+{%- if page.previous.layout == 'track' -%}
+    <a href="{{ page.previous.url | relative_url }}">Prev track</a>&nbsp;
+{%- endif -%}
+{%- if page.next.layout == 'track' -%}
+    <a href="{{ page.next.url | relative_url }}">Next track</a>
+{%- endif -%}
+<br><br>
+
+<h3>Lyrics</h3>
 
 {{ content }}

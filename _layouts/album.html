@@ -22,10 +22,21 @@ layout: default
 {% endif %}
 
 
+{% assign current_album_name = page.path | split: "/" | slice: 1 %}
+{% assign press_mains = site.press | where: "layout", "press_main" %}
+
+{%- for item in press_mains -%}
+    {% assign press_name = item.path | split: "/" | slice: 1 %}
+    {%- if press_name == current_album_name -%}
+        <h2>Go to <a href="{{ item.url | remove: index.html | relative_url }}">album press</a></h2>
+        {% break %}
+    {%- endif -%}
+{%- endfor -%}
+
+
 <h2>Released</h2>
 
-{{ page.date | date: "%B %Y "}}
-<br>
+{{ page.date | date: "%B %Y "}}<br>
 <br>
 
 
