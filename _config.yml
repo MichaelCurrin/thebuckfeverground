@@ -52,7 +52,7 @@ header_pages:
   - "_pages/music.md"
   - "_pages/merch.md"
   #- "_pages/blog.md"
-  #- "_pages/press.md"
+  - "_pages/press.md"
   - "_pages/contact.md"
 
 
@@ -67,13 +67,19 @@ collections:
 
 
 # Set the layouts. Note that the music directory is set to track layout and then just the albums
-# are overriden to use the album layout.
+# are overriden to use the album layout. And for press the index page is the summary and other
+# pages are reviews.
 defaults:
   - scope:
       path: ""
       type: "press"
     values:
-      layout: "press"
+      layout: "press_review"
+  - scope:
+      path: "*/*/index.md"
+      type: "press"
+    values:
+      layout: "press_main"
   - scope:
       path: ""
       type: "shows"
