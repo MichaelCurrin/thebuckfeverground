@@ -1,5 +1,5 @@
 ---
-title: ssh, Björk is in the house
+title: Ssh, Björk is in the house
 ---
 
 ssh, shh, Björk is in the house frying eggs in the kitchen it’s a metaphor, I think, for birth stalled halfway Bonnie ‘Prince’ Billy is out on the porch
