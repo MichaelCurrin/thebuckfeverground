@@ -1,0 +1,12 @@
+---
+headline: Verkeerdevlei review
+author: Miles Keylock
+publication: Rolling Stone
+time: November 2012
+---
+
+Rating: 4 stars.
+
+"Unfortunate of Fucked Up", the centrepiece to Verkeerdevlei, takes the form of a post-apocalyptic game show in which Jaco van Schalkwyk (of Jaco + Z-dog fame) plays a screamo Johan Stemmet diagnosing the State of the Nation as The Buckfever’s Beat poetic Master of Ceremonies, Toast Coetzer, spits newspaper headlines torn from the media machine. As the shorn and shredded outtakes of a culture’s synthetic tales pile up on the cutting-room floor, Van Schalkwyk’s answers give way to glass-shattering screams, laughs and whimpers. The track sets the tone for the album. It is The Buckfever’s most consummate, but also most fucked-up record yet. Recorded in studio, bringing together the full Buckfever family (guitars, keys, bass, drums), it’s fun, experimental, mythic, manic and unprotected. Sonically, it’s flabbergasting, but never flabby; a hybrid that freely mixes poetry, post-punk, electro-volksliedjies and avant-rock. Thematically, it’s messy but refined, self-reflexive and literate but also as awkward as a first kiss, or rather, a first kill. In the end, it’s a joyride, a misheard fable that travels from information superhighways to dusty Karoo tracks, from the mall to the maul, from a deserted Starbucks to a haunted Koeberg Holiday Inn, through a minefield of future decay, artfully finding glimmers of beauty in the blasted bonescrapes and guitar riffs along the way.
+
+This is a new Waste Land, a place where Busi Mhlongo sings lullabies to the ghost of Thurston Moore’s bloodied guitar and Jim Jarmusch’s Ghost Dog battles Johnny Mad Dog’s adolescent hounds of hell (“Bat-Dogs”, “Die Somber Wou” and “Treinreis”). Where a metallic ice princess cooks Matthew van der Want breakfast (“Shh, Björk is in the house”), and where “blood tastes like chocolate” (“Flight to Joburg”). It’s a place where heroes – from Sam Nujoma, Chris Hani, Fidel Castro and the Dalai Lama to Leonard Cohen and Breyten Breytenbach – come unhinged, their singing severed from our history, their songs lost, or perhaps unsung by a nation splintering at the seams. If there is an intended audience, Verkeerdevlei is for the beautiful ones not yet born, a generation that comes after the fact – after the rainbow, the deluge, the endless corruption, the mounting violence, the near-wilderness and the suicidal flood of disinformation that promises to drown us all.
