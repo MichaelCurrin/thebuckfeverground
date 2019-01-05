@@ -1,0 +1,26 @@
+---
+layout: default
+
+# Link the press to an album if there is an album with the same directory name as the press
+# item's directory.
+---
+
+<p>Back to <a href="{{ baseurl }}{% link _pages/press.md %}">Press</a></p>
+
+<h1>{{ page.title }}</h1>
+
+
+{% assign press_album_name = page.path | split: "/" | slice: 1 %}
+{% assign albums = site.music | where: "layout", "album" %}
+
+{%- for album in albums -%}
+    {% assign album_name = album.path | split: "/" | slice: 1 %}
+
+    {%- if album_name == press_album_name -%}
+        <h2>Go to <a href="{{ album.url | remove: index.html | relative_url }}">album</a></h2>
+        {% break %}
+    {%- endif -%}
+{%- endfor -%}
+
+
+{{ content }}

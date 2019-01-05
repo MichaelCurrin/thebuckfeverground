@@ -8,8 +8,7 @@ layout: default
 # Assume the track filenames start with two digits so they can be used for automatic sorting.
 ---
 
-{% assign music_page = site.pages | where: "name", "music.md" | first %}
-<p>Back to <a href="{{ music_page.url | relative_url }}">Music</a></p>
+<p>Back to <a href="{{ baseurl }}{% link _pages/music.md %}">Music</a></p>
 
 <h1>Album: {{ page.title }}</h1>
 
@@ -22,10 +21,21 @@ layout: default
 {% endif %}
 
 
+{% assign current_album_name = page.path | split: "/" | slice: 1 %}
+{% assign press_mains = site.press | where: "layout", "press_main" %}
+
+{%- for item in press_mains -%}
+    {% assign press_name = item.path | split: "/" | slice: 1 %}
+    {%- if press_name == current_album_name -%}
+        <h2>Go to <a href="{{ item.url | remove: index.html | relative_url }}">album press</a></h2>
+        {% break %}
+    {%- endif -%}
+{%- endfor -%}
+
+
 <h2>Released</h2>
 
-{{ page.date | date: "%B %Y "}}
-<br>
+{{ page.date | date: "%B %Y "}}<br>
 <br>
 
 
@@ -44,16 +54,14 @@ layout: default
     {% endif %}
 </ul>
 
-
-Place CD orders with Toast at <a href="mailto:info@toastcoetzer.com">info@toastcoetzer.com</a>.<br>
+To place an order, see the <a href="{{ baseurl }}{% link _pages/merch.md %}">Merch</a> page.<br>
 <br>
 
 {{ content }}
 
-<h2>Tracklist</h2>
+<h2>Tracklist and lyrics</h2>
 
 {% assign album_name = page.path | split: "/" | slice: 1 %}
-
 <ol>
     {% assign all_tracks_sorted = site.music | where: "layout", "track" %}
     {% for track in all_tracks_sorted %}
