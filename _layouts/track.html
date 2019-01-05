@@ -21,12 +21,12 @@ layout: default
 {% endfor %}
 
 {%- if page.previous.layout == 'track' -%}
-    <a href="{{ page.previous.url | relative_url }}">Prev track</a>&nbsp;
+    Previous track: <a href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a><br>
 {%- endif -%}
 {%- if page.next.layout == 'track' -%}
-    <a href="{{ page.next.url | relative_url }}">Next track</a>
+    Next track: <a href="{{ page.next.url | relative_url }}">{{page.next.title}}</a><br>
 {%- endif -%}
-<br><br>
+<br>
 
 <h3>Lyrics</h3>
 
