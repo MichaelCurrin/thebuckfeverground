@@ -4,7 +4,7 @@ publication: levi.co.za
 time: October 2007
 ---
 
-When it comes to best kept secrets in local music - The Buckfever Underground is perhaps Cape Town’s…er…best kept secret! Two years and some after actually completing this – their first full length album – it sees the light of day, and we are all so happy that we all shout yay!
+When it comes to best kept secrets in local music - The Buckfever Underground is perhaps Cape Town’s …er …best kept secret! Two years and some after actually completing this – their first full length album – it sees the light of day, and we are all so happy that we all shout yay!
 
 Y’see TBFU is the type of band that one just doesn’t get to hear all that often. They inhabit this mythical position of a great South African band, that only select few people will ever have seen live. To get them you would have to own or at least track down (good luck!) one of their two other previous releases (Survival Is Personal and the live album Trying To Do Something About This Goddamn Terrible Bleak Winter.)
 

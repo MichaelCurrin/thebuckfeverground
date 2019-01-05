@@ -8,18 +8,9 @@ layout: default
 # Assume the track filenames start with two digits so they can be used for automatic sorting.
 ---
 
-<p>Back to <a href="{{ baseurl }}{% link _pages/music.md %}">Music</a></p>
+<p>Back to <a href="{{ site.baseurl }}{% link _pages/music.md %}">Music</a></p>
 
 <h1>Album: {{ page.title }}</h1>
-
-<h3>{{ page.sub_title | markdownify }}</h3>
-
-{% if page.image %}
-    <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}" alt="{{ page.title }} album cover">
-    <br>
-    <br>
-{% endif %}
-
 
 {% assign current_album_name = page.path | split: "/" | slice: 1 %}
 {% assign press_mains = site.press | where: "layout", "press_main" %}
@@ -32,11 +23,19 @@ layout: default
     {%- endif -%}
 {%- endfor -%}
 
+<h3>{{ page.sub_title | markdownify }}</h3>
 
-<h2>Released</h2>
+<p>Released: {{ page.date | date: "%B %Y "}}</p>
 
-{{ page.date | date: "%B %Y "}}<br>
-<br>
+{% if page.image %}
+    <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}" alt="{{ page.title }} album cover">
+    <br>
+    <br>
+{% endif %}
+
+{% if page.bandcamp %}
+    {% include bandcamp_player.html bandcamp=page.bandcamp %}
+{% endif %}
 
 
 <h2>Order</h2>
@@ -54,12 +53,13 @@ layout: default
     {% endif %}
 </ul>
 
-To place an order, see the <a href="{{ baseurl }}{% link _pages/merch.md %}">Merch</a> page.<br>
-<br>
+<p>To place an order, see the <a href="{{ site.baseurl }}{% link _pages/merch.md %}">Merch</a> page.</p>
+
 
 {{ content }}
 
-<h2>Tracklist and lyrics</h2>
+
+<h2>Tracklist / Lyrics</h2>
 
 {% assign album_name = page.path | split: "/" | slice: 1 %}
 <ol>
@@ -79,4 +79,3 @@ To place an order, see the <a href="{{ baseurl }}{% link _pages/merch.md %}">Mer
 <h2>Production</h2>
 
 {{ page.production }}
-<br>
