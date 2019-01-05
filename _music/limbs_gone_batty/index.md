@@ -5,6 +5,10 @@ date: 2009-06-01
 image: "produkte limbs gone batty cd cover the buckfever underground.jpg"
 price_local: R115 (incl postage in South Africa)
 price_foreign: R130 (including postage to anywhere else in the world)
+bandcamp:
+    id: 571419824
+    name: limbs-gone-batty
+    title: Limbs Gone Batty by BUCKFEVER UNDERGROUND
 production: >-
     Record company: Jaunted Haunts Press.<br>
     <br>
@@ -14,7 +18,6 @@ production: >-
     <br>
     Limited numbered edition of 250 copies only.<br>
 ---
-
 
 ## Buy online
 
