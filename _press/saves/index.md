@@ -1,5 +1,5 @@
 ---
-title: The Buckfever Underground SAVES album press
+title: SAVES album press
 date: 2009-09-01
 ---
 
