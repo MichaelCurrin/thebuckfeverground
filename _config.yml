@@ -3,7 +3,7 @@
 ###############
 
 
-# Site settings
+# Site settings.
 title: The Buckfever Underground
 email: info@toastcoetzer.co.za
 description: Catch the Buckfever
@@ -25,7 +25,7 @@ twitter_username: the_buckfever
 rss: rss
 
 
-# Build settings
+# Build settings.
 markdown: kramdown
 theme: minima
 plugins:
