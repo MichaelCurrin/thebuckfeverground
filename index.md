@@ -7,6 +7,6 @@ Every show is different, with a mix between carefully crafted words and improvis
 
 {% include image.html
     image_path="/assets/images/photos/2018/deep_dream_buckfever.jpg"
-    description="2018 Woodstock shoot, with deep dream filter"
+    description="2018 Woodstock shoot"
     out_link="https://deepdreamgenerator.com/ddream/fpd1znt3mzq"
 %}
