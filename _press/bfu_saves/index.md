@@ -3,16 +3,16 @@ title: The Buckfever Underground SAVES album press
 date: 2009-09-01
 ---
 
-- [Sunday Times]({{ baseurl }}{% link _press/bfu_saves/sunday_times.md %}) January 2008. By Steven van Hemert.
-- [24.com]({{ baseurl }}{% link _press/bfu_saves/24.md %}) November 2007. Steven van Hemert.
-- [Woodstock Slim]({{ baseurl }}{% link _press/bfu_saves/woodstock_slim.md %}) 2007. Clive E Smith.
-- [Empire]({{ baseurl }}{% link _press/bfu_saves/empire.md %}) November 2007. Fred de Vries.
-- [levi.co.za]({{ baseurl }}{% link _press/bfu_saves/levi.md %}) October 2007. Jon Monsoon.
-- [Blunt Magazine]({{ baseurl }}{% link _press/bfu_saves/blunt.md %}) October 2007. Craig McKune.
-- [Beeld]({{ baseurl }}{% link _press/bfu_saves/beeld.md %}) September 2007. The Buckfever het ’n plan, deur Danie Marais.
-- [SL Magazine]({{ baseurl }}{% link _press/bfu_saves/sl_magazine.md %}) October 2007. Daniel Freedman.
-- [jhblive.com]({{ baseurl }}{% link _press/bfu_saves/jhblive.md %}) October 2007. Jon Monsoon.
-- [The Weekender]({{ baseurl }}{% link _press/bfu_saves/weekender.md %}) September 2007. Charles Leonard.
+- [Sunday Times]({{ site.baseurl }}{% link _press/bfu_saves/sunday_times.md %}) January 2008. By Steven van Hemert.
+- [24.com]({{ site.baseurl }}{% link _press/bfu_saves/24.md %}) November 2007. Steven van Hemert.
+- [Woodstock Slim]({{ site.baseurl }}{% link _press/bfu_saves/woodstock_slim.md %}) 2007. Clive E Smith.
+- [Empire]({{ site.baseurl }}{% link _press/bfu_saves/empire.md %}) November 2007. Fred de Vries.
+- [levi.co.za]({{ site.baseurl }}{% link _press/bfu_saves/levi.md %}) October 2007. Jon Monsoon.
+- [Blunt Magazine]({{ site.baseurl }}{% link _press/bfu_saves/blunt.md %}) October 2007. Craig McKune.
+- [Beeld]({{ site.baseurl }}{% link _press/bfu_saves/beeld.md %}) September 2007. The Buckfever het ’n plan, deur Danie Marais.
+- [SL Magazine]({{ site.baseurl }}{% link _press/bfu_saves/sl_magazine.md %}) October 2007. Daniel Freedman.
+- [jhblive.com]({{ site.baseurl }}{% link _press/bfu_saves/jhblive.md %}) October 2007. Jon Monsoon.
+- [The Weekender]({{ site.baseurl }}{% link _press/bfu_saves/weekender.md %}) September 2007. Charles Leonard.
 - **The Weekender** October 2007. Joburg-based Dutch journo Fred de Vries wrote a profile on Toast for the weekend version of Business Day. It's about Buckfever, Ons Klyntji, referendums, the past, Barney Simon and all sorts of stuff. The printed version was slightly edited, and they botched the last sentence, so you can read Fred's original piece here.
 - **JIP / Die Burger** Oktober 2007. Le Roux Schoeman het ons gig kom kyk in Durbanville op 26 September by die Kunskafee en het iets moois geskryf (lees dit eerder hier as om op die link te click, want dis moeilik om te kry, versteek in 'n Van Coke Kartel blog) en 'n great video clip gemaak met deel van ons performance en interview op.
 - **litnet.co.za** November 2007. Riana Wiechers het ons gig op 26 September in Durbanville bygwoon en hierdie gawe review/ interview geskryf.
