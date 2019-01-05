@@ -15,9 +15,7 @@ Hear our music online through these channels:
 
 ## Discography
 
-How can I [order]({{ site.baseurl }}{% link _pages/merch.md %}) a CD?
-
-See details of album releases below, including pricing and lyrics.
+See details of some of our albums below, including lyrics and pricing. To buy, see the [Merch]({{ baseurl }}{% link _pages/merch.md %}) page.
 
 <ul>
     {% assign albums = site.music | where: "layout", "album" | sort: 'date' | reverse %}
