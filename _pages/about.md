@@ -8,7 +8,7 @@ The Buckfever Underground is a South African spoken-word band. We play free-form
 
 ## The name
 
-What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream - we are "underground".
+What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream, we are "underground".
 
 
 {% include image.html
@@ -27,15 +27,13 @@ What does it mean? To have the "buckfever" describes the condition of a hunter o
     out_link="https://www.instagram.com/p/BjDP37clPpo/"
 %}
 
-
 ### Toast Coetzer
 
-Toast Coetzer writes and performs his poetry in both English and Afrikaans.
+Toast Coetzer writes and performs poetry in both English and Afrikaans.
 
-Read more:
+He is a travel writer at Go / Weg travel magazines. He's also one of the co-editors of the oldest (and most erratic) Afrikaans zine in the world, [Ons Klyntji](https://klyntji.com/). He co-hosts The Unhappy Hour on Bush Radio 89.5 fm every Sunday from 6-8 pm in Cape Town.
 
-- [toastcoetzer.com](http://www.toastcoetzer.com/)
-- Toast on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
+Read more on[toastcoetzer.com](http://www.toastcoetzer.com/) or on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
 
 ### Stephen Timm
 
