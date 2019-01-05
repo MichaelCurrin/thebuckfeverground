@@ -33,8 +33,8 @@ layout: default
     <br>
 {% endif %}
 
-{% if page.bandcamp_id %}
-    {% include bandcamp_player.html id=page.bandcamp_id name=page.bandcamp_name title=page.bandcamp_title %}
+{% if page.bandcamp %}
+    {% include bandcamp_player.html bandcamp=page.bandcamp %}
 {% endif %}
 
 

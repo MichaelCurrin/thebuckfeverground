@@ -1,8 +1,8 @@
 <iframe
     style="border: 0; width: 400px; height: 250px;"
-    src="https://bandcamp.com/EmbeddedPlayer/album={{ include.id }}/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/"
+    src="https://bandcamp.com/EmbeddedPlayer/album={{ include.bandcamp.id }}/size=large/bgcol=ffffff/linkcol=63b2cc/artwork=small/transparent=true/"
     seamless>
-        <a href="http://buckfeverunderground.bandcamp.com/album/{{ include.name }}">
-            {{ include.title}}
+        <a href="http://buckfeverunderground.bandcamp.com/album/{{ include.bandcamp.name }}">
+            {{ include.bandcamp.title}}
         </a>
 </iframe>
