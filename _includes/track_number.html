@@ -1,0 +1,8 @@
+{% comment %}
+    Extract the track number from the path of a track collection item. Use .path since .name doesn't
+    seem available in the page layout for the tracks.
+
+    Keep as a string with any leading zeroes.
+{% endcomment %}
+{% assign name = include.track_path | split: "/" | last %}
+{{- name | split: "_" | first -}}
