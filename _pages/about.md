@@ -61,4 +61,4 @@ The picture above is from just after we finished recording our Verkeerdevlei alb
     out_link="https://www.instagram.com/p/BkrwHy8Fqex/"
 %}
 
-The latest member is the guitarist, [Michael Currin](#michael-currin), who joined in 2016.
+The latest member is the guitarist, [Michael Currin](#michael-currin), who joined in 2017.
