@@ -14,12 +14,10 @@ What does it mean? To have the "buckfever" describes the condition of a hunter o
 {% include image.html
     image_path="/assets/images/shows/bu city soiree gerhard house sam reinders the buckfever underground.jpg"
     description="City soiree at Gerhard's house. Photo: Sam Reinders."
-    out_link="https://www.instagram.com/p/BjDP37clPpo/"
 %}
 
 
 ## Current members
-
 
 {% include image.html
     image_path="/assets/images/photos/2018/woodstock.jpg"
