@@ -19,8 +19,8 @@ album_images_dir: /assets/images/albums/
 google_analytics: UA-87705880-3
 
 facebook_username: TheBuckfeverUnderground
-# This is used as the repo path.
-github_username: MichaelCurrin/the-buckfever-underground
+# Replace template's username with a repo.
+github_repo: MichaelCurrin/the-buckfever-underground
 twitter_username: the_buckfever
 rss: rss
 

@@ -29,9 +29,9 @@
         </span>
     {%- endif -%}
 
-    {%- if site.github_username -%}
+    {%- if site.github_repo -%}
         <span>
-            <a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> </a>
+            <a href="https://github.com/{{ site.github_repo }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> </a>
         </span>
     {%- endif -%}
 
