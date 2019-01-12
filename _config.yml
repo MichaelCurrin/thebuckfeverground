@@ -6,7 +6,7 @@
 # Site settings.
 title: The Buckfever Underground
 email: info@toastcoetzer.co.za
-description: Catch the Buckfever
+description: Spoken-word and improvised music. Band in Cape Town, South Africa.
 
 # Require for Github Pages deploy as staging environment.
 baseurl: "/the-buckfever-underground"
