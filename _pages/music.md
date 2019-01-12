@@ -25,3 +25,10 @@ See details of some of our albums below, including lyrics and pricing. To buy, s
         </li>
     {% endfor %}
 </ul>
+
+<br>
+
+{% include image.html
+    image_path="/assets/images/photos/prys die here god the buckfever underground.jpg"
+    description="You wonder how those lyrics happen?"
+%}
