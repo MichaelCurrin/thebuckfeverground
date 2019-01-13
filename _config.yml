@@ -6,7 +6,7 @@
 # Site settings.
 title: The Buckfever Underground
 email: info@toastcoetzer.co.za
-description: Catch the Buckfever
+description: Spoken-word and improvised music. Band in Cape Town, South Africa.
 
 # Require for Github Pages deploy as staging environment.
 baseurl: "/the-buckfever-underground"
@@ -15,8 +15,10 @@ url: ""
 # Album images only need to be referenced by filename as this will be prepended on album pages.
 album_images_dir: /assets/images/albums/
 
-# Use for staging and prod. Filter out localhost and spam views on the GA view.
+# GA is used for both staging and prod. The filters are set on the GA views to be restrictive on
+# those to environments' domains, so will effectively localhost and spam views.
 google_analytics: UA-87705880-3
+bing:
 
 facebook_username: TheBuckfeverUnderground
 # Replace template's username with a repo.

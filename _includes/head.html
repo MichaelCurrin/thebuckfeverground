@@ -9,7 +9,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
+
+    {% seo %}
+
+    {% if site.bing %}
+        <meta name="msvalidate.01" content="{{ site.bing }}" />
+    {% endif %}
+
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
     <style>

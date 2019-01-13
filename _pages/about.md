@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-The Buckfever Underground is a South African spoken-word band. We play free-form improvised jazz-rock / post-rock. We perform in bars, art festivals and lounges.
+The Buckfever Underground is a South African spoken-word band that plays free-form improvised jazz-rock / post-rock.  We perform in bars, art festivals and lounges. We are based in Cape Town though perform shows throughout the Western Cape. Sometimes across the country.
 
 
 ## The name

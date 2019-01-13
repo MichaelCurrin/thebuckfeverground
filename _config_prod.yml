@@ -5,3 +5,6 @@
 
 baseurl: ""
 url: "http://thebuckfeverunderground.co.za"
+
+# Used for verification on Bing Webmaster Tools site.
+bing: 75C503DB2279FEDB811A42BD43783A68
