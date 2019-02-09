@@ -1,0 +1,10 @@
+{% comment %}
+    Insert image tag with hidden description.
+
+    Require args:
+        image_path
+    Optional args:
+        description
+{% endcomment %}
+
+<img src="{{ include.image_path | relative_url }}" alt="{{ include.description }}">
