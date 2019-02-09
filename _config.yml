@@ -32,6 +32,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
+# Include posts, shows, etc. dated in the future.
+future: true
 
 
 exclude:
@@ -53,7 +55,7 @@ header_pages:
   - "_pages/shows.md"
   - "_pages/music.md"
   - "_pages/merch.md"
-  #- "_pages/blog.md"
+  - "_pages/blog.md"
   - "_pages/press.md"
   - "_pages/contact.md"
 
