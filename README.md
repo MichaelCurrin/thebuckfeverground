@@ -88,7 +88,7 @@ Blog posts in the [_posts](/_posts) directory must have hyphens and not undersco
 
 With all the content to build with `jekyll`, the build times are typically over 50 seconds. That is annoying for making small changes and checking the output quickly. The incremental option can be used, but it is limited - for example a certain blog post's page will be updated but the change will not reflect on the listing of blog posts.
 
-Therefore if you are working on a certain area such as blog posts, temporarily delete most of the items in the press, music and/or shows directory. Then your build time will only be about 2 seconds. Note that if there are in `link` values setup for one of those items in the active section, the build will fail.
+Therefore if you are working on a certain area such as blog posts, temporarily delete most of the items in the press, music and/or shows directory. Then your build time will only be about 2 seconds. Be careful with deleting everything though - if `link` calls in the active section become invalid, the build will fail.
 
 When you are done, do a `git checkout <DIR>` on that directory to restore the delete files.
 
