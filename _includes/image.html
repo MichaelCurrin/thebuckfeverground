@@ -1,5 +1,5 @@
 {% comment %}
-    Captioned image.
+    Insert figure containing an image, with optional link and description.
 
     Require args:
         image_path
@@ -12,7 +12,7 @@
     {%- if include.out_link -%}
         <a href="{{ include.out_link }}">
     {%- endif -%}
-            <img src="{{ include.image_path | relative_url }}" alt="{{ include.description }}">
+            {% include image_simple.html %}
     {%- if include.out_link -%}
         </a>
     {%- endif -%}
