@@ -119,3 +119,13 @@ Unfortunately when referencing an index page, this creates a `/index.html` path 
 For inserting images with captions, see the [image figure](_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
 
 If you don't need a frame or caption, use the [image simple](_includes/image_simple.html) function.
+
+## Emails
+
+Surround an e-mail address in angled brackets to make it a link.
+
+```
+<user@example.com>
+# Results in:
+mailto:user@example.com
+```
