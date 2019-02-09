@@ -20,7 +20,7 @@ What does it mean? To have the "buckfever" describes the condition of a hunter o
 ## Current members
 
 {% include image.html
-    image_path="/assets/images/photos/2018/woodstock.jpg"
+    image_path="/assets/images/photos/2018/woodstock bnw.jpg"
     description="2018 shoot in Woodstock. From the left: Michael, Toast and Stephen."
     out_link="https://www.instagram.com/p/BjDP37clPpo/"
 %}
