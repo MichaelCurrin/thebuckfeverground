@@ -101,7 +101,7 @@ However, running the website of a subpath is not supported by the function and t
 e.g.
 
 ```
-{ site.baseurl }}{% link _pages/shows.md %}"
+{{ site.baseurl }}{% link _pages/shows.md %}
 # Results in:
 /the-buckfever-underground/shows/
 ```
