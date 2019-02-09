@@ -31,7 +31,7 @@ Toast Coetzer writes and performs poetry in both English and Afrikaans.
 
 He is a travel writer at Go / Weg travel magazines. He's also one of the co-editors of the oldest (and most erratic) Afrikaans zine in the world, [Ons Klyntji](https://klyntji.com/). He co-hosts The Unhappy Hour on Bush Radio 89.5 fm every Sunday from 6-8 pm in Cape Town.
 
-Read more on[toastcoetzer.com](http://www.toastcoetzer.com/) or on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
+Read more on [toastcoetzer.com](http://www.toastcoetzer.com/) or on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
 
 ### Stephen Timm
 
