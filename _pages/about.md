@@ -3,12 +3,9 @@ title: About
 permalink: /about/
 ---
 
-The Buckfever Underground is a South African spoken-word band that plays free-form improvised jazz-rock / post-rock.  We perform in bars, art festivals and lounges. We are based in Cape Town though perform shows throughout the Western Cape. Sometimes across the country.
+The Buckfever Underground is a South African spoken-word band that plays free-form improvised jazz-rock / post-rock. We perform poetry in English and Afrikaans with experimental music.
 
-
-## The name
-
-What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream, we are "underground".
+We tour yearly - throughout the Western Cape and sometimes across the country. We enjoy playing at bars, homes and arts festivals.
 
 
 {% include image.html
@@ -62,3 +59,8 @@ The picture above is from just after we finished recording our Verkeerdevlei alb
 %}
 
 The latest member is the guitarist, [Michael Currin](#michael-currin), who joined in 2017.
+
+
+## The name
+
+What does it mean? To have the "buckfever" describes the condition of a hunter on his first deer hunt - nervous and jumpy. And since we are not mainstream, we are "underground".

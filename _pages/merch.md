@@ -10,12 +10,16 @@ We do not deliver to Mars yet, unless of course you mean that farm of the same n
 
 ## CDs
 
-{% comment %}Using relative_url does not work on link which is a permalink{% endcomment %}
-
 Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% link _pages/music.md %}) page. Stock is limited.
 
 
 ## Clothing
+
+This is our and what we stand for. It's on a lot of our merch.
+
+{% include image_simple.html
+    image_path="/assets/images/beer and freedom.jpg"
+%}
 
 We have the following available:
 
