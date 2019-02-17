@@ -3,9 +3,9 @@ title: 2019 Laaste Dae-toer
 date: 2019-04-11
 ---
 
-Our _Laaste Dae-toer_ is planned for 11th to 27th April 2019. We'll play shows at least once a day each day and will our new album with us.
+Our _Laaste Dae-toer_ is planned for 11th to 27th April 2019. We'll play shows at least once a day each day and will take our new album with us.
 
-The route tour takes us to Joburg and back, going through the Garden Route, the Eastern Cape and the Western Cape. We'll have one Cape Town show at Alma Café.
+The tour takes us to Joburg and back, going through the Garden Route, the Eastern Cape and the Western Cape. We'll have one Cape Town show at Alma Café near the end.
 
 ## Show dates
 
