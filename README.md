@@ -3,9 +3,9 @@
 
 _Author: [Michael Currin](https://github.com/MichaelCurrin) (web developer and band member)_.
 
-The project uses [Jekyll](http://jekyllrb.com/) to build a static website for The Buckfever Underground. The band's homepage is [thebuckfeverunderground.co.za](http://thebuckfeverunderground.co.za/). For a staging environment, this is deployed as a [Github Pages site](https://michaelcurrin.github.io/the-buckfever-underground/) upon merges to the `develop` branch.
+The project uses [Jekyll](http://jekyllrb.com/) to build a static website for The Buckfever Underground. The band's homepage is [thebuckfeverunderground.co.za](http://thebuckfeverunderground.co.za/) - this is created from the `master` branch and updated via FTP. The site is also deployed on a staging environment hosted as a [Github Pages site](https://michaelcurrin.github.io/the-buckfever-underground/), using the `gh-pages` branch (since `develop` cannot be selected to build from).
 
-The rights to the content of this remain with band or the original creators (such as reviewers or photographers).
+The rights to the content of this remain with band or the original creators (including reviewers and photographers).
 
 Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
 
