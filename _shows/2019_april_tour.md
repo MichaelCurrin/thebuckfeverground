@@ -1,5 +1,5 @@
 ---
-title: 2019 Laaste Dae-toer
+title: April 2019 - Laaste Dae-toer
 date: 2019-04-11
 ---
 
@@ -12,7 +12,7 @@ The tour takes us to Joburg and back, going through the Garden Route, the Easter
 **April**
 
 **11 Thur**<br>
-At a friend's house in Stellenbosch
+Stellenbosch - house gig
 
 **12 Fri**<br>
 Bainskloof - McBains
@@ -21,15 +21,15 @@ Bainskloof - McBains
 Hermanus – Hermanus Brewery
 
 **14 Sun**<br>
-Knysna, house of Louw Claassens & Pieter Verhoef<br>
+Knysna - house of Louw Claassens & Pieter Verhoef<br>
 Address: Cove Street<br>
-Schedule: Doors open 5 pm, SkreeAlleen 5.30 pm, TBU 6.45 pm.<br>
+Schedule: Doors open 5 pm, SkreeAlleen 5.30pm, TBU 6.45pm.<br>
 Cover: R50
 
 **15 Mon**<br>
-Port Elizabeth, huis in Newton Park<br>
+Port Elizabeth - house in Newton Park<br>
 Three acts on the night, including Rikalet<br>
-Ticket price: R120
+Cover: R120
 
 **16 Tue**<br>
 Grahamstown – Provost
@@ -59,14 +59,15 @@ Dewetsdorp - Jimmie Roos-skool<br>
 
 **24 Wed**<br>
 Britstown - The Old Mill Coffee Shop<br>
-Tickets: R80 pp
+Cover: R80
 
 **25 Thu**<br>
-Graaff-Reinet, Legends Sports Bar & Restaurant
+Graaff-Reinet - Legends Sports Bar & Restaurant
 
 **26 Fri**<br>
 Cape Town - Alma Café
 
 **27 Sat (Freedom Day)**<br>
 Darling - Evita se Perron<br>
-8pm. R120 tickets
+8pm.
+Cover: R120
