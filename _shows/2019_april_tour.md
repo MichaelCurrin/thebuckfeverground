@@ -1,5 +1,5 @@
 ---
-title: 2019 April - Laaste Dae-toer
+title: April 2019 - Laaste Dae-toer
 date: 2019-04-11
 ---
 
