@@ -109,10 +109,24 @@ e.g.
 Unfortunately when referencing an index page, this creates a `/index.html` path rather than just `/` which is a duplicate page reference. But this is fine, as an error will be thrown without `index.md` part and also since the link function does not support replacement of the result value in a chain.
 
 ```
-{{ site.baseurl }}{% link _music/verkeerdevlei/index.md %}
+{{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
+
 # Results in:
-/the-buckfever-underground/music/verkeerdevlei/index.html
+/the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
+
+When this is needed to be assigned to a variable or used in an `includes` statement, then use `capture` as shown below. This is necessary since the `link` filter cannot be set to a variable using `assign`. The `capture` approach also means the `append` filter is not needed so the syntax looks cleaner.
+
+```
+{% capture album_link %}
+   {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
+{% endcapture %}
+{{ album_link }}
+
+# Results in:
+/the-buckfever-underground/music/last_days_of_beautiful/index.html
+```
+
 
 ## Images
 
