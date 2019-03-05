@@ -17,6 +17,7 @@ production: >-
     <br>
 ---
 
+A book of the album's lyrics is also available. The price for the CD with the book is R300.
 
 ## Buy online
 
