@@ -3,6 +3,8 @@
 
 Official website of The Buckfever Underground. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
+Our new album is released. Listen and buy online - [The Last Days of Beautiful]({{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}).
+
 
 {% capture album_link %}
    {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
@@ -10,7 +12,7 @@ Official website of The Buckfever Underground. We are also on [Facebook](https:/
 {% include image.html
     image_path="/assets/images/albums/Last Days of Beautiful large.jpg"
     out_link=album_link
-    description="New album - released March 3rd, 2019."
+    description="Released March 3rd, 2019."
 %}
 
 
