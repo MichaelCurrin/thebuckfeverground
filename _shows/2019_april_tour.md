@@ -9,65 +9,193 @@ The tour takes us to Joburg and back, going through the Garden Route, the Easter
 
 ## Show dates
 
-**April**
+_All shows with SkreeAlleen as support_
 
-**11 Thur**<br>
-Stellenbosch - house gig
 
-**12 Fri**<br>
-Bainskloof - McBains
+### 11 Thurs
 
-**13 Sat**<br>
-Hermanus – Hermanus Brewery
+-   **Stellenbosch – Trude Gunther se huis**
 
-**14 Sun**<br>
-Knysna - house of Louw Claassens & Pieter Verhoef<br>
-Address: Cove Street<br>
-Schedule: Doors open 5 pm, SkreeAlleen 5.30pm, TBU 6.45pm.<br>
-Cover: R50
+    ’n Rare nag in die berge buite Stellenbosch. Kom verdwaal bietjie in jou eie gedagtes...
 
-**15 Mon**<br>
-Port Elizabeth - house in Newton Park<br>
-Three acts on the night, including Rikalet<br>
-Cover: R120
+    Kaartjies: R100
 
-**16 Tue**<br>
-Grahamstown – Provost
+    Besprekings noodsaaklik: <info@toastcoetzer.com>
 
-**17 Wed**<br>
-Somerset East (lunch)<br>
-Cradock – Victoria Manor (evening)
+    This event will be held at a secret location on the Jonkershoek road. All guests will be notified of the exact location closer to the time – bookings are therefore essential. The show will be child-friendly and we encourage families to attend. Bring your own drinks and snacks.
 
-**18 Thu**<br>
-Bethulie (lunch)<br>
-Smithfield (evening) – Bowling Club
+    Order of events: Arrive anytime from 6.30 pm to enjoy the garden and grounds. SkreeAlleen begin om 8 nm. en The Buckfever Underground om 9 nm.
 
-**19 Fri (Good Friday)**<br>
-Rosendal
+### 12 Fri
 
-**20 Sat**<br>
-Joburg - Dunkelder Onafhanklike Teater
+-   **Bainskloof (Wellington) - McBains**
 
-**21 Sun**<br>
-Pretoria – Marguerite se huis in Rietondale
+    This is going to be pure magic. We recorded some of our new album here in 2018, and it’s great to be back! Come stay over and make full use of the fresh mountain air (and maybe even the hot tub...)
 
-**22 Mon (Family Day)**<br>
-TBC
+    Tickets & accommodation: R500 pp Friday night, includes accommodation, show and light meal. Hosts Justin Nurse & Ma’ayan Hamilton encourage everyone to hang around and enjoy the splendour of the mountains for the whole weekend. For guests planning to stay for the whole weekend: accommodation for Saturday night (and Sunday night) is R400 pppn and R300 for kids under 16.
 
-**23 Tue**<br>
-Dewetsdorp - Jimmie Roos-skool<br>
+    Bookings: <mcbains3000@gmail.com>
 
-**24 Wed**<br>
-Britstown - The Old Mill Coffee Shop<br>
-Cover: R80
 
-**25 Thu**<br>
-Graaff-Reinet - Legends Sports Bar & Restaurant
+### 13 Sat
 
-**26 Fri**<br>
-Cape Town - Alma Café
+-   **Hermanus – Hermanus Brewery**
 
-**27 Sat (Freedom Day)**<br>
-Darling - Evita se Perron<br>
-8pm.
-Cover: R120
+    We’re in the Overberg, it’s weekend and there will be beer – no further encouragement required then.
+
+    Free show (donations welcome)
+
+    Start time TBC
+
+### 14 Sun
+
+-   **Knysna – House of Louw Claassens & Pieter Verhoef**
+
+    Louw and Pieter are our only fans in Knysna (as far as we know), so we decided to throw a party at their house. We’ll be talking about seahorses and environmental impact assessments and, quite likely, beer and freedom.
+
+    Tickets: R50 at the door
+
+    Address: Cove Street
+
+    Schedule: Doors open 5 pm, SkreeAlleen 5.30 pm, The Buckfever Underground on at 6.45 pm.
+
+### 15 Mon
+
+-   **Port Elizabeth – Jill’s House in Newton Park**
+
+    Tonight there will be three bands on the bill: we’re joined by local act Rikalet. The gig is in the suburbs, in a big garage. Bring your own drinks and snacks. Kids welcome – make a family outing of it before the schools start again...
+
+    Tickets: R100 at the door
+
+    Start time: TBC but late afternoon
+
+    Bookings essential (you’ll be sent the exact address): <info@toastcoetzer.com>
+
+### 16 Tue
+
+-   **Grahamstown – The Provost Café**
+
+    This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at Madhatter’s in High Street but the real show is the evening at historic The Provost Café. Well be joined by our long-time guitarist _Righard Kapp_, and local act _Bitterbos_.
+
+    Tickets: R50 pre-booked, otherwise R75 at the door
+
+    Bookings: <shimri@theprovostcafe.co.za>
+
+### 17 Wed
+
+-   **Lunchtime (11 am): Somerset East – Karoo Tech Hub**
+-   **Evening:  Cradock – Victoria Manor**
+
+    Today we squeeze in two shows, with a free show in Somerset East’s Karoo Tech Hub in the morning and a full length performance that evening in Cradock’s stately Victoria Manor. This is all home turf to Toast: he went to school in Somerset East and was born in Cradock.
+
+    Cradock show tickets will be R125, which includes a light meal.
+
+    Bookings at <lisa@tuishuise.co.za>
+
+### 18 Thu
+
+-   **Lunchtime (11 am): Bethulie – Bethulie Boekehotel**
+-   **Evening: Smithfield – Bowling Club**
+
+    Have you ever been to the Boekehotel (the old Royal Hotel) in Bethulie? It’s full of books and run by the very special Mr Anthony Hocking. We’re really just performing here to have a cup of tea with him. It’s a short, free promo show meant to entice you to come check out our full performance in the evening in Smithfield, centre of the universe in so many ways. We’ve played here before and we’re so happy to be back. It’s at the Bowling Club and Mr Greg May is our host.
+
+    Bookings: <gregmay52@gmail.com>
+
+    Ticket price for Smithfield TBC
+
+### 19 Fri (Good Friday)
+
+-   **Rosendal – Yolla’s**
+
+    Dis goeie Vrydag en die goeie nuus is dat ons in Rosendal is, seker een van die Vrystaat se mooiste dorpe. Ons jol by Yolla’s, waar die jol gewaarborg word!
+
+    Kaartjies: R50 by die deur
+
+    Begintyd: 8 nm.
+
+### 20 Sat
+
+-   **Joburg - Dunkelder Onafhanklike Teater**
+
+    We’re in Gauteng for the weekend and tonight’s show will be a bumper 3-bill night featuring the magnificent Hymn_self (aka Siyabonga Mthembu from The Brother Moves On). Don’t miss this one!
+
+    Tickets: R150
+
+    Bookings essential, limited seating: <bespreeknou@gmail.com>
+
+### 21 Sun
+
+-   **Pretoria – Marguerite se huis in Rietondale**
+
+    Ons is in Pretoria vanaand in ’n agtertuin vol boom en ster, en Gerhard Barnard (Plank, Brixton Moord & Roof Orkes) maak ’n cameo. Als soos dit hoort.
+
+    Kaartjies: Pretoria show tickets will be R100 at the door
+
+    Besprekings noodsaaklik: <info@toastcoetzer.com>
+
+### 22 Mon (Family Day)
+
+-   **Clarens – Mt Horeb Manor**
+
+    Die beste gastehuis in die ganse Clarens speel vanaand gasheer vir ons show. Kom vroeg – 5.30 nm. want die eerste band begin al 6 nm. Ons proe heel moontlik rum ook...
+
+    Kaartjies: R100
+
+    Besprekings: Ursula Marx 076 3922 605
+
+### 23 Tue
+
+-   **Dewetsdorp – Die Stoep @ Gemsboklaan**
+
+    Die show is net buite Dewetsdorp by die Jimmie Roos-skool, meer spesifiek by Stéfan Burger se huis, en spesifiek op sy stoep, bekend as Die Stoep @ Gemsboklaan.
+
+    Toegang gratis – donasies welkom
+
+    Besprekings: <info@toastcoetzer.com>
+
+### 24 Wed
+
+-   **Britstown – The Old Mill Coffee Shop**
+
+    Op pad Britstown toe speel ons dalk ’n kort show’tjie by die Kuilfontein-padstal suid van Springfontein. Sorg dat jy so 11 vm. daar is – as niks gebeur nie, dan eet ons maar pasteie. Dan is dit tyd vir die Noord-Kaap, en Britstown!
+
+    Kaartjies: R80
+
+    Besprekings: Talita Pringle
+
+### 25 Thurs
+
+-   **Graaff-Reinet – Hartland Huis**
+
+    Van die Noord-Kaap terug Oos-Kaap toe, en hierdie slag in die Kamdeboo. Dawid en Karlien de Wet van Toerboer se huis in Graaff-Reinet (eintlik die agterplaas) is waar ons vanaand speel. Dis by Noordstraat 38.
+
+    Bespreek by <karlien@hartlandmedia.co.za>
+
+    Kaartjies: R50
+
+### 26 Fri
+
+-   **Brunch: Leeu-Gamka**
+-   **Evening: Cape Town - Alma Café**
+
+    First we take Leeu-Gamka, then Cape Town
+
+    Today we drive to Cape Town but we linger at a favourite farm stall near Leeu-Gamka for an informal, short show (and ginger beer...) between 11 am-12 pm: Rietfontein-padstal. Then we put foot down the N1 for Cape Town and a home-coming of sorts at one of the city’s best venues, The Alma Café.
+
+    Bookings essential for Alma Café: 021 6857377 (leave a message on the answering machine)
+
+    Tickets: R180, includes meal (hamburger)
+
+    Start: 7 pm for 7.30 pm start of first band
+
+### 27 Sat (Freedom Day)
+
+-   **Darling – Evita se Perron**
+
+    The tour comes to a glorious end (at least that’s how we’re scripting it for now) in Darling on the West Coast at the legendary Evita se Perron. A real honour to play here.
+
+    Tickets: R120
+
+    Show starts: 8 pm
+
+    Bookings: (022) 492 2831 (022) 492 3427 Email: <evita@evita.co.za>
