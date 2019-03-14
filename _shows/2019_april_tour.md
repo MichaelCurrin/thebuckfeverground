@@ -99,7 +99,7 @@ _All shows with SkreeAlleen as support_
 
     Have you ever been to the Boekehotel (the old Royal Hotel) in Bethulie? It’s full of books and run by the very special Mr Anthony Hocking. We’re really just performing here to have a cup of tea with him. It’s a short, free promo show meant to entice you to come check out our full performance in the evening in Smithfield, centre of the universe in so many ways. We’ve played here before and we’re so happy to be back. It’s at the Bowling Club and Mr Greg May is our host.
 
-    Ticket price: R120 pp with light meal included, start time: 7 pm.
+    Ticket price: R130 pp with light meal included, start time: 7 pm.
 
     Bookings: <gregmay52@gmail.com>
 
@@ -149,9 +149,9 @@ _All shows with SkreeAlleen as support_
 
     Die show is net buite Dewetsdorp by die Jimmie Roos-skool, meer spesifiek by Stéfan Burger se huis, en spesifiek op sy stoep, bekend as Die Stoep @ Gemsboklaan.
 
-    Toegang gratis – donasies welkom
+    Kaartjies: R150
 
-    Besprekings: <info@toastcoetzer.com>
+    Besprekings: <jahnconroytablet@gmail.com> of WhatsApp _072 473 1188_
 
 ### 24 Wed
 
