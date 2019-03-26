@@ -8,7 +8,7 @@ Official website of The Buckfever Underground. We are also on [Facebook](https:/
 
 We're touring from Cape Town to Joburg and back over 2 weeks.
 
-See the full gig list for [Die Laaste Dae-toer]({{ site.baseurl }}{% link _shows/2019_april_tour.md %}).
+See the full gig list for [Laaste Dae-toer]({{ site.baseurl }}{% link _shows/2019_april_tour.md %}).
 
 
 ## Album launch
