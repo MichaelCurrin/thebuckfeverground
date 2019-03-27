@@ -15,7 +15,7 @@ Inspiration for some layout of the site comes from [Sample Band Sites](https://b
 Follow this [Jekyll setup and run gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to get the repo and dependencies setup.
 
 ```bash
-$ script/install.sh
+$ bin/install.sh
 ```
 
 
@@ -28,7 +28,7 @@ Build the static site to [_site_prod](_site_prod) directory.
 Uses configuration for the remote-hosted site (other than Github Pages).
 
 ```bash
-$ script/prod/build.sh
+$ bin/prod/build.sh
 ```
 
 ### Test
@@ -36,7 +36,7 @@ $ script/prod/build.sh
 Optionally start a server in that directory to check everything built as expected.
 
 ```bash
-$ script/prod/serve.sh
+$ bin/prod/serve.sh
 ```
 
 The domain in the source will be for prod (which affects SEO, sitemap and RSS) but the structure and layout should still be fine to look at in the browser.
@@ -60,7 +60,7 @@ Build and the serve the site locally using the [_site](_site) directory.
 #### Root path
 
 ```bash
-$ script/dev/serve.sh
+$ bin/dev/serve.sh
 ```
 
 Open in the browser: http://localhost:4000
@@ -70,7 +70,7 @@ Open in the browser: http://localhost:4000
 Or, run this script instead to simulate running on a subpath (as if on Page Project on Github Pages).
 
 ```bash
-$ script/dev/serve_subpath.sh
+$ bin/dev/serve_subpath.sh
 ```
 
 Open in the browser: http://localhost:5000/the-buckfever-underground/
