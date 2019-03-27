@@ -26,7 +26,7 @@ See the full gig list for [Laaste Dae-toer]({{ tour_url }}).
 
 ## Latest album
 
-Our new album is released. Listen and buy online - [The Last Days of Beautiful](album_url).
+Our new album is released. Listen and buy online - [The Last Days of Beautiful]({{ album_url }}).
 
 {% include image_simple.html
     image_path="/assets/images/albums/Last Days album pile 500px.jpg"
