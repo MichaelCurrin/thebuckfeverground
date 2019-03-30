@@ -15,7 +15,7 @@ Official website of The Buckfever Underground. We are also on [Facebook](https:/
 ## Shows
 
 {% include image_simple.html
-    image_path="/assets/images/promo/tour flyer cropped 800px.jpg"
+    image_path="/assets/images/promo/tour flyer.svg"
     description="Tour flyer"
 %}
 
@@ -115,6 +115,11 @@ We're touring from Cape Town to Joburg. We've got at least one show a day betwee
         }
     })();
 </script>
+
+{% include image_simple.html
+    image_path="/assets/images/promo/laaste dae artwork.svg"
+    description="Laaste Dae-tour artwork"
+%}
 
 
 ## Latest album
