@@ -1,0 +1,13 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    // Turn off markdown spellchecking if on at the Workspace level, otherwise poems look noisy esp in Afrikaans.
+    "spellright.documentTypes": [
+        "plaintext"
+    ],
+    // Use "Jenkyl HTML" format for all markdown files. Only the README.md is pure markdown and so will not format correctly.
+    "files.associations": {
+        "*.md": "jekyll"
+    }
+}
