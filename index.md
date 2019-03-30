@@ -19,7 +19,7 @@ Official website of The Buckfever Underground. We are also on [Facebook](https:/
     description="Tour flyer"
 %}
 
-We're touring from Cape Town to Joburg. We've got at least one show a day between 11th and 27th April. See the full [Laaste Dae-toer]({{ tour_url }}) show list.
+We're touring from Cape Town to Joburg. We've got at least one show a day between 11th and 27th April. See the full [Laaste Dae-toer gig list]({{ tour_url }}) for bookings, prices and venue details.
 
 <div id="show-list"></div>
 <script>
@@ -118,7 +118,7 @@ We're touring from Cape Town to Joburg. We've got at least one show a day betwee
 
 {% include image_simple.html
     image_path="/assets/images/promo/laaste dae artwork.svg"
-    description="Laaste Dae-tour artwork"
+    description="Laaste Dae-toer artwork"
 %}
 
 
