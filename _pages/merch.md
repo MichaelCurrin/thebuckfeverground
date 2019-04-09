@@ -19,7 +19,7 @@ Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% li
     {{ "/assets/images/merch/last days tour shirt.jpg" | relative_url }}
 {% endcapture %}
 {% include image.html
-    image_path="/assets/images/merch/last days tour shirt.jpg"
+    image_path="/assets/images/merch/last days tour shirt resized.jpg"
     out_link=shirt_relative
     description="Limited edition t-shirt, available only at shows during April. Cost: R220. Men's or Women's cut."
 %}
