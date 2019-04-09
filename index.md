@@ -118,7 +118,7 @@ This April we're touring from Cape Town to Joburg. We've got at least one show a
 </script>
 
 {% capture shirt_relative %}
-    {{ "/assets/images/merch/last days tour shirt.jpg" | relative_url }}
+    {{ "/assets/images/merch/last days tour shirt resized.jpg" | relative_url }}
 {% endcapture %}
 {% include image.html
     image_path="/assets/images/merch/last days tour shirt resized.jpg"
