@@ -93,6 +93,7 @@ This April we're touring from Cape Town to Joburg. We've got at least one show a
         ];
 
         var today = new Date();
+        today.setUTCHours(0, 0, 0, 0);
         tour = tour.filter(show => new Date(show.date) >= today);
         var div = document.getElementById('show-list');
 
