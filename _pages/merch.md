@@ -8,7 +8,6 @@ Place your orders for CDs or clothing with Toast at <info@toastcoetzer.com> .
 We do not deliver to Mars yet, unless of course you mean that farm of the same name just north of Hotazel in the Northern Cape. We've been there and it was nice.
 
 
-
 ## CDs
 
 Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% link _pages/music.md %}) page. Stock is limited.
