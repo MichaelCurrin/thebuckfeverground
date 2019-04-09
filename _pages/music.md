@@ -9,7 +9,7 @@ Hear our music online through these channels:
 
 - [Band Camp](https://buckfeverunderground.bandcamp.com/)
 - [Apple Music](https://itunes.apple.com/ca/artist/the-buckfever-underground/265957199)
-- [Soundcloud](https://soundcloud.com/thebuckfeverunderground)
+- [SoundCloud](https://soundcloud.com/thebuckfeverunderground)
 - [CD Baby](https://store.cdbaby.com/Artist/TheBuckfeverUnderground)
 
 

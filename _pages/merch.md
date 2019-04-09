@@ -15,16 +15,25 @@ Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% li
 
 ## Clothing
 
-This is our and what we stand for. It's on a lot of our merch.
-
-{% include image_simple.html
-    image_path="/assets/images/beer and freedom.jpg"
+{% capture shirt_relative %}
+    {{ "/assets/images/merch/last days tour shirt resized.jpg" | relative_url }}
+{% endcapture %}
+{% include image.html
+    image_path="/assets/images/merch/last days tour shirt resized.jpg"
+    out_link=shirt_relative
+    description="Limited edition t-shirt, available only at shows during April. Cost: R220. Men's or Women's cut."
 %}
 
-We have the following available:
+<div class="medium">
+    {% include image.html
+        image_path="/assets/images/merch/Sit Dit Af tshirt.png"
+        description="Caps and t-shirts in Men's and Women's cuts."
+    %}
+</div>
 
-- t-shirts
-- hoodies
-- caps
-
-See photos [here](https://www.instagram.com/stories/highlights/17949376867078598/).
+<div class="medium">
+    {% include image.html
+        image_path="/assets/images/merch/Sit Dit Af hoodie.png"
+        description="Hoodies."
+    %}
+</div>

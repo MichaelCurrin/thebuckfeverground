@@ -1,7 +1,7 @@
 ---
 title: Last Days of Beautiful
 date: 2019-03-03
-image: "Last Days of Beautiful small.png"
+image: "Last Days of Beautiful large.jpg"
 price_local: R200 (incl postage in South Africa)
 price_foreign: enquire about postage elsewhere, we make plan
 bandcamp:
@@ -18,6 +18,12 @@ production: >-
 ---
 
 Stock of the CDs is limited. A book of the album's lyrics is also available. The price for the CD with the book is R300.
+
+{% include image.html
+    image_path="/assets/images/merch/Last Days book.jpg"
+    description="Book of the album's lyrics"
+%}
+
 
 ## Buy online
 
