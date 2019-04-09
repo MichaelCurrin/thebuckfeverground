@@ -9,9 +9,9 @@
 {% endcapture %}
 
 
-{% include image_simple.html
+{% include image.html
     image_path="/assets/images/promo/tour flyer.svg"
-    description="Tour flyer"
+    out_link=tour_url
 %}
 
 Official website of The Buckfever Underground. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
@@ -134,6 +134,7 @@ Our new album is released. Listen and buy online - [The Last Days of Beautiful](
 {% include image.html
     image_path="/assets/images/albums/Last Days album pile original.jpg"
     description="Last Days of Beautiful albums"
+    out_link=album_url
 %}
 
 
