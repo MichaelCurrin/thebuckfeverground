@@ -17,6 +17,8 @@ production: >-
     <br>
 ---
 
+> "Soos altyd is dit fassinerende werk wat die polsslag van die huidige Suid-Afrika feilloos weergee." – Luc Renders
+
 Stock of the CDs is limited. A book of the album's lyrics is also available. The price for the CD with the book is R300.
 
 {% include image.html
