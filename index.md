@@ -129,13 +129,14 @@ This April we're touring from Cape Town to Joburg. We've got at least one show a
 
 ## Latest album
 
-Our new album is released. Listen and buy online - [The Last Days of Beautiful]({{ album_url }}).
+We released this in 2019. Listen and buy it online here - [The Last Days of Beautiful]({{ album_url }}).
 
 {% include image.html
     image_path="/assets/images/albums/Last Days album pile original.jpg"
-    description="Last Days of Beautiful albums"
     out_link=album_url
 %}
+
+> "Soos altyd is dit fassinerende werk wat die polsslag van die huidige Suid-Afrika feilloos weergee." – Luc Renders
 
 
 ## Photos
