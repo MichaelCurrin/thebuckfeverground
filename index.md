@@ -9,17 +9,17 @@
 {% endcapture %}
 
 
+{% include image.html
+    image_path="/assets/images/promo/tour flyer.svg"
+    out_link=tour_url
+%}
+
 Official website of The Buckfever Underground. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
 
-## Shows
+## 2019 tour shows
 
-{% include image_simple.html
-    image_path="/assets/images/promo/tour flyer.svg"
-    description="Tour flyer"
-%}
-
-We're touring from Cape Town to Joburg. We've got at least one show a day between 11th and 27th April. See the full [Laaste Dae-toer gig list]({{ tour_url }}) for bookings, prices and venue details.
+This April we're touring from Cape Town to Joburg. We've got at least one show a day between 11th and 27th April. See the full [Laaste Dae-toer gig list]({{ tour_url }}) for bookings, prices and venue details.
 
 <div id="show-list"></div>
 <script>
@@ -93,6 +93,7 @@ We're touring from Cape Town to Joburg. We've got at least one show a day betwee
         ];
 
         var today = new Date();
+        today.setUTCHours(0, 0, 0, 0);
         tour = tour.filter(show => new Date(show.date) >= today);
         var div = document.getElementById('show-list');
 
@@ -116,20 +117,26 @@ We're touring from Cape Town to Joburg. We've got at least one show a day betwee
     })();
 </script>
 
-{% include image_simple.html
-    image_path="/assets/images/promo/laaste dae artwork.svg"
-    description="Laaste Dae-toer artwork"
+{% capture shirt_relative %}
+    {{ "/assets/images/merch/last days tour shirt resized.jpg" | relative_url }}
+{% endcapture %}
+{% include image.html
+    image_path="/assets/images/merch/last days tour shirt resized.jpg"
+    out_link=shirt_relative
+    description="Limited edition t-shirt, available only at shows during April. Cost: R220. Men's or Women's cut."
 %}
 
 
 ## Latest album
 
-Our new album is released. Listen and buy online - [The Last Days of Beautiful]({{ album_url }}).
+We released this in 2019. Listen and buy it online here - [The Last Days of Beautiful]({{ album_url }}).
 
-{% include image_simple.html
-    image_path="/assets/images/albums/Last Days album pile 500px.jpg"
-    description="Last Days of Beautiful albums"
+{% include image.html
+    image_path="/assets/images/albums/Last Days album pile original.jpg"
+    out_link=album_url
 %}
+
+> "Soos altyd is dit fassinerende werk wat die polsslag van die huidige Suid-Afrika feilloos weergee." – Luc Renders
 
 
 ## Photos
