@@ -8,13 +8,12 @@ date: 2019-04-11
     description="Laaste Dae-toer poster"
 %}
 
-Our _Laaste Dae-toer_ is planned for 11th to 27th April 2019. We'll play shows at least once a day each day and will take our new album on the road with us.
+Our _Laaste Dae-toer_ is between 11th and 27th April 2019. We'll play shows at least once a day each day and will take our new album on the road with us.
 
 
 ## Show dates
 
-_All shows with SkreeAlleen as support_
-
+Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/). All shows with SkreeAlleen as support.
 
 ### 11 Thurs
 
