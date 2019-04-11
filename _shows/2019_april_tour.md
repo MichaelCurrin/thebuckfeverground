@@ -47,9 +47,9 @@ _All shows with SkreeAlleen as support_
 
     We’re in the Overberg, it’s weekend and there will be beer – no further encouragement required then.
 
-    Free show (donations welcome)
+    Free entry (donations welcome)
 
-    Start time TBC
+    Start time: 6 pm
 
 ### 14 Sun
 
@@ -71,7 +71,7 @@ _All shows with SkreeAlleen as support_
 
     Tickets: R100 at the door
 
-    Start time: TBC but late afternoon
+    Start time: 7 pm
 
     Bookings essential (you’ll be sent the exact address): <info@toastcoetzer.com>
 
