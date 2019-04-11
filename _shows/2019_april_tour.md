@@ -17,7 +17,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 11 Thurs
 
--   **Stellenbosch – Trude Gunther se huis**
+-   **Stellenbosch – Trude Gunther se huis** ([FB event](https://www.facebook.com/events/2000784496894644/))
 
     ’n Rare nag in die berge buite Stellenbosch. Kom verdwaal bietjie in jou eie gedagtes...
 
@@ -31,7 +31,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 12 Fri
 
--   **Bainskloof (Wellington) - McBains**
+-   **Bainskloof (Wellington) - McBains** ([FB page](https://www.facebook.com/McBains3000/))
 
     This is going to be pure magic. We recorded some of our new album here in 2018, and it’s great to be back! Come stay over and make full use of the fresh mountain air (and maybe even the hot tub...)
 
@@ -42,7 +42,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 13 Sat
 
--   **Hermanus – Hermanus Brewery**
+-   **Hermanus – Hermanus Brewery** ([FB page](https://www.facebook.com/Hermanus-Brewing-Company-1538595046392045/))
 
     We’re in the Overberg, it’s weekend and there will be beer – no further encouragement required then.
 
@@ -52,7 +52,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 14 Sun
 
--   **Knysna – House of Louw Claassens & Pieter Verhoef**
+-   **Knysna – House of Louw Claassens & Pieter Verhoef** ([FB event](https://www.facebook.com/events/1200877810088531/))
 
     Louw and Pieter are our only fans in Knysna (as far as we know), so we decided to throw a party at their house. We’ll be talking about seahorses and environmental impact assessments and, quite likely, beer and freedom.
 
@@ -64,7 +64,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 15 Mon
 
--   **Port Elizabeth – Jill’s House in Newton Park**
+-   **Port Elizabeth – Guy and Jill’s garage in Newton Park** ([FB event](https://www.facebook.com/events/292795704745305/))
 
     Tonight there will be three bands on the bill: we’re joined by local act Rikalet. The gig is in the suburbs, in a big garage. Bring your own drinks and snacks. Kids welcome – make a family outing of it before the schools start again...
 
@@ -76,7 +76,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 16 Tue
 
--   **Grahamstown – The Provost Café**
+-   **Grahamstown – The Provost Café** ([FB page](https://www.facebook.com/TheProvostCafe/))
 
     This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at Madhatter’s in High Street but the real show is the evening at historic The Provost Café. Well be joined by our long-time guitarist _Righard Kapp_, and local act _Bitterbos_.
 
@@ -86,8 +86,8 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 17 Wed
 
--   **Lunchtime (11 am): Somerset East – Karoo Tech Hub**
--   **Evening:  Cradock – Victoria Manor**
+-   **Lunchtime (11 am): Somerset East – Karoo Tech Hub** ([venue](http://karoospace.co.za/karoo-tech-hub-in-somerset-east/))
+-   **Evening:  Cradock – Victoria Manor** ([FB page](https://www.facebook.com/Die-Tuishuise-and-Victoria-Manor-136141926404283/))
 
     Today we squeeze in two shows, with a free show in Somerset East’s Karoo Tech Hub in the morning and a full length performance that evening in Cradock’s stately Victoria Manor. This is all home turf to Toast: he went to school in Somerset East and was born in Cradock.
 
@@ -97,8 +97,8 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 18 Thu
 
--   **Lunchtime (11 am): Bethulie – Bethulie Boekehotel**
--   **Evening: Smithfield – Bowling Club**
+-   **Lunchtime (11 am): Bethulie – Bethulie Boekehotel** ([venue](http://karoospace.co.za/bethulies-amazing-book-hotel/))
+-   **Evening: Smithfield – Bowling Club** ([FB event](https://www.facebook.com/events/smithfield-free-state/smithfield-bowling-club/251966232402590/))
 
     Have you ever been to the Boekehotel (the old Royal Hotel) in Bethulie? It’s full of books and run by the very special Mr Anthony Hocking. We’re really just performing here to have a cup of tea with him. It’s a short, free promo show meant to entice you to come check out our full performance in the evening in Smithfield, centre of the universe in so many ways. We’ve played here before and we’re so happy to be back. It’s at the Bowling Club and Mr Greg May is our host.
 
@@ -108,7 +108,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 19 Fri (Good Friday)
 
--   **Rosendal – Yolla’s**
+-   **Rosendal – Yolla’s** ([FB event](https://www.facebook.com/events/399647760769709/))
 
     Dis goeie Vrydag en die goeie nuus is dat ons in Rosendal is, seker een van die Vrystaat se mooiste dorpe. Ons jol by Yolla’s, waar die jol gewaarborg word!
 
@@ -118,7 +118,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 20 Sat
 
--   **Joburg - Dunkelder Onafhanklike Teater**
+-   **Joburg - Dunkelder Onafhanklike Teater** ([FB page](https://www.facebook.com/dunkelderteater/))
 
     We’re in Gauteng for the weekend and tonight’s show will be a bumper 3-bill night featuring the magnificent Hymn_self (aka Siyabonga Mthembu from The Brother Moves On). Don’t miss this one!
 
@@ -128,7 +128,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 21 Sun
 
--   **Pretoria – Marguerite se huis in Rietondale**
+-   **Pretoria – Marguerite se huis in Rietondale** ([FB event](https://www.facebook.com/events/463872650815945/))
 
     Ons is in Pretoria vanaand in ’n agtertuin vol boom en ster, en Gerhard Barnard (Plank, Brixton Moord & Roof Orkes) maak ’n cameo. Als soos dit hoort.
 
@@ -138,7 +138,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 22 Mon (Family Day)
 
--   **Clarens – Mt Horeb Manor**
+-   **Clarens – Mt Horeb Manor** ([FB page](https://www.facebook.com/horebmanor/))
 
     Die beste gastehuis in die ganse Clarens speel vanaand gasheer vir ons show. Kom vroeg – 5.30 nm. want die eerste band begin al 6 nm. Ons proe heel moontlik rum ook...
 
@@ -148,7 +148,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 23 Tue
 
--   **Dewetsdorp – Die Stoep @ Gemsboklaan**
+-   **Dewetsdorp – Die Stoep @ Gemsboklaan** ([FB event](https://www.facebook.com/events/243521523265773/))
 
     Die show is net buite Dewetsdorp by die Jimmie Roos-skool, meer spesifiek by Stéfan Burger se huis, en spesifiek op sy stoep, bekend as Die Stoep @ Gemsboklaan.
 
@@ -158,7 +158,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 24 Wed
 
--   **Britstown – The Old Mill Coffee Shop**
+-   **Britstown – The Old Mill Coffee Shop** ([FB page](https://www.facebook.com/Theoldmillcoffeeshop/))
 
     Op pad Britstown toe speel ons dalk ’n kort show’tjie by die Kuilfontein-padstal suid van Springfontein. Sorg dat jy so 11 vm. daar is – as niks gebeur nie, dan eet ons maar pasteie. Dan is dit tyd vir die Noord-Kaap, en Britstown!
 
@@ -168,7 +168,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 25 Thurs
 
--   **Graaff-Reinet – Hartland Huis**
+-   **Graaff-Reinet – Hartland Huis** ([FB event](https://www.facebook.com/events/2020611138239242/))
 
     Van die Noord-Kaap terug Oos-Kaap toe, en hierdie slag in die Kamdeboo. Dawid en Karlien de Wet van Toerboer se huis in Graaff-Reinet (eintlik die agterplaas) is waar ons vanaand speel. Dis by Noordstraat 38.
 
@@ -179,7 +179,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 ### 26 Fri
 
 -   **Brunch: Leeu-Gamka**
--   **Evening: Cape Town - Alma Café**
+-   **Evening: Cape Town - Alma Café** ([FB page](https://www.facebook.com/The-Alma-Cafe-159089414146612/))
 
     First we take Leeu-Gamka, then Cape Town
 
@@ -193,7 +193,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 27 Sat (Freedom Day)
 
--   **Darling – Evita se Perron**
+-   **Darling – Evita se Perron** ([FB page](https://www.facebook.com/evitaseperron/))
 
     The tour comes to a glorious end (at least that’s how we’re scripting it for now) in Darling on the West Coast at the legendary Evita se Perron. A real honour to play here.
 
