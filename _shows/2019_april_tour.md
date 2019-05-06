@@ -79,7 +79,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 -   **Lunchtime: Grahamstown – The Provost Café** ([FB page](https://www.facebook.com/TheProvostCafe/))
 -   **Evening: Grahamstown – Madhatters Coffee Shop** ([venue](https://www.tripadvisor.co.za/Restaurant_Review-g312557-d3308577-Reviews-Madhatters_Coffee_Shop-Grahamstown_Eastern_Cape.html))
 
-    This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at historic The Provost Café but the real show is the evening at Madhatters' on Hight Street. Well be joined by our long-time guitarist _Righard Kapp_, and local act _Bitterbos_.
+    This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at historic The Provost Café but the real show is the evening at Madhatters' on High Street. We'll be joined by our long-time guitarist _Righard Kapp_ and local act _Bitterbos_.
 
     Tickets: R50 pre-booked, otherwise R75 at the door
 
