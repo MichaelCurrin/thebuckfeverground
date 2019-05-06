@@ -76,9 +76,10 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 ### 16 Tue
 
--   **Grahamstown – The Provost Café** ([FB page](https://www.facebook.com/TheProvostCafe/))
+-   **Lunchtime: Grahamstown – The Provost Café** ([FB page](https://www.facebook.com/TheProvostCafe/))
+-   **Evening: Grahamstown – Madhatters Coffee Shop** ([venue](https://www.tripadvisor.co.za/Restaurant_Review-g312557-d3308577-Reviews-Madhatters_Coffee_Shop-Grahamstown_Eastern_Cape.html))
 
-    This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at Madhatter’s in High Street but the real show is the evening at historic The Provost Café. Well be joined by our long-time guitarist _Righard Kapp_, and local act _Bitterbos_.
+    This is where The Buckfever Underground started out as a student band 21 years ago! We’ll do a short lunchtime promo show at historic The Provost Café but the real show is the evening at Madhatters' on Hight Street. Well be joined by our long-time guitarist _Righard Kapp_, and local act _Bitterbos_.
 
     Tickets: R50 pre-booked, otherwise R75 at the door
 
@@ -195,10 +196,4 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
 -   **Darling – Evita se Perron** ([FB page](https://www.facebook.com/evitaseperron/))
 
-    The tour comes to a glorious end (at least that’s how we’re scripting it for now) in Darling on the West Coast at the legendary Evita se Perron. A real honour to play here.
-
-    Tickets: R120
-
-    Show starts: 8 pm
-
-    Bookings: (022) 492 2831 (022) 492 3427 Email: <evita@evita.co.za>
+    Update: This show has been postponed to a better date.
