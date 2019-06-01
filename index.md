@@ -8,13 +8,23 @@
     {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
 {% endcapture %}
 
-
-{% include image.html
-    image_path="/assets/images/promo/tour flyer.svg"
-    out_link=tour_url
-%}
-
 Official website of The Buckfever Underground. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
+
+
+## Blog
+
+{% assign posts = site.posts | sort: 'date' | reverse | slice: 0, 3 %}
+{% for post in posts %}
+- {{ post.date | date: '%F' }}: [{{ post.title }}]({{ post.url | absolute_url }})
+{% endfor %}
+
+
+## Shows
+
+{% assign shows = site.shows | sort: 'date' | reverse| slice: 0, 3 %}
+{% for show in shows %}
+- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
+{% endfor %}
 
 
 ## Latest album
