@@ -8,7 +8,7 @@
     {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
 {% endcapture %}
 
-Official website of The Buckfever Underground. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
+Official website of **The Buckfever Underground**. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
 
 ## Blog
