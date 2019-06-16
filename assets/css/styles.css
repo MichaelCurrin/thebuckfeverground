@@ -1,0 +1,19 @@
+.medium {
+    max-width: 50%;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: thin silver solid;
+    margin: 5px;
+}
+.captionedImage {
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    margin: 20px;
+}
