@@ -10,3 +10,8 @@ Get in touch. Send your orders and questions about shows to Toast at <{{ site.em
 - [Facebook Page](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }})
 - [Instagram](https://instagram.com/{{ site.instagram_username| cgi_escape | escape }})
 - [Twitter](https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }})
+
+{% include image_simple.html
+    image_path="/assets/images/beer and freedom.jpg"
+    description="Beer and freedom logo"
+%}
