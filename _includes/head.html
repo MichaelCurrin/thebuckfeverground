@@ -16,30 +16,10 @@
         <meta name="msvalidate.01" content="{{ site.bing }}" />
     {% endif %}
 
+    <!-- Theme's styling -->
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-
-    <style>
-        .medium {
-            max-width: 50%;
-        }
-        .center {
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        img {
-            border: thin silver solid;
-        }
-        .captionedImage {
-            text-align: center;
-            font-style: italic;
-            font-size: smaller;
-            text-indent: 0;
-        }
-        figcaption {
-            margin-top: 5px;
-        }
-    </style>
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
 
     {%- feed_meta -%}
     {%- if site.google_analytics -%}
