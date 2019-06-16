@@ -12,12 +12,7 @@ Inspiration for some layout of the site comes from [Sample Band Sites](https://b
 
 ## Installation
 
-Follow this [Jekyll setup and run gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to get the repo and dependencies setup.
-
-```bash
-$ bin/install.sh
-```
-
+Follow my [gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to setup and run this project.
 
 ## Production deploy
 
