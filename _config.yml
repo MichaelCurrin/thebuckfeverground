@@ -45,11 +45,12 @@ exclude:
   - LICENSE
 
 
-# Keep top-level pages in their own directory.
+# For readability of the repo, the top-level pages are their own directory and this allows
+# them to be used.
 include:
   - '_pages'
 
-# Nav bar order.
+# Navigation bar items, in required order.
 header_pages:
   - "_pages/about.md"
   - "_pages/shows.md"
