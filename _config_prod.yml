@@ -3,11 +3,16 @@
 ###############
 
 
+### Site metadata ###
+
 baseurl: ""
 url: "http://thebuckfeverunderground.co.za"
 
-# Code to verify property on Bing Webmaster Tools. 
-# For Google, auto-validation is applied in the case using https:// and you 
+
+### Tracking ###
+
+# Code to verify property on Bing Webmaster Tools.
+# For Google, auto-validation is applied in the case using https:// and you
 # have access to the GA account. Using the property setup without the protocol
 # requires setting a TXT record in DNS settings so is harder.
 bing: 75C503DB2279FEDB811A42BD43783A68
