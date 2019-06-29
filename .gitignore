@@ -1,7 +1,6 @@
 # Build output locations.
 _site/
 _site_prod/
-
 .sass-cache/
 
 # Gem files.
