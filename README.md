@@ -11,7 +11,7 @@ Inspiration for some layout of the site comes from [Sample Band Sites](https://b
 
 ## Installation
 
-Follow my [Jekyll gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to setup and run this project.
+Follow my [Jekyll Setup and Run](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/setup_and_run.md) instructions to setup and run this project.
 
 ## Usage
 

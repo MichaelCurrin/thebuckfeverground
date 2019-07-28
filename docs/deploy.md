@@ -1,24 +1,20 @@
 # Deploy instructions
 
-## Staging env
-
-If deploying to Github Pages, config your repo's Settings with the Github Pages functionality. Then push to the master branch to deploy.
-
 ## Dev env
 
 The shortcut scripts come from [Jekyll dev](https://github.com/MichaelCurrin/static-sites-generator-resources/tree/master/Jekyll/dev) directory in my resources repo.
 
 ### Serve
 
-Build and the serve the site locally using the [_site](/_site) directory.
+Build and the serve the site locally using the [_site](/_site) output directory.
 
-#### Root path
+#### On root path
 
 See [serve.sh](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/dev/serve.sh).
 
 Open in the browser: http://localhost:4000
 
-#### Subpath
+#### On subpath
 
 Or, run this script instead to simulate running on a subpath (as if on Page Project on Github Pages).
 
@@ -28,6 +24,10 @@ Open in the browser: http://localhost:5000/the-buckfever-underground/
 
 Note the trailing forwardslash. An alternate port number is used here so that both servers can be run at the same time for test purposes.
 
+
+## Staging env
+
+If deploying to Github Pages, config your repo's Settings with the Github Pages functionality. Then push to the master branch to deploy.
 
 ## Prod env
 
