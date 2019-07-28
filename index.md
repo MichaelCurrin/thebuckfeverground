@@ -11,15 +11,15 @@
 Official website of **The Buckfever Underground**. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
 
-## Upcoming Shows
+## Latest Shows
 
 {% assign unix_now = 'now' | date: '%s' %}
-{% assign shows = site.shows | sort: 'date' | reverse %}
+{% assign shows = site.shows | sort: 'date' %}
 
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' %}
 {% if post_time >= unix_now %}
-- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
+- [{{ show.title }}]({{ show.url | absolute_url }})
 {% endif %}
 {% endfor %}
 
