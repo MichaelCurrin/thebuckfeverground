@@ -13,11 +13,11 @@ Official website of **The Buckfever Underground**. We are also on [Facebook](htt
 
 ## Latest Shows
 
-{% assign unix_now = 'now' | date: '%s' %}
-{% assign shows = site.shows | sort: 'date' %}
+{% assign unix_now = 'now' | date: '%s' | plus: 0 %}
+{% assign shows = site.shows | sort: 'date' | reverse %}
 
 {% for show in shows %}
-{% assign post_time = show.date | date: '%s' %}
+{% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
 - [{{ show.title }}]({{ show.url | absolute_url }})
 {% endif %}
