@@ -9,12 +9,11 @@ The rights to the content of this remain with band or the original creators (inc
 
 Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
 
-
 ## Installation
 
-Follow my [gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to setup and run this project.
+Follow my [Jekyll gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b5549d4b) to setup and run this project.
 
 ## Usage
 
-- [Development](/docs/development.md)
-- [Production deploy](/docs/production.md)
+- [Development instructions](/docs/development.md)
+- [Deploy instructions](/docs/deploy.md)
