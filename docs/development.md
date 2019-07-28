@@ -1,11 +1,10 @@
 # Development instructions
 
-
-### Naming
+## Naming
 
 Blog posts in the [_posts](/_posts) directory must have hyphens and not underscores, otherwise they will not build. Otherwise, underscores are usually used for filenames in this repo.
 
-### Build times
+## Build times
 
 With all the content to build with `jekyll`, the build times are typically over 50 seconds. That is annoying for making small changes and checking the output quickly. The incremental option can be used, but it is limited - for example a certain blog post's page will be updated but the change will not reflect on the listing of blog posts.
 
@@ -47,7 +46,6 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 # Results in:
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
-
 
 ## Images
 
