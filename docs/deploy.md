@@ -27,9 +27,13 @@ Note the trailing forwardslash. An alternate port number is used here so that bo
 
 ## Staging env
 
-If deploying to Github Pages, config your repo's Settings with the Github Pages functionality. Then push to the master branch to deploy.
+If deploying to Github Pages, configure your repo's Settings with the Github Pages functionality. Then push to the appropriate branch to deploy.
+
+Using Netify will be similarly.
 
 ## Prod env
+
+For Github Pages or Netlify, use the instructions in the above section. Otherwise, use the instructions below. These steps are for manually building a prod site and copying contents to a remote server.
 
 ### Build
 

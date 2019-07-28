@@ -2,7 +2,9 @@
 
 ## Naming
 
-Blog posts in the [_posts](/_posts) directory must have hyphens and not underscores, otherwise they will not build. Otherwise, underscores are usually used for filenames in this repo.
+Blog posts in the [_posts](/_posts) directory must have _hyphens_ and not underscores (snake_case), otherwise they will not be built.
+
+For other pages in this project, underscores are fine and so are used.
 
 ## Build times
 
