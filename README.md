@@ -18,7 +18,7 @@ Follow my [gist](https://gist.github.com/MichaelCurrin/1085ab164550b31272699920b
 
 ### Build
 
-Build the static site to [_site_prod](_site_prod) directory.
+Build the static site to [_site_prod](/_site_prod) directory.
 
 Uses configuration for the remote-hosted site (other than Github Pages).
 
@@ -38,7 +38,7 @@ The domain in the source will be for prod (which affects SEO, sitemap and RSS) b
 
 ### Deploy
 
-Then copy the output from the [_site_prod](_site_prod) directory to where your site is hosted.
+Then copy the output from the [_site_prod](/_site_prod) directory to where your site is hosted.
 
 
 ## Staging deploy
@@ -48,15 +48,15 @@ If deploying to Github Pages, config your repo's Settings with the Github Pages 
 
 ## Dev deploy
 
+The shortcut scripts come from [Jekyll dev](https://github.com/MichaelCurrin/static-sites-generator-resources/tree/master/Jekyll/dev) directory in my resources repo.
+
 ### Serve
 
-Build and the serve the site locally using the [_site](_site) directory.
+Build and the serve the site locally using the [_site](/_site) directory.
 
 #### Root path
 
-```bash
-$ bin/dev/serve.sh
-```
+See [serve.sh](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/dev/serve.sh).
 
 Open in the browser: http://localhost:4000
 
@@ -64,9 +64,7 @@ Open in the browser: http://localhost:4000
 
 Or, run this script instead to simulate running on a subpath (as if on Page Project on Github Pages).
 
-```bash
-$ bin/dev/serve_subpath.sh
-```
+See [serve_subpath.sh](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/dev/serve_subpath.sh).
 
 Open in the browser: http://localhost:5000/the-buckfever-underground/
 
@@ -125,9 +123,9 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 
 ## Images
 
-For inserting images with captions, see the [image figure](_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
+For inserting images with captions, see the [image figure](/_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
 
-If you don't need a frame or caption, use the [image simple](_includes/image_simple.html) function.
+If you don't need a frame or caption, use the [image simple](/_includes/image_simple.html) function.
 
 ## Emails
 
