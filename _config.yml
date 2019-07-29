@@ -119,6 +119,7 @@ album_images_dir: /assets/images/albums/
 
 # Exclude from built results. Dot files and underscore files will excluded already.
 exclude:
+  - docs
   - bin
   - vendor
   - LICENSE
