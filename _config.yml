@@ -3,22 +3,36 @@
 ###############
 
 
-# Site settings.
-title: The Buckfever Underground
-email: info@toastcoetzer.com
-description: Spoken-word experimental rock band in Cape Town, South Africa.
+### Build settings ###
 
-# Require for Github Pages deploy as staging environment.
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-sitemap
+
+
+### Site metadata ###
+
+title: The Buckfever Underground
+description: Spoken-word experimental rock band in Cape Town, South Africa.
+email: info@toastcoetzer.com
+
+# Internal links must be made relative to this to this path for Github Pages compatibility. Usually
+# the name of the repo.
 baseurl: "/the-buckfever-underground"
+# Used if hosting on a custom domain.
 url: ""
 
-# Album images only need to be referenced by filename as this will be prepended on album pages.
-album_images_dir: /assets/images/albums/
+
+### Tracking ###
 
 # GA is used for both staging and prod. The filters are set on the GA views to be restrictive on
 # those to environments' domains, so will effectively localhost and spam views.
 google_analytics: UA-87705880-3
 bing:
+
+
+### Social links ###
 
 facebook_username: TheBuckfeverUnderground
 instagram_username: thebuckfeverunderground
@@ -27,29 +41,17 @@ github_repo: MichaelCurrin/the-buckfever-underground
 rss: rss
 
 
-# Build settings.
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-sitemap
+### Content settings ###
+
 # Include posts, shows, etc. dated in the future.
 future: true
 
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - script
-  - README.md
-  - LICENSE
-
-
-# Keep top-level pages in their own directory.
+# For readability of the repo, the top-level pages are their own directory and this allows
+# them to be used.
 include:
   - '_pages'
 
-# Nav bar order.
+# Navigation bar items, in required order.
 header_pages:
   - "_pages/about.md"
   - "_pages/shows.md"
@@ -59,8 +61,7 @@ header_pages:
   - "_pages/press.md"
   - "_pages/contact.md"
 
-
-# Create individual pages for each collection item.
+# This will create individual pages for each collection item.
 collections:
   shows:
     output: true
@@ -69,9 +70,8 @@ collections:
   press:
     output: true
 
-
 # Set the layouts. Note that the music directory is set to track layout and then just the albums
-# are overriden to use the album layout. And for press the index page is the summary and other
+# are overridden to use the album layout. Then for press, the index page is the summary and other
 # pages are reviews.
 defaults:
   - scope:
@@ -112,3 +112,18 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+# Helper to allow album images to only need to be referenced by filename, as
+# this will be prepended on album pages.
+album_images_dir: /assets/images/albums/
+
+# Exclude from built results. Dot files and underscore files will excluded already.
+exclude:
+  - bin/
+  - docs/
+  - NOTES/
+  - vendor/
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
