@@ -70,17 +70,16 @@ collections:
   press:
     output: true
 
-# Set the layouts. Note that the music directory is set to track layout and then just the albums
-# are overridden to use the album layout. Then for press, the index page is the summary and other
-# pages are reviews.
+# Set the layouts. Note that the Jekyll docs warn against globbing for performance reasons so these
+# have been made more explicit here for some.
 defaults:
   - scope:
-      path: ""
+      path: "_press/*"
       type: "press"
     values:
       layout: "press_review"
   - scope:
-      path: "*/*/index.md"
+      path: "_press/*/index.md"
       type: "press"
     values:
       layout: "press_main"
@@ -90,12 +89,12 @@ defaults:
     values:
       layout: "show"
   - scope:
-      path: ""
+      path: "_music/*"
       type: "music"
     values:
       layout: "track"
   - scope:
-      path: "*/*/index.md"
+      path: "_music/*/index.md"
       type: "music"
     values:
       layout: "album"
@@ -127,3 +126,5 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - netlify.toml
