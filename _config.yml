@@ -127,3 +127,5 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - Makefile
+  - netlify.toml
