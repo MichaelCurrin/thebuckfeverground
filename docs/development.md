@@ -49,9 +49,20 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
 
+Perhaps the boilerplate above can be replaced with an includes function.
+
 ## Images
 
 For inserting images with captions, see the [image figure](/_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
+
+Example:
+
+```
+{% include image.html
+    image_path="/assets/images/merch/Last Days book.jpg"
+    description="Book of the album's lyrics"
+%}
+```
 
 If you don't need a frame or caption, use the [image simple](/_includes/image_simple.html) function.
 
