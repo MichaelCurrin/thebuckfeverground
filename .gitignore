@@ -5,3 +5,5 @@ _site_prod/
 
 # Gem files.
 vendor/
+
+.jekyll-metadata
