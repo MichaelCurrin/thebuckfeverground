@@ -1,4 +1,5 @@
 {
+    // This was added automatically when setting the type rule after it.
     "spellright.language": [
         "en"
     ],
@@ -6,8 +7,9 @@
     "spellright.documentTypes": [
         "plaintext"
     ],
-    // Use "Jenkyl HTML" format for all markdown files. Only the README.md is pure markdown and so will not format correctly.
     "files.associations": {
-        "*.md": "jekyll"
+        "*.html": "jekyll",
+        "*.md": "jekyll",
+        "README.md": "markdown",
     }
 }
