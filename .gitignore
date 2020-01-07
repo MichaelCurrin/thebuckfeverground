@@ -3,6 +3,8 @@ _site/
 _site_prod/
 .sass-cache/
 
+.bundle/
+
 # Gem files.
 vendor/
 
