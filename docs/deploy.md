@@ -12,7 +12,9 @@ Build and the serve the site locally using the [_site](/_site) output directory.
 
 See [serve.sh](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/dev/serve.sh).
 
-Open in the browser: http://localhost:4000
+Open in the browser: 
+
+- http://localhost:4000
 
 #### On subpath
 
@@ -20,10 +22,13 @@ Or, run this script instead to simulate running on a subpath (as if on Page Proj
 
 See [serve_subpath.sh](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/dev/serve_subpath.sh).
 
-Open in the browser: http://localhost:5000/the-buckfever-underground/
+Open in the browser: 
+
+- http://localhost:5000/the-buckfever-underground/
 
 Note the trailing forwardslash. An alternate port number is used here so that both servers can be run at the same time for test purposes.
 
+See also the [Makefile](/Makefile).
 
 ## Staging env
 
