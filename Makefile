@@ -1,5 +1,8 @@
 install:
 	bundle install --path vendor/bundle
 
-serve:
+s serve:
 	bundle exec jekyll serve
+
+i incr:
+	bundle exec jekyll serve --incremental
