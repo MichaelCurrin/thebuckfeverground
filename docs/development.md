@@ -57,7 +57,9 @@ A solution to this is to set the **permalink** in the album's metadata.
 
 Setting `/last_days_of_beautiful/` is too short. Since the `/music/` permalink is already set and should not be duplicated, using `/:collection/last_days_of_beautiful/` works wells here. Note the trailing slash is good form. There are of course pages within the as the songs.
 
-Even though the music page and the album page both have a leading forward slash, this works out fine.
+Unfortunately, `:title` and `:slug` just give `index` as the result rather than the album folder slug and `:name`, `:basename` and `:path` do not help either.
+
+See [Permalinks](https://jekyllrb.com/docs/permalinks/) Jekyll doc.
 
 ## Images
 
