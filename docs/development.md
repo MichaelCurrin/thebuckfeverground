@@ -49,6 +49,8 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
 
+If the result is capture, then a replace can be done to remove the name and extension.
+
 Perhaps the boilerplate above can be replaced with an includes function.
 
 ### Update
