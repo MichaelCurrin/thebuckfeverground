@@ -1,6 +1,8 @@
 ---
 title: Last Days of Beautiful
 date: 2019-03-03
+permalink: /:collection/last_days_of_beautiful/
+
 image: "Last Days of Beautiful large.jpg"
 price_local: R200 (incl postage in South Africa)
 price_foreign: enquire about postage elsewhere, we make plan

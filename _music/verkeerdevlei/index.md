@@ -1,6 +1,8 @@
 ---
 title: Verkeerdevlei
 date: 2012-08-12
+permalink: /:collection/verkeerdevlei/
+
 image: "verkeerdevlei cd cover small.jpg"
 price_local: R130 (incl postage in South Africa)
 price_foreign: enquire about postage elsewhere, we make plan
