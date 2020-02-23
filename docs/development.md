@@ -51,6 +51,14 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 
 Perhaps the boilerplate above can be replaced with an includes function.
 
+### Update
+
+A solution to this is to set the **permalink** in the album's metadata.
+
+Setting `/last_days_of_beautiful/` is too short. Since the `/music/` permalink is already set and should not be duplicated, using `/:collection/last_days_of_beautiful/` works wells here. Note the trailing slash is good form. There are of course pages within the as the songs.
+
+Even though the music page and the album page both have a leading forward slash, this works out fine.
+
 ## Images
 
 For inserting images with captions, see the [image figure](/_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
