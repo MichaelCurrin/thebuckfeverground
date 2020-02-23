@@ -2,14 +2,12 @@
 # Main config #
 ###############
 
-
 ### Build settings ###
 
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-sitemap
-
 
 ### Site metadata ###
 
@@ -23,14 +21,12 @@ baseurl: "/the-buckfever-underground"
 # Used if hosting on a custom domain.
 url: ""
 
-
 ### Tracking ###
 
 # GA is used for both staging and prod. The filters are set on the GA views to be restrictive on
 # those to environments' domains, so will effectively localhost and spam views.
 google_analytics: UA-87705880-3
 bing:
-
 
 ### Social links ###
 
@@ -40,7 +36,6 @@ twitter_username: the_buckfever
 github_repo: MichaelCurrin/the-buckfever-underground
 rss: rss
 
-
 ### Content settings ###
 
 # Include posts, shows, etc. dated in the future.
@@ -49,7 +44,7 @@ future: true
 # For readability of the repo, the top-level pages are their own directory and this allows
 # them to be used.
 include:
-  - '_pages'
+  - "_pages"
 
 # Navigation bar items, in required order.
 header_pages:
