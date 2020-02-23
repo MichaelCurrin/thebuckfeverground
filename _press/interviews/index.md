@@ -1,6 +1,7 @@
 ---
 title: Interviews
 date: 2004-01-01
+permalink: /:collection/interviews/
 ---
 
 - **litnet.co.za** Julie 2006. Onderhoud met Toast deur Katvrou op Litnet. _Link no longer valid_

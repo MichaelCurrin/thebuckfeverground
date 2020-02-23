@@ -49,7 +49,19 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
 
+If the result is capture, then a replace can be done to remove the name and extension.
+
 Perhaps the boilerplate above can be replaced with an includes function.
+
+### Update
+
+A solution to this is to set the **permalink** in the album's metadata.
+
+Setting `/last_days_of_beautiful/` is too short. Since the `/music/` permalink is already set and should not be duplicated, using `/:collection/last_days_of_beautiful/` works wells here. Note the trailing slash is good form. There are of course pages within the as the songs.
+
+Unfortunately, `:title` and `:slug` just give `index` as the result rather than the album folder slug and `:name`, `:basename` and `:path` do not help either.
+
+See [Permalinks](https://jekyllrb.com/docs/permalinks/) Jekyll doc.
 
 ## Images
 

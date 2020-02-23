@@ -1,6 +1,7 @@
 ---
 title: Limbs Gone Batty album press
 date: 2009-01-01
+permalink: /:collection/limbs_gone_batty/
 ---
 
 - **Beeld / Die Burger** Augustus 2009. Danie Marais wrote a lekker review of our live album, comparing the musos to "explorers of old".

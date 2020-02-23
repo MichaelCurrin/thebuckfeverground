@@ -1,6 +1,7 @@
 ---
 title: SAVES album press
 date: 2009-09-01
+permalink: /:collection/saves/
 ---
 
 - [Sunday Times]({{ site.baseurl }}{% link _press/saves/sunday_times.md %}) January 2008. By Steven van Hemert.

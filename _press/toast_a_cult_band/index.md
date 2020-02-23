@@ -1,6 +1,7 @@
 ---
 title: Toast a cult band that works magic
 date: 2011-10-28
+permalink: /:collection/toast_a_cult_band/
 ---
 
 [Mail & Guardian](https://mg.co.za/article/2011-10-28-toast-a-cult-band-that-works-magic) 28 October 2011. Four Buckfever Underground gigs in four nights. Lloyd Gedye joins the punk-poetry band as they warm up for a stint in the studio.
