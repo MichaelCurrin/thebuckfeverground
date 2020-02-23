@@ -1,6 +1,7 @@
 ---
 title: Verkeerdevlei album press
 date: 2012-01-01
+permalink: /:collection/verkeerdevlei/
 ---
 
 - [Rolling Stone]({{ site.baseurl }}{% link _press/verkeerdevlei/rolling_stone.md %}) Nov 2012. Verkeerdevlei review by Rolling Stone editor Miles Keylock. 4 stars.

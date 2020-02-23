@@ -1,6 +1,7 @@
 ---
 title: TAFL album reviews
 date: 2003-01-01
+permalink: /:collection/tafl/
 ---
 
 The Star, Shape Magazine, Mail&Guardian, Huisgenoot, Die Burger / Citizen, Cape Argus Tonight selected print media reviews of TAFL.
