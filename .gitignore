@@ -1,11 +1,7 @@
-# Build output locations.
 _site/
-_site_prod/
 .sass-cache/
 
 .bundle/
-
-# Gem files.
 vendor/
 
 .jekyll-metadata
