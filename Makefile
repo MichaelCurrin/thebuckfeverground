@@ -13,11 +13,12 @@ s serve:
 i incr:
 	bundle exec jekyll serve --incremental
 
-
-local-build-prod:
+# Build for a remote env locally.
+build-prod-local:
 	JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_prod.yml
 
-local-prod:
+# Preview the build.
+build-prod-serve:
 	cd _site && python3 -m http.server 8002
 
 
