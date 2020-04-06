@@ -1,1 +1,4 @@
-Index
+- [Installation](installation) locally
+- [Usage](usage) locally
+- [Deploy](deploy) for remote
+- [Development](development) notes
