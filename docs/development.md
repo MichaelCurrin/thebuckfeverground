@@ -12,7 +12,7 @@ With all the content to build with `jekyll`, the build times are typically over 
 
 Therefore if you are working on a certain area such as blog posts, temporarily delete most of the items in the press, music and/or shows directory. Then your build time will only be about 2 seconds. Be careful with deleting everything though - if `link` calls in the active section become invalid, the build will fail.
 
-When you are done, do a `git checkout <DIR>` on that directory to restore the delete files.
+When you are done, do a `git checkout DIR` on that directory to restore the delete files.
 
 ## Internal links
 
