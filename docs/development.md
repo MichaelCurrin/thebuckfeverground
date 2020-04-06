@@ -2,7 +2,7 @@
 
 ## Naming
 
-Blog posts in the [_posts](/_posts) directory must have _hyphens_ and not underscores (snake_case), otherwise they will not be built.
+Blog posts in the `_posts` directory must have _hyphens_ and not underscores (snake_case), otherwise they will not be built.
 
 For other pages in this project, underscores are fine and so are used.
 
@@ -65,7 +65,7 @@ See [Permalinks](https://jekyllrb.com/docs/permalinks/) Jekyll doc.
 
 ## Images
 
-For inserting images with captions, see the [image figure](/_includes/image.html) function, which is an image inside a figure. This is used for example on the [about](/_pages/about.md) page.
+For inserting images with captions, see the image figure function at `_includes/image.html`, which is an image inside a figure. This is used for example on the `_pages/about.md` page.
 
 Example:
 
