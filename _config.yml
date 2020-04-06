@@ -15,10 +15,7 @@ title: The Buckfever Underground
 description: Spoken-word experimental rock band in Cape Town, South Africa.
 email: info@toastcoetzer.com
 
-# Internal links must be made relative to this to this path for Github Pages compatibility. Usually
-# the name of the repo.
 baseurl: "/the-buckfever-underground"
-# Used if hosting on a custom domain.
 url: ""
 
 ### Tracking ###

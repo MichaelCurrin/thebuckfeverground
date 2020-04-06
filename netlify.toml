@@ -1,9 +1,5 @@
 [build]
   base = "/"
   publish = "_site"
-  command = "jekyll build --config _config.yml"
-
-[context.production]
   # environment = {JEKYLL_ENV = "production"}
-  # Omit prod config here until serving on branded domain.
-  command = "jekyll build --config _config.yml --baseurl ''"
+  command = "make remote-build-prod"

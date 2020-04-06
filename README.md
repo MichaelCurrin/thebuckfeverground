@@ -10,11 +10,4 @@ The rights to the content of this remain with band or the original creators (inc
 
 Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
 
-## Installation
-
-Follow my [Jekyll Setup and Run](https://github.com/MichaelCurrin/static-sites-generator-resources/blob/master/Jekyll/setup_and_run.md) instructions to setup and run this project.
-
-## Usage
-
-- [Development instructions](/docs/development.md)
-- [Deploy instructions](/docs/deploy.md)
+See [Documentation](/docs/README.md)
