@@ -3,11 +3,21 @@
 
 ## FTP
 
+Build:
+
+
 ```sh
-make local-build-prod
+make build-prod-local
 ```
 
-Copy files to FTP location.
+Preview:
+
+```sh
+make build-prod-serve
+```
+
+
+Then copy files from `_site` to FTP location.
 
 
 ## Remote build
