@@ -1,6 +1,6 @@
 # The Buckfever Underground docs
 
-- [Installation](installation.md) - local install.
-- [Ussage](usage.md) - local serving.
-- [Deploy](deploy.md)
-- [Development](development.md)
+- [Installation](installation.md) locally
+- [Usage](usage.md) locally
+- [Deploy](deploy.md) for remote
+- [Development](development.md) notes
