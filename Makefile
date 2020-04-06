@@ -1,6 +1,6 @@
 # Show summary of make commands.
 help:
-	@egrep '(^\S)|(^$$) Makefile
+	@egrep '(^\S)|(^$$)' Makefile
 
 
 install:
