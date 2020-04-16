@@ -11,7 +11,7 @@ s serve:
 	bundle exec jekyll serve
 
 i incr:
-	bundle exec jekyll serve --incremental
+	bundle exec jekyll serve --incremental --livereload
 
 # Build for a remote env locally.
 build-prod-local:
