@@ -16,7 +16,7 @@ A static website for _The Buckfever Underground_ band.
 
 ## License
 
-Released under [Apache License 2.0](/LICENSE].
+Released under [Apache License 2.0](/LICENSE).
 
 You may content of this site for your own projects, as the layout files or includes files. 
 
