@@ -4,7 +4,7 @@ title: Walk fast, whistle, show solidarity
 
 We are showing our solidarity to people affected by the Covid-19 pandemic and food shortages. We have donated to the **Fighting For Water Justice Coalition** and encourage you to do the same.
 
-They are a community-based organisation and are providing relief for people in the **Witzenberg** area in the Western Cape - an agricultural region an hour and a half's drive from Cape Town on Route 62. They are providing **meals** and **public education** in the following towns: Tulbagh, Bella Vista, Pine Valley, Montana and Prince Alfred Hamlet.
+They are a community-based organisation which is providing relief for people in the **Witzenberg municipality** - an agricultural region in the Western Cape that is an hour and a half's drive from Cape Town. They are providing **meals** and **public education** in the following towns: Tulbagh, Bella Vista, Pine Valley, Montana and Prince Alfred Hamlet.
 
 
 ## How can you support?
