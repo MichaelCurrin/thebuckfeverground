@@ -22,23 +22,28 @@ However, running the website of a subpath is not supported by the function and t
 
 e.g.
 
+{% raw %}
 ```
 {{ site.baseurl }}{% link _pages/shows.md %}
 # Results in:
 /the-buckfever-underground/shows/
 ```
+{% endraw %}
 
 Unfortunately when referencing an index page, this creates a `/index.html` path rather than just `/` which is a duplicate page reference. But this is fine, as an error will be thrown without `index.md` part and also since the link function does not support replacement of the result value in a chain.
 
+{% raw %}
 ```
 {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
 
 # Results in:
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
+{% endraw %}
 
 When this is needed to be assigned to a variable or used in an `includes` statement, then use `capture` as shown below. This is necessary since the `link` filter cannot be set to a variable using `assign`. The `capture` approach also means the `append` filter is not needed so the syntax looks cleaner.
 
+{% raw %}
 ```
 {% capture album_link %}
    {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
@@ -48,6 +53,7 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 # Results in:
 /the-buckfever-underground/music/last_days_of_beautiful/index.html
 ```
+{% end raw}
 
 If the result is capture, then a replace can be done to remove the name and extension.
 
@@ -63,18 +69,21 @@ Unfortunately, `:title` and `:slug` just give `index` as the result rather than 
 
 See [Permalinks](https://jekyllrb.com/docs/permalinks/) Jekyll doc.
 
+
 ## Images
 
 For inserting images with captions, see the image figure function at `_includes/image.html`, which is an image inside a figure. This is used for example on the `_pages/about.md` page.
 
 Example:
 
+{% raw %}
 ```
 {% include image.html
     image_path="/assets/images/merch/Last Days book.jpg"
     description="Book of the album's lyrics"
 %}
 ```
+{% endraw %}
 
 If you don't need a frame or caption, use the [image simple](/_includes/image_simple.html) function.
 
@@ -84,6 +93,4 @@ Surround an e-mail address in angled brackets to make it a link.
 
 ```
 <user@example.com>
-# Results in:
-mailto:user@example.com
 ```
