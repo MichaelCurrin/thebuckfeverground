@@ -4,17 +4,22 @@
 [![Made with Jekyll](https://img.shields.io/badge/made%20with-Jekyll%203-blue.svg)](https://jekyllrb.com)
 [![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minina)
 
-A static website for _The Buckfever Underground_.
+A static website for _The Buckfever Underground_ band.
 
 
 ## Project links
 
-- [![Production site](https://img.shields.io/badge/site-thebuckfeverunderground.co.za-brightgreen)](https://thebuckfeverunderground.co.za/)
-- [![Docs site](https://img.shields.io/badge/docs-Github%20Pages-blue)](https://michaelcurrin.github.io/the-buckfever-underground/)
+[![Production site](https://img.shields.io/badge/site-thebuckfeverunderground.co.za-brightgreen?styles=for-the-badge)](https://thebuckfeverunderground.co.za/)
+
+[![Docs site](https://img.shields.io/badge/docs-Github_Pages-blue?styles=for-the-badge)](https://michaelcurrin.github.io/the-buckfever-underground/)
 
 
 ## License
 
-The rights to the content of this remain with band or the original creators (including reviewers and photographers).
+Released under [Apache License 2.0](/LICENSE].
+
+You may content of this site for your own projects, as the layout files or includes files. 
+
+The trademarks of the band including the band name, photos, lyrics, artwork and copy remain owned by the band, or respective reviewers and photographers.
 
 Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
