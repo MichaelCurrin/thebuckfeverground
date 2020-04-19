@@ -13,18 +13,23 @@ title: The Buckfever Underground
 Official website of The _Buckfever Underground_. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
 
-## Latest Shows
+## Upcoming shows
 
 {% assign unix_now = 'now' | date: '%s' | plus: 0 %}
 {% assign shows = site.shows | sort: 'date' | reverse %}
+{% assign anyPosts = false %}
 
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
 - [{{ show.title }}]({{ show.url | absolute_url }})
+{% assign anyPosts = true %}
 {% endif %}
 {% endfor %}
 
+{% unless anyPosts %}
+No shows scheduled yet. Watch this space and our social media.
+{% endunless %}
 
 ## Recent posts
 
