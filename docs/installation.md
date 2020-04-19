@@ -5,7 +5,7 @@
 
 Install Ruby.
 
-Install Bundler.
+Install [Bundler](https://bundler.io).
 
 ## Project dependencies
 

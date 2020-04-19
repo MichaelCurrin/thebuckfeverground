@@ -13,15 +13,14 @@ s serve:
 i incr:
 	bundle exec jekyll serve --incremental --livereload
 
-# Build for a remote env.
+
 build-prod-local:
 	JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_prod.yml
 
-# Preview - serve the built site locally.
-build-prod-serve:
-	cd _site && python3 -m http.server 8002
+serve-prod:
+	cd _site && python3 -m http.server
 
 
-remote-build-prod:
+build-prod-remote:
 	# Don't use prod config until moved to Netlify.
 	jekyll build

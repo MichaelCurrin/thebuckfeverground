@@ -7,7 +7,7 @@ Build and serve.
 make serve
 ```
 
-Use incremental flag.
+Or serve with incremental flag and livereload.
 
 ```sh
 make incr
