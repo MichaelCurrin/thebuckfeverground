@@ -18,7 +18,8 @@ A static website for _The Buckfever Underground_ band.
 
 Released under [Apache License 2.0](/LICENSE).
 
-You may content of this site for your own projects, as the layout files or includes files.
+
+You may find use layout files or includes files or the structure of the project useful for your own. You may use the docs and site content as inspiration for your own projects. But you may not serve a copy of this site (in whole or in part) as your own.
 
 The trademarks of the band including the band name, photos, lyrics, artwork and copy remain owned by the band, or respective reviewers and photographers.
 
