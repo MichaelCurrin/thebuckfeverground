@@ -5,6 +5,7 @@
 
 A static website for _The Buckfever Underground_ band.
 
+_Note: These docs are intended only for contributors of the project. You may use the docs and site content as inspiration for your own projects but you may not serve a copy of site site as your own._
 
 - [Installation](installation) locally
 - [Usage](usage) locally
