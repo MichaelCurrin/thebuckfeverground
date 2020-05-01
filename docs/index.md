@@ -5,7 +5,7 @@
 
 A static website for _The Buckfever Underground_ band.
 
-_Note: These docs are intended only for contributors of the project. You may use the docs and site content as inspiration for your own projects but you may not serve a copy of this site (in whole or in part) as your own._
+_Note: These docs are intended only for contributors of the band site only. This project has restrictive copyright conditions - see [License](https://github.com/MichaelCurrin/the-buckfever-underground/#license).
 
 - [Installation](installation) locally
 - [Usage](usage) locally
