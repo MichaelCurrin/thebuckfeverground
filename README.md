@@ -16,10 +16,12 @@ A static website for _The Buckfever Underground_ band.
 
 ## License
 
-Released under [Apache License 2.0](/LICENSE).
+Released with [No license](https://choosealicense.com/no-permission/), which means restricted copyright.
 
-You might find the layout files, includes files or the structure of the project useful for your own projects - you may use the docs and site content as inspiration for your own projects. But you may not serve a copy of this site (in whole or in part) as your own.
+You might find the layout files, includes files or the structure of the project useful for your own projects, so you are allowed to use docs and code as inspiration for your own projects. 
 
-The trademarks of the band including the band name, photos, lyrics, artwork and copy remain owned by the band, or respective reviewers and photographers.
+But you may **not** serve a copy of this site (in whole or in part) as your own.
+
+The trademarks of the band (including the band name, photos, lyrics, artwork and copy) remain owned by the band, or respective authors and photographers.
 
 Inspiration for some layout of the site comes from [Sample Band Sites](https://bandzoogle.com/sample-band-sites).
