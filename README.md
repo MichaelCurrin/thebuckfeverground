@@ -2,9 +2,9 @@
 > Static site content for a South African band that performs poetry with improvised music
 
 [![Made with Jekyll](https://img.shields.io/badge/jekyll-3.8.5-blue.svg)](https://jekyllrb.com)
-[![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minina)
+[![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minima)
 
-A static website for _The Buckfever Underground_ band.
+A static website for the band named _The Buckfever Underground_.
 
 
 ## Project links
@@ -16,7 +16,7 @@ A static website for _The Buckfever Underground_ band.
 
 ## License
 
-Released with [No license](https://choosealicense.com/no-permission/), which means restricted copyright.
+Released with the [No license](https://choosealicense.com/no-permission/) option, which means **restricted copyright**.
 
 You might find the layout files, includes files or the structure of the project useful for your own projects, so you are allowed to use docs and code as inspiration for your own projects. 
 
