@@ -1,10 +1,25 @@
 # Development instructions
 
+
+## Categories
+
+A category can be added to a post like this:
+
+```
+categories: shows
+```
+
+This means that post gets built to `shows/YYYY/MM/DD/title.html
+
+Alongside existing files in `shows`. This is okay.
+
+
 ## Naming
 
 Blog posts in the `_posts` directory must have _hyphens_ and not underscores (snake_case), otherwise they will not be built.
 
 For other pages in this project, underscores are fine and so are used.
+
 
 ## Build times
 
