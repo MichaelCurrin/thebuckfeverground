@@ -10,6 +10,13 @@
     "files.associations": {
         "*.html": "jekyll",
         "*.md": "jekyll",
+
         "README.md": "markdown",
+        // This cannot be done by directory - only by filename.
+        "deploy.md": "markdown",
+        "development.md": "markdown",
+        "index.md": "markdown",
+        "installation.md": "markdown",
+        "usage.md": "markdown",
     }
 }
