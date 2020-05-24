@@ -7,12 +7,12 @@ The Buckfever Underground is a South African spoken-word band that plays free-fo
 
 We tour yearly - throughout the Western Cape and sometimes across the country. We enjoy playing at bars, homes and arts festivals.
 
-
 {% include image.html
     image_path="/assets/images/shows/bu city soiree gerhard house sam reinders the buckfever underground.jpg"
     description="City soiree at Gerhard's house. Photo: Sam Reinders."
 %}
 
+Read about us on [The Buckfever Underground](https://en.wikipedia.org/wiki/Buckfever_Underground) page on Wikipedia.
 
 ## Current members
 
