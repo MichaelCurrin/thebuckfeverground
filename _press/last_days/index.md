@@ -1,6 +1,6 @@
 ---
 title: Last Days of Beautiful
-date: 2020-06-01
+date: 2020-06-11
 permalink: /:collection/last_days/
 ---
 
