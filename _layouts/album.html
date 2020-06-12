@@ -8,24 +8,15 @@ layout: default
 # Assume the track filenames start with two digits so they can be used for automatic sorting.
 ---
 
+{% assign album_name = page.path | split: "/" | slice: 1 %}
+
 <p>Back to <a href="{{ site.baseurl }}{% link _pages/music.md %}">Music</a></p>
 
 <h1>Album: {{ page.title }}</h1>
 
-{% assign current_album_name = page.path | split: "/" | slice: 1 %}
-{% assign press_mains = site.press | where: "layout", "press_main" %}
-
-{%- for item in press_mains -%}
-    {% assign press_name = item.path | split: "/" | slice: 1 %}
-    {%- if press_name == current_album_name -%}
-        <h2>Go to <a href="{{ item.url | remove: index.html | relative_url }}">album press</a></h2>
-        {% break %}
-    {%- endif -%}
-{%- endfor -%}
-
 <h3>{{ page.sub_title | markdownify }}</h3>
 
-<p>Released: {{ page.date | date: "%B %Y "}}</p>
+<p><b>Released:</b> {{ page.date | date: "%B %Y "}}</p>
 
 {% if page.image %}
     <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}"
@@ -37,6 +28,18 @@ layout: default
 {% if page.bandcamp %}
     {% include bandcamp_player.html bandcamp=page.bandcamp %}
 {% endif %}
+
+{% assign press_mains = site.press | where: "layout", "press_main" %}
+
+{# For loop used here for ease but a filter and getting one item if any would work. #}
+{%- for item in press_mains -%}
+    {% assign press_name = item.path | split: "/" | slice: 1 %}
+    {%- if press_name == album_name -%}
+        <h2>Reviews</h2>
+        <p>See this album's <a href="{{ item.url | remove: index.html | relative_url }}">press</a> page.</p>
+        {% break %}
+    {%- endif -%}
+{%- endfor -%}
 
 
 <h2>Order</h2>
@@ -62,9 +65,9 @@ layout: default
 
 <h2>Tracklist / Lyrics</h2>
 
-{% assign album_name = page.path | split: "/" | slice: 1 %}
 <ol>
     {% assign all_tracks_sorted = site.music | where: "layout", "track" %}
+    
     {% for track in all_tracks_sorted %}
         {% assign track_album_name = track.path | split: "/" | slice: 1 %}
 
