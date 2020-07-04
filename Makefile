@@ -1,16 +1,15 @@
-# Show summary of make commands.
-help:
-	@egrep '(^\S)|(^$$)' Makefile
+default: install
 
+help:
+	@egrep '^\S|^$$' Makefile
 
 install:
 	bundle install --path vendor/bundle
 
-
 s serve:
 	bundle exec jekyll serve
 
-i incr:
+i serve-i:
 	bundle exec jekyll serve --incremental --livereload
 
 # For FTP deploy
@@ -21,8 +20,7 @@ build-prod-local:
 serve-prod:
 	cd _site && python3 -m http.server
 
-
 # Build command for Netlify.
 build-prod-remote:
-	# Don't use prod config until moved to Netlify.
+	# Don't use prod config here until moved to Netlify.
 	jekyll build
