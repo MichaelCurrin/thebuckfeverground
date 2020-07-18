@@ -5,6 +5,8 @@
 
 A static website for _The Buckfever Underground_ band.
 
+Repo: [MichaelCurrin/the-buckfever-underground/](https://github.com/MichaelCurrin/the-buckfever-underground/)
+
 _Note: These docs are intended only for contributors of the band site only. This project has restrictive copyright conditions - see [License](https://github.com/MichaelCurrin/the-buckfever-underground/#license)._
 
 - [Installation](installation) locally
