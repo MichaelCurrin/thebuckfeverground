@@ -186,7 +186,7 @@ Find the Facebook events [here](https://www.facebook.com/tours/2034955706622729/
 
     Today we drive to Cape Town but we linger at a favourite farm stall near Leeu-Gamka for an informal, short show (and ginger beer...) between 11 am-12 pm: Rietfontein-padstal. Then we put foot down the N1 for Cape Town and a home-coming of sorts at one of the city’s best venues, The Alma Café.
 
-    Bookings essential for Alma Café: 021 6857377 (leave a message on the answering machine)
+    Bookings essential for Alma Café: 021 685 7377 (leave a message on the answering machine)
 
     Tickets: R180, includes meal (hamburger)
 
