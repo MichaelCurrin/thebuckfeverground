@@ -3,9 +3,6 @@ layout: home
 title: The Buckfever Underground
 ---
 
-{% capture tour_url %}
-    {{ site.baseurl }}{% link _shows/2019_april_tour.md %}
-{% endcapture %}
 {% capture album_url %}
     {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
 {% endcapture %}
@@ -28,7 +25,7 @@ Read this [blog post]({{ site.baseurl }}{% post_url 2020-04-16-show-solidarity %
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
-- [{{ show.title }}]({{ show.url | absolute_url }})
+- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
 {% assign anyPosts = true %}
 {% endif %}
 {% endfor %}
