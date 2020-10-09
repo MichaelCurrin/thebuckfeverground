@@ -15,25 +15,38 @@ Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% li
 
 ## Clothing
 
-{% capture shirt_relative %}
-    {{ "/assets/images/merch/last days tour shirt resized.jpg" | relative_url }}
-{% endcapture %}
-{% include image.html
-    image_path="/assets/images/merch/last days tour shirt resized.jpg"
-    out_link=shirt_relative
-    description="Limited edition t-shirt, available only at shows during April. Cost: R220. Men's or Women's cut."
-%}
+<div class="medium">
+    {% include image.html
+        image_path="/assets/images/merch/sit dit af 1000px.jpg"
+        description="Our most popular t-shirt - in Men's and Women's cuts."
+    %}
+</div>
 
 <div class="medium">
     {% include image.html
-        image_path="/assets/images/merch/Sit Dit Af tshirt.png"
+        image_path="/assets/images/merch/shirt and cape toast 1000px.jpg"
+        description="Caps and t-shirts in Men's and Women's cuts."
+    %}
+</div>
+
+
+<div class="medium">
+    {% include image.html
+        image_path="/assets/images/merch/shirt and cape alice 1000px.jpg"
         description="Caps and t-shirts in Men's and Women's cuts."
     %}
 </div>
 
 <div class="medium">
     {% include image.html
-        image_path="/assets/images/merch/Sit Dit Af hoodie.png"
+        image_path="/assets/images/merch/hoodie toast 1000px.jpg"
         description="Hoodies."
+    %}
+</div>
+
+<div class="medium">
+    {% include image.html
+        image_path="/assets/images/merch/t-shirt logo 500px.jpg"
+        description="Hoodie logo"
     %}
 </div>
