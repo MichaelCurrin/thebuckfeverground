@@ -13,15 +13,13 @@ s serve:
 i serve-i:
 	bundle exec jekyll serve --trace --incremental
 
-# For FTP deploy
-build-prod-local:
+# For FTP.
+b build-prod-local:
 	JEKYLL_ENV=production bundle exec jekyll build --trace --config _config.yml,_config_prod.yml
-
-# Preview deploy
-serve-prod:
+preview:
 	cd _site && python3 -m http.server
 
-# Build command for Netlify.
+# For Netlify.
 build-prod-remote:
 	# Don't use prod config here until moved to Netlify.
 	jekyll build
