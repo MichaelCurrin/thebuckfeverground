@@ -1,5 +1,6 @@
 ---
 title: Reviewed - The Last Days of Beautiful
+categories: press
 ---
 
 We had a glowing review of our Last Days album post on the [litnet.co.za](https://www.litnet.co.za/) site.

@@ -1,5 +1,6 @@
 ---
 title: Album launched - Last Days of Beautiful
+categories: music
 ---
 
 {% capture album_link %}

@@ -1,5 +1,6 @@
 ---
 title: Buckfever in Volksblad
+categories: press
 ---
 
 As part of our Laaste-dae toer, we played at the Bethulie Royal Hotel. Here is an article about that show which was published in Volksblad on 26 April 2019.
