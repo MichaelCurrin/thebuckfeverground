@@ -8,14 +8,14 @@ install:
 	bundle install
 
 s serve:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --trace
 
 i serve-i:
-	bundle exec jekyll serve --incremental --livereload
+	bundle exec jekyll serve --trace --incremental
 
 # For FTP deploy
 build-prod-local:
-	JEKYLL_ENV=production bundle exec jekyll build --config _config.yml,_config_prod.yml
+	JEKYLL_ENV=production bundle exec jekyll build --trace --config _config.yml,_config_prod.yml
 
 # Preview deploy
 serve-prod:
