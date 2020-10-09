@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Note this is not build with GH Pages so there is more freedom to get newer gems.
+# Note this is not built with GH Pages so there is more freedom to get newer gems.
 
 gem "jekyll", "~> 3.9"
 
