@@ -17,14 +17,14 @@ Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% li
 
 <div class="medium">
     {% include image.html
-        image_path="/assets/images/merch/sit dit af 1000px.jpg"
+        image_path="/assets/images/merch/Sit Dit Af alice 1000px.jpg"
         description="Our most popular t-shirt - in Men's and Women's cuts."
     %}
 </div>
 
 <div class="medium">
     {% include image.html
-        image_path="/assets/images/merch/shirt and cape toast 1000px.jpg"
+        image_path="/assets/images/merch/shirt and cap toast 1000px.jpg"
         description="Caps and t-shirts in Men's and Women's cuts."
     %}
 </div>
@@ -32,7 +32,7 @@ Select CDs to order from Discography list on the [Music]({{ site.baseurl }}{% li
 
 <div class="medium">
     {% include image.html
-        image_path="/assets/images/merch/shirt and cape alice 1000px.jpg"
+        image_path="/assets/images/merch/shirt and cap alice 1000px.jpg"
         description="Caps and t-shirts in Men's and Women's cuts."
     %}
 </div>
