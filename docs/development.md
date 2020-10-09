@@ -5,11 +5,11 @@
 
 A category can be added to a post like this:
 
-```
+```yaml
 categories: shows
 ```
 
-This means that post gets built to `shows/YYYY/MM/DD/title.html
+This means that post gets built to `shows/YYYY/MM/DD/title.html`.
 
 Alongside existing files in `shows`. This is okay.
 
@@ -29,6 +29,7 @@ Therefore if you are working on a certain area such as blog posts, temporarily d
 
 When you are done, do a `git checkout DIR` on that directory to restore the delete files.
 
+
 ## Internal links
 
 Internal links are created using an anchor tag where the `href` value uses a `link` function and the path to the versioned filed. This is useful as it will be replace with the path to the generated file and also will throw an error if the link is broken.
@@ -38,9 +39,11 @@ However, running the website of a subpath is not supported by the function and t
 e.g.
 
 {% raw %}
-```
+```liquid
 {{ site.baseurl }}{% link _pages/shows.md %}
-# Results in:
+
+Results in:
+
 /the-buckfever-underground/shows/
 ```
 {% endraw %}
@@ -106,6 +109,6 @@ If you don't need a frame or caption, use the [image simple](/_includes/image_si
 
 Surround an e-mail address in angled brackets to make it a link.
 
-```
+```md
 <user@example.com>
 ```
