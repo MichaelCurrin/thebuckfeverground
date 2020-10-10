@@ -1,9 +1,11 @@
 > Static site content for a South African band that performs poetry with improvised music
 
-[![Made with Jekyll](https://img.shields.io/badge/jekyll-3.8.5-blue.svg)](https://jekyllrb.com)
+[![Made with Jekyll](https://img.shields.io/badge/jekyll-3.9-blue.svg?logo=jekyll)](https://jekyllrb.com)
 [![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minina)
 
 A static website for _The Buckfever Underground_ band.
+
+https://thebuckfeverunderground.co.za
 
 Repo: [MichaelCurrin/the-buckfever-underground/](https://github.com/MichaelCurrin/the-buckfever-underground/)
 
