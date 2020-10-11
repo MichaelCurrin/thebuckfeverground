@@ -10,4 +10,5 @@ gem "minima", "~> 2.5.1"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
 end
