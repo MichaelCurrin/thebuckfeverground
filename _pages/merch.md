@@ -117,17 +117,18 @@ R250 each. Plus [postage](#postage).
 %}
 </div>
 
+<br>
 
-### Prices
+## Prices
 
-#### Summary
+### Summary
 
 - R250 for caps
 - R150 for beanies
 - R220 for t-shirts
 - R400 for hoodies
 
-#### Postage
+### Postage
 
 Additional courier cost:
 
