@@ -1,6 +1,6 @@
 ---
 title: 2019 tour t-shirt
-categories: shows
+categories: merch
 ---
 
 {% capture shirt_relative %}
