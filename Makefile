@@ -7,14 +7,14 @@ install:
 	bundle config set --local path vendor/bundle
 	bundle install
 
-serve:
+s serve:
 	bundle exec jekyll serve --trace
 
-serve-incr:
+i serve-incr:
 	bundle exec jekyll serve --trace --incremental
 
 # For FTP.
-build-prod-local:
+b build-prod-local:
 	JEKYLL_ENV=production bundle exec jekyll build --trace --config _config.yml,_config_prod.yml
 preview:
 	cd _site && python3 -m http.server
