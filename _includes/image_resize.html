@@ -1,1 +1,6 @@
-<img src="{{ include.path | resize: '500x500>' }}" {%- if include.alt %}    alt="{{ include.alt }}"    title="{{ include.alt }}" {% endif -%} />
+<img src="{{ include.path | resize: '500x500>' }}"
+{%- if include.alt %}
+    alt="{{ include.alt }}"
+    title="{{ include.alt }}"
+{% endif -%}
+/>
