@@ -3,7 +3,7 @@ title: April 2019 - Laaste Dae-toer
 date: 2019-04-11
 ---
 
-{% include image_simple.html
+{% include image.html
     image_path="/assets/images/promo/Laaste Dae poster colour.jpg"
     description="Laaste Dae-toer poster"
 %}
