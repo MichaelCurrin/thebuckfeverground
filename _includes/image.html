@@ -11,10 +11,10 @@
 <figure class="captionedImage">
     {%- if include.out_link -%}
         <a href="{{ include.out_link }}">
-    {%- endif -%}
             {% include image_simple.html %}
-    {%- if include.out_link -%}
         </a>
+    {%- else -%}
+        {% include image_simple.html %}
     {%- endif -%}
     <figcaption>{{ include.description }}</figcaption>
 </figure>
