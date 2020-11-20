@@ -1,12 +1,14 @@
 {% comment %}
-    Insert image tag with hidden description.
+    Insert centered image tag with hidden description.
+
+    Note the centering might not do anything visible - see image.html as that centers properly and uses this includes.
 
     Required args:
         image_path
     Optional args:
         description
 {% endcomment %}
-
 <img src="{{ include.image_path | relative_url }}"
-    {% if include.description %}alt="{{ include.description }}"{% endif %}
-    class="center">
+    {%- if include.description %} alt="{{ include.description }}" {% endif %}
+    class="center"
+/>
