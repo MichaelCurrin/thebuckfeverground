@@ -9,7 +9,7 @@ install:
 	bundle install
 
 
-# Remove resize image cache dir.
+# Remove resized images.
 clean:
 	rm -rf cache
 
@@ -23,7 +23,9 @@ i serve-incr: clean
 
 # For FTP.
 b build-prod-local: clean
-	JEKYLL_ENV=production bundle exec jekyll build --trace --config _config.yml,_config_prod.yml
+	JEKYLL_ENV=production bundle exec jekyll build --trace \
+		--config _config.yml,_config_prod.yml
+
 preview:
 	cd _site && python3 -m http.server
 
