@@ -8,15 +8,17 @@ install:
 	bundle config set --local path vendor/bundle
 	bundle install
 
+
+# Remove resize image cache dir.
 clean:
 	rm -rf cache
 
 
 s serve: clean
-	bundle exec jekyll serve --trace
+	bundle exec jekyll serve --trace --livereload
 
 i serve-incr: clean
-	bundle exec jekyll serve --trace --incremental
+	bundle exec jekyll serve --trace  --livereload --incremental
 
 
 # For FTP.
