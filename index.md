@@ -4,16 +4,17 @@ title: The Buckfever Underground
 ---
 
 {% capture album_url %}
-    {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
+    {% link _music/last_days_of_beautiful/index.md %}
 {% endcapture %}
 
+{{ album_url }}
 Official website of _The Buckfever Underground_. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
 
 ## Covid-19 announcement
 
 {% include covid_banner.html %}
 
-Read this [blog post]({{ site.baseurl }}{% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
+Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
 
 
 ## Upcoming shows

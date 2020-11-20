@@ -15,7 +15,7 @@ Hear our music online through these channels:
 
 ## Discography
 
-See details of some of our albums below, including lyrics and pricing. To buy, see the [Merch]({{ site.baseurl }}{% link _pages/merch.md %}) page.
+See details of some of our albums below, including lyrics and pricing. To buy, see the [Merch]({% link _pages/merch.md %}) page.
 
 <ul>
     {% assign albums = site.music | where: "layout", "album" | sort: 'date' | reverse %}

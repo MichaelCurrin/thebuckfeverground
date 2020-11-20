@@ -14,7 +14,7 @@ layout: default
 
     {% if name == grouping_name %}
         <p>
-            Back to <a href="{{ site.baseurl }}{% link _pages/press.md %}">Press</a> | <a href="{{ item.url | remove: index.html | relative_url }}">{{ item.title }}</a>
+            Back to <a href="{% link _pages/press.md %}">Press</a> | <a href="{{ item.url | remove: index.html | relative_url }}">{{ item.title }}</a>
         </p>
         {% break %}
     {% endif %}
