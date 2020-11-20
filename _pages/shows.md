@@ -3,7 +3,7 @@ title: Shows
 permalink: /shows/
 ---
 
-<ul>
+<ul class="shows-list">
     {% assign sorted_shows = site.shows | sort: 'date' | reverse %}
     {% for show in sorted_shows %}
     <li>
