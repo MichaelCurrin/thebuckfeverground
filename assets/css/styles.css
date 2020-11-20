@@ -24,3 +24,8 @@ img {
 .post-meta {
     font-size: inherit;
 }
+
+/* Shortern tall images in the list view. */
+.shows-list img {
+    max-height: 400px;
+}
