@@ -19,3 +19,8 @@ img {
     text-indent: 0;
     margin: 20px;
 }
+
+/* The theme's text is too small. */
+.post-meta {
+    font-size: inherit;
+}

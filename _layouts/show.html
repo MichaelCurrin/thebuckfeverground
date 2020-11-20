@@ -2,8 +2,14 @@
 layout: default
 ---
 
-<p>Back to <a href="{{ site.baseurl }}{% link _pages/shows.md %}">Shows</a></p>
+<p>
+    Back to <a href="{{ site.baseurl }}{% link _pages/shows.md %}">Shows</a>
+</p>
 
 <h1>Show: {{ page.title }}</h1>
+
+<p class="post-meta">
+    <time>{{ page.date | date: "%b %-d, %Y" }}</time>
+</p>
 
 {{ content }}
