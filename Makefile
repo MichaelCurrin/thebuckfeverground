@@ -4,20 +4,27 @@ default: install
 h help:
 	@egrep '^\S|^$$' Makefile
 
+
 install:
 	bundle config set --local path vendor/bundle
 	bundle install
 
+.PHONY: hooks
+hooks:
+	# Don't use -r flag as it is not widely compatible.
+	cd .git/hooks && ln -s -f ../../hooks/pre-push pre-push
+	ls -l ./.git/hooks/pre-push
 
-# Remove resized images.
+
+# Remove resized images. Optional. Resizing is faster if images already exist.
 clean:
 	rm -rf cache
 
 
-s serve: clean
+s serve:
 	bundle exec jekyll serve --trace --livereload
 
-i serve-incr: clean
+i serve-incr:
 	bundle exec jekyll serve --trace  --livereload --incremental
 
 
@@ -29,8 +36,7 @@ b build-prod-local: clean
 preview:
 	cd _site && python3 -m http.server
 
-
 # For Netlify.
 build-prod-remote:
 	# Don't use prod config here until moved to Netlify.
-	jekyll build
+	bundle exec jekyll build --trace
