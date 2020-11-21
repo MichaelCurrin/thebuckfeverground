@@ -12,18 +12,20 @@
 
     {% seo %}
 
-    {% if site.bing %}
-        <meta name="msvalidate.01" content="{{ site.bing }}" />
-    {% endif %}
-
     <!-- Theme's styling -->
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     <!-- Custom styling -->
-    <link rel="stylesheet" href="{{ "/assets/css/styles.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 
     {%- feed_meta -%}
 
-    {%- if site.google_analytics -%}
-        {%- include google-analytics.html -%}
-    {%- endif -%}
+    {% if jekyll.environment == 'production' %}
+        {% if site.bing %}
+            <meta name="msvalidate.01" content="{{ site.bing }}" />
+        {% endif %}
+
+        {% if site.google_analytics %}
+            {% include google-analytics.html %}
+        {% endif %}
+    {% endif %}
 </head>
