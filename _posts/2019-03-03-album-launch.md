@@ -4,7 +4,7 @@ categories: music
 ---
 
 {% capture album_link %}
-   {% link _music/last_days_of_beautiful/index.md %}
+   {% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 {% include image.html
     image_path="/assets/images/albums/Last Days of Beautiful small.png"

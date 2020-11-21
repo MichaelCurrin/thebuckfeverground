@@ -54,10 +54,10 @@ Unfortunately when referencing an index page, this creates a `/index.html` path 
 
 {% raw %}
 ```
-{{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
+{{ site.baseurl }}{% link _music/last-days-of-beautiful/index.md %}
 
 # Results in:
-/the-buckfever-underground/music/last_days_of_beautiful/index.html
+/the-buckfever-underground/music/last-days-of-beautiful/index.html
 ```
 {% endraw %}
 
@@ -66,12 +66,12 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 {% raw %}
 ```
 {% capture album_link %}
-   {{ site.baseurl }}{% link _music/last_days_of_beautiful/index.md %}
+   {{ site.baseurl }}{% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 {{ album_link }}
 
 # Results in:
-/the-buckfever-underground/music/last_days_of_beautiful/index.html
+/the-buckfever-underground/music/last-days-of-beautiful/index.html
 ```
 {% end raw}
 
@@ -83,7 +83,7 @@ Perhaps the boilerplate above can be replaced with an includes function.
 
 A solution to this is to set the **permalink** in the album's metadata.
 
-Setting `/last_days_of_beautiful/` is too short. Since the `/music/` permalink is already set and should not be duplicated, using `/:collection/last_days_of_beautiful/` works wells here. Note the trailing slash is good form. There are of course pages within the as the songs.
+Setting `/last-days-of-beautiful/` is too short. Since the `/music/` permalink is already set and should not be duplicated, using `/:collection/last-days-of-beautiful/` works wells here. Note the trailing slash is good form. There are of course pages within the as the songs.
 
 Unfortunately, `:title` and `:slug` just give `index` as the result rather than the album folder slug and `:name`, `:basename` and `:path` do not help either.
 

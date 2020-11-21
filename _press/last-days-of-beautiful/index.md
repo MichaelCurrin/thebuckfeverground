@@ -1,7 +1,7 @@
 ---
 title: Last Days of Beautiful
 date: 2020-06-11
-permalink: /:collection/last_days_of_beautiful/
+permalink: /:collection/last-days-of-beautiful/
 ---
 
 [Onlangse Buckfever Underground ’n sterk uitreiking](https://www.litnet.co.za/onlangse-buckfever-underground-n-sterk-uitreiking/) June 2020. Willem de Vries reviewed our album on [litnet.co.za](https://www.litnet.co.za/).
