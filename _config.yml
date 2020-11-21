@@ -109,15 +109,9 @@ defaults:
 # this will be prepended on album pages.
 album_images_dir: /assets/images/albums/
 
-# Exclude from built results. Dot files and underscore files will excluded already.
 exclude:
-  - bin/
   - docs/
-  - NOTES/
-  - vendor/
-  - LICENSE
+  - hooks/
   - README.md
-  - Gemfile
-  - Gemfile.lock
   - Makefile
   - netlify.toml
