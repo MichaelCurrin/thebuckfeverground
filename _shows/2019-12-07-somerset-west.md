@@ -1,5 +1,5 @@
 ---
-title: 7th Dec 2019 in Somerset West
+title: Somerset West
 date: 2019-12-07
 ---
 

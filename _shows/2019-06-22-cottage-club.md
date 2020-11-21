@@ -1,5 +1,5 @@
 ---
-title: 22nd June 2019 - The Cottage Club
+title: The Cottage Club
 date: 2019-06-22
 ---
 

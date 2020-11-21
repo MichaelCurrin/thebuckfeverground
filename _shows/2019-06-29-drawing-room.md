@@ -1,5 +1,5 @@
 ---
-title: 29th June 2019 - The Drawing Room Cafe
+title: The Drawing Room Cafe
 date: 2019-06-29
 ---
 
