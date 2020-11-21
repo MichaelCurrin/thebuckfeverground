@@ -12,7 +12,7 @@ We do not deliver to Mars yet, unless of course you mean that farm of the same n
 
 ## CDs
 
-Select a CD to order from the Discography list on the [Music]({{ site.baseurl }}{% link _pages/music.md %}) page.
+Select a CD to order from the Discography list on the [Music]({% link _pages/music.md %}) page.
 
 Buy a digital copy email your order and we'll ship it to you - see [postage](#postage). We always bring CDs to sell at our gigs. Stock is limited.
 

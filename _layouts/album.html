@@ -10,7 +10,7 @@ layout: default
 
 {% assign album_name = page.path | split: "/" | slice: 1 %}
 
-<p>Back to <a href="{{ site.baseurl }}{% link _pages/music.md %}">Music</a></p>
+<p>Back to <a href="{% link _pages/music.md %}">Music</a></p>
 
 <h1>Album: {{ page.title }}</h1>
 
@@ -31,7 +31,7 @@ layout: default
 
 {% assign press_mains = site.press | where: "layout", "press_main" %}
 
-{# For loop used here for ease but a filter and getting one item if any would work. #}
+{% comment %} For loop used here for ease but a filter and getting one item if any would work. {% endcomment %}
 {%- for item in press_mains -%}
     {% assign press_name = item.path | split: "/" | slice: 1 %}
     {%- if press_name == album_name -%}
@@ -57,7 +57,7 @@ layout: default
     {% endif %}
 </ul>
 
-<p>To place an order, see the <a href="{{ site.baseurl }}{% link _pages/merch.md %}">Merch</a> page.</p>
+<p>To place an order, see the <a href="{% link _pages/merch.md %}">Merch</a> page.</p>
 
 
 {{ content }}
@@ -67,7 +67,7 @@ layout: default
 
 <ol>
     {% assign all_tracks_sorted = site.music | where: "layout", "track" %}
-    
+
     {% for track in all_tracks_sorted %}
         {% assign track_album_name = track.path | split: "/" | slice: 1 %}
 

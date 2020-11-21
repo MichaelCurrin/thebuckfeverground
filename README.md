@@ -1,7 +1,7 @@
 # The Buckfever Underground
 > Static site content for a South African band that performs poetry with improvised music
 
-[![Made with Jekyll](https://img.shields.io/badge/jekyll-3.8.5-blue.svg)](https://jekyllrb.com)
+[![Made with Jekyll](https://img.shields.io/badge/jekyll-4-blue.svg)](https://jekyllrb.com)
 [![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minima)
 
 A static website for the band named _The Buckfever Underground_.
@@ -18,7 +18,7 @@ A static website for the band named _The Buckfever Underground_.
 
 Released with the [No license](https://choosealicense.com/no-permission/) option for **restricted copyright** on content and code.
 
-- You might find the layout files, includes files or the structure of the project useful for your own projects, so you are allowed to use docs and code as inspiration for your own projects. 
+- You might find the layout files, includes files or the structure of the project useful for your own projects, so you are allowed to use docs and code as inspiration for your own projects.
 - But you may **not** serve a copy of this site (in whole or in part) as your own.
 - The trademarks of the band (including the band name, photos, lyrics, artwork and copy) remain owned by the band, or respective authors and photographers.
 

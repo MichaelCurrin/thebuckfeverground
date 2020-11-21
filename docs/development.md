@@ -36,6 +36,8 @@ Internal links are created using an anchor tag where the `href` value uses a `li
 
 However, running the website of a subpath is not supported by the function and therefore the base URL must be inserted before it.
 
+Update: This is not needed anymore for Jekyll 4.
+
 e.g.
 
 {% raw %}
