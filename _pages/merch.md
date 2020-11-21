@@ -26,7 +26,7 @@ Just released! Black versions of our Sit Dit Af hoodie.
 R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighting for Water Justice Coalition_.
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-logo.jpg'
     alt=''
     options="550x550>"
@@ -34,12 +34,12 @@ R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighti
 </div>
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-back-3.jpg'
     alt=''
     options="500x500>"
 %}
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-back-1.jpg'
     alt=''
     options="500x500>"
@@ -55,7 +55,7 @@ New and limited edition. They say "Buckfever" and "Bokkoors".
 R150 each. Plus [postage](#postage).
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/beanies-3.jpg'
     alt='Beanie'
     options="700x700>"
@@ -70,12 +70,12 @@ R150 each. Plus [postage](#postage).
 Our most popular shirt. In Men's and Women's cuts. R220 each. Plus [postage](#postage).
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/toast-shirt.jpg'
     alt=""
     options="730x730>"
 %}
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/toast-shirt-2.jpg'
     alt=""
     options="730x730>"
@@ -89,11 +89,11 @@ Our most popular shirt. In Men's and Women's cuts. R220 each. Plus [postage](#po
 In Men's and Women's cuts. R220 each. Plus [postage](#postage).
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/Sit Dit Af alice.jpg'
     alt=''
 %}
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/shirt and cap toast.jpg'
     alt=""
 %}
@@ -107,11 +107,11 @@ In Men's and Women's cuts. R220 each. Plus [postage](#postage).
 R250 each. Plus [postage](#postage).
 
 <div align="center">
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/2020/toast-hat.jpg'
     alt="Cap"
 %}
-{% include image_resize.html
+{% include image-resize.html
     path='/assets/images/merch/shirt and cap alice.jpg'
     alt=""
 %}

@@ -11,7 +11,7 @@ Official website of _The Buckfever Underground_. We are also on [Facebook](https
 
 ## Covid-19 announcement
 
-{% include covid_banner.html %}
+{% include covid-banner.html %}
 
 Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
 

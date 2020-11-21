@@ -5,7 +5,7 @@ layout: default
 # Link to the track's album using the common parent directory name.
 ---
 
-<h1>Track {% include track_number.html track_path=page.path %}: {{ page.title }}</h1>
+<h1>Track {% include track-number.html track_path=page.path %}: {{ page.title }}</h1>
 
 {% assign track_album_name = page.path | split: "/" | slice: 1 %}
 {% assign albums = site.music | where: "layout", "album" %}
@@ -20,10 +20,10 @@ layout: default
 {% endfor %}
 
 {%- if page.previous.layout == 'track' -%}
-    Prev {% include track_number.html track_path=page.previous.path %}: <a href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a><br>
+    Prev {% include track-number.html track_path=page.previous.path %}: <a href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a><br>
 {%- endif -%}
 {%- if page.next.layout == 'track' -%}
-    Next {% include track_number.html track_path=page.next.path %}: <a href="{{ page.next.url | relative_url }}">{{page.next.title}}</a><br>
+    Next {% include track-number.html track_path=page.next.path %}: <a href="{{ page.next.url | relative_url }}">{{page.next.title}}</a><br>
 {%- endif -%}
 <br>
 

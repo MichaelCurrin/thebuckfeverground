@@ -26,7 +26,7 @@ layout: default
 {% endif %}
 
 {% if page.bandcamp %}
-    {% include bandcamp_player.html bandcamp=page.bandcamp %}
+    {% include bandcamp-player.html bandcamp=page.bandcamp %}
 {% endif %}
 
 {% assign press_mains = site.press | where: "layout", "press_main" %}

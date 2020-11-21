@@ -48,7 +48,7 @@ Get in touch. Send your orders and questions about shows to Toast at <{{ site.em
 {%- endif -%}
 </ul>
 
-{% include image_simple.html
+{% include image-simple.html
     image_path="/assets/images/beer and freedom.jpg"
     description="Beer and freedom logo"
 %}

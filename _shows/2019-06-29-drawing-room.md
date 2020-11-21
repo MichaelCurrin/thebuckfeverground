@@ -4,7 +4,7 @@ date: 2019-06-29
 ---
 
 <div class="medium center">
-    {% include image_simple.html
+    {% include image-simple.html
         image_path="/assets/images/promo/2019-06-29 Banana Brains show square.png"
         description="BFU and Banana Brains in Obz"
     %}

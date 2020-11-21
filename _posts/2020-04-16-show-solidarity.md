@@ -25,18 +25,18 @@ Visit their [Facebook page](https://facebook.com/Fighting-For-Water-Justice-Coal
 ## Photos of their activities
 
 
-{% include image_simple.html
+{% include image-simple.html
     image_path="/assets/images/photos/water_justice/serving.jpg"
 %}
 
-{% include image_simple.html
+{% include image-simple.html
     image_path="/assets/images/photos/water_justice/gloves.jpg"
 %}
 
-{% include image_simple.html
+{% include image-simple.html
     image_path="/assets/images/photos/water_justice/queue.jpg"
 %}
 
-{% include image_simple.html
+{% include image-simple.html
     image_path="/assets/images/photos/water_justice/rice.jpg"
 %}

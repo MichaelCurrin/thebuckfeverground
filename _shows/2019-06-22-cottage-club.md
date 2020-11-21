@@ -4,7 +4,7 @@ date: 2019-06-22
 ---
 
 <div class="medium center">
-    {% include image_simple.html
+    {% include image-simple.html
         image_path="/assets/images/promo/2019-06-22 Cottage Club.jpg"
         description="BFU at the Cottage Club"
     %}
