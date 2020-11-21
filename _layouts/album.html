@@ -31,7 +31,7 @@ layout: default
 
 {% assign press_mains = site.press | where: "layout", "press_main" %}
 
-{# For loop used here for ease but a filter and getting one item if any would work. #}
+{% comment %} For loop used here for ease but a filter and getting one item if any would work. {% endcomment %}
 {%- for item in press_mains -%}
     {% assign press_name = item.path | split: "/" | slice: 1 %}
     {%- if press_name == album_name -%}
