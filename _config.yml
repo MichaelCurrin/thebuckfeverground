@@ -1,7 +1,3 @@
-###############
-# Main config #
-###############
-
 ### Build settings ###
 
 markdown: kramdown
