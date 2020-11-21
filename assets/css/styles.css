@@ -29,3 +29,7 @@ img {
 .shows-list img {
     max-height: 400px;
 }
+
+.hero-logo {
+    border: none;
+}

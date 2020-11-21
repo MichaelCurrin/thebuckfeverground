@@ -3,10 +3,9 @@ layout: default
 ---
 
 <div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading" align="center">{{ page.title | upcase }}</h1>
-    {%- endif -%}
+    <img class="hero-logo" src="{% link assets/images/band-logo.svg %}" />
+
+    <br>
 
     {{ content }}
-
 </div>
