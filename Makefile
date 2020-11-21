@@ -30,12 +30,11 @@ i serve-incr:
 
 # For FTP.
 build: clean
-	JEKYLL_ENV=production bundle exec jekyll build --trace \
-		--config _config.yml,_config_prod.yml
+	JEKYLL_ENV=production bundle exec jekyll build --trace
 preview:
 	cd _site && python3 -m http.server
 
 # For Netlify.
-build-prod:
-	# Don't use prod config here until moved to Netlify.
+build-remote:
+	# Don't use Prod config here until moved to Netlify.
 	bundle exec jekyll build --trace
