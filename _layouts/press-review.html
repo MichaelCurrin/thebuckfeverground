@@ -7,9 +7,9 @@ layout: default
 {% assign press_page = site.pages | where: "name", "press.md" | first %}
 
 {% assign grouping_name = page.path | split: "/" | slice: 1 %}
-{% assign press_mains = site.press | where: "layout", "press_main" %}
+{% assign press-mains = site.press | where: "layout", "press-main" %}
 
-{% for item in press_mains %}
+{% for item in press-mains %}
     {% assign name = item.path | split: "/" | slice: 1 %}
 
     {% if name == grouping_name %}

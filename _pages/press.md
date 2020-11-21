@@ -4,7 +4,7 @@ permalink: /press/
 ---
 
 <ul>
-    {% assign ordered_press = site.press | where: "layout", "press_main" | sort: 'date' | reverse %}
+    {% assign ordered_press = site.press | where: "layout", "press-main" | sort: 'date' | reverse %}
 
     {% for item in ordered_press %}
         <li>

@@ -70,12 +70,12 @@ defaults:
       path: "_press/*"
       type: "press"
     values:
-      layout: "press_review"
+      layout: "press-review"
   - scope:
       path: "_press/*/index.md"
       type: "press"
     values:
-      layout: "press_main"
+      layout: "press-main"
   - scope:
       path: ""
       type: "shows"
