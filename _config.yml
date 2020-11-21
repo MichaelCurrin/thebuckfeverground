@@ -15,15 +15,20 @@ title: The Buckfever Underground
 description: Spoken-word experimental rock band in Cape Town, South Africa.
 email: info@toastcoetzer.com
 
+url: "https://thebuckfeverunderground.co.za"
 baseurl: ""
-url: ""
 
 ### Tracking ###
 
 # GA is used for both staging and prod. The filters are set on the GA views to be restrictive on
 # those to environments' domains, so will effectively localhost and spam views.
 google_analytics: UA-87705880-3
-bing:
+
+# Code to verify property on Bing Webmaster Tools.
+# For Google, auto-validation is applied in the case using https:// and you
+# have access to the GA account. Using the property setup without the protocol
+# requires setting a TXT record in DNS settings so is harder.
+bing: 75C503DB2279FEDB811A42BD43783A68
 
 ### Social links ###
 
