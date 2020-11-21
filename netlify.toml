@@ -1,5 +1,3 @@
 [build]
-  base = "/"
+  command = "make build-remote"
   publish = "_site"
-  # environment = {JEKYLL_ENV = "production"}
-  command = "make remote-build-prod"
