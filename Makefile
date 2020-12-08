@@ -11,9 +11,7 @@ install:
 
 .PHONY: hooks
 hooks:
-	# Don't use -r flag as it is not widely compatible.
 	cd .git/hooks && ln -s -f ../../hooks/pre-push pre-push
-	ls -l ./.git/hooks/pre-push
 
 
 # Remove resized images. Optional. Resizing is faster if images already exist.
