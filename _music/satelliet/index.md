@@ -1,7 +1,7 @@
 ---
 title: Satelliet EP
 # Set the SEO description tag - helps for link sharing.
-description: Satelliet EP
+description: Album
 date: 2020-12-09
 permalink: /:collection/satelliet/
 

@@ -1,6 +1,6 @@
 ---
 title: Verkeerdevlei
-description: Verkeerdevlei
+description: Album
 date: 2012-08-12
 permalink: /:collection/verkeerdevlei/
 

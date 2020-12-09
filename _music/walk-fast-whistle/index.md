@@ -1,5 +1,6 @@
 ---
 title: Walk Fast, Whistle
+description: Album
 date: 2013-07-01
 permalink: /:collection/walk_fast_whistle/
 

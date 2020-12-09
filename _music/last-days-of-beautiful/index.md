@@ -1,6 +1,6 @@
 ---
 title: Last Days of Beautiful
-description: Last Days of Beautiful
+description: Album
 date: 2019-03-03
 permalink: /:collection/last-days-of-beautiful/
 

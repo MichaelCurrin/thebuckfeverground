@@ -1,6 +1,6 @@
 ---
 title: Limbs Gone Batty (live)
-description: Limbs Gone Batty (live)
+description: Album
 sub_title: Or "The Role Of The Anterior-Posterior Patterning Signal, Sonic Hedgehog, In The Development Of The Unique Bat Limb"
 date: 2009-06-01
 permalink: /:collection/limbs_gone_batty/

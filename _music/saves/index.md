@@ -1,6 +1,6 @@
 ---
 title: SAVES
-description: SAVES
+description: Album
 date: 2007-08-01
 permalink: /:collection/saves/
 
