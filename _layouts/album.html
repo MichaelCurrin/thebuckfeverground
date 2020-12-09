@@ -19,8 +19,11 @@ layout: default
 <p><b>Released:</b> {{ page.date | date: "%B %Y "}}</p>
 
 {% if page.image %}
-    <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}"
-         alt="{{ page.title }} album cover" class="simpleImage medium">
+    <div align="center">
+        <img src="{{ site.album_images_dir | relative_url }}{{ page.image }}"
+            alt="{{ page.title }} album cover"
+            class="medium">
+    </div>
     <br>
     <br>
 {% endif %}
@@ -42,6 +45,8 @@ layout: default
 {%- endfor -%}
 
 
+{% if page.price_local %}
+
 <h2>Order</h2>
 
 <ul>
@@ -59,6 +64,7 @@ layout: default
 
 <p>To place an order, see the <a href="{% link _pages/merch.md %}">Merch</a> page.</p>
 
+{% endif %}
 
 {{ content }}
 
