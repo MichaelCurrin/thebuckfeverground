@@ -5,4 +5,4 @@
     Keep as a string with any leading zeroes.
 {% endcomment %}
 {% assign name = include.track_path | split: "/" | last %}
-{{- name | split: "_" | first -}}
+{{- name | split: "-" | first -}}
