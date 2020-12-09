@@ -3,7 +3,11 @@ layout: home
 title: The Buckfever Underground
 ---
 
-{% capture album_url %}
+{% capture satelliet_url %}
+    {% link _music/satelliet/index.md %}
+{% endcapture %}
+
+{% capture last_days_url %}
     {% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 
@@ -14,6 +18,33 @@ Official website of _The Buckfever Underground_. We are also on [Facebook](https
 {% include covid-banner.html %}
 
 Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
+
+
+## Latest album
+
+During lockdown in 2020, we recorded audio tracks separately from our homes and then mixed them together.
+
+Our new 6-track EP [Satelliet]({{ satelliet_url }}) now is available as a digital album.
+
+{% comment %}
+This compresses the image too much.
+
+{% include image-resize.html
+    path="/assets/images/albums/satelliet.jpg"
+    target=satelliet_url
+    options='500x500>'
+%}
+{% endcomment%}
+
+<div align="center">
+    <a href="{{ satelliet_url }}">
+        <img src="{% link assets/images/albums/satelliet.jpg %}"
+            alt="{{ page.title }} album cover"
+            class="medium">
+    </a>
+</div>
+<br>
+<br>
 
 
 ## Upcoming shows
@@ -45,11 +76,11 @@ No shows scheduled yet. Watch this space and our social media.
 
 ## Latest album
 
-We released this in 2019. Listen and buy it online here - [The Last Days of Beautiful]({{ album_url }}).
+We released this in 2019. Listen and buy it online here - [The Last Days of Beautiful]({{ last_days_url }}).
 
 {% include image.html
     image_path="/assets/images/albums/Last Days album pile original.jpg"
-    out_link=album_url
+    out_link=last_days_url
 %}
 
 > "Soos altyd is dit fassinerende werk wat die polsslag van die huidige Suid-Afrika feilloos weergee." – Luc Renders
