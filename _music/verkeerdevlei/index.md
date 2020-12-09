@@ -1,5 +1,6 @@
 ---
 title: Verkeerdevlei
+description: Verkeerdevlei
 date: 2012-08-12
 permalink: /:collection/verkeerdevlei/
 

@@ -1,5 +1,6 @@
 ---
 title: TAFL - Teaching Afrikaans as a Foreign Language
+description: TAFL - Teaching Afrikaans as a Foreign Language
 date: 2003-01-01
 permalink: /:collection/tafl/
 
