@@ -22,9 +22,9 @@ Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organi
 
 ## Latest album
 
-During lockdown in 2020, we recorded audio tracks separately from our homes and then mixed them together.
-
 Our new 6-track EP [Satelliet]({{ satelliet_url }}) now is available as a digital album.
+
+During lockdown in 2020, we recorded this album together without being in the same room. We sent recordings to each other and then mixed them together as full tracks.
 
 {% comment %}
 This compresses the image too much.
@@ -43,7 +43,6 @@ This compresses the image too much.
             class="medium">
     </a>
 </div>
-<br>
 <br>
 
 
@@ -72,18 +71,6 @@ No shows scheduled yet. Watch this space and our social media.
 {% for post in posts %}
 - {{ post.date | date: '%F' }}: [{{ post.title }}]({{ post.url | absolute_url }})
 {% endfor %}
-
-
-## Latest album
-
-We released this in 2019. Listen and buy it online here - [The Last Days of Beautiful]({{ last_days_url }}).
-
-{% include image.html
-    image_path="/assets/images/albums/Last Days album pile original.jpg"
-    out_link=last_days_url
-%}
-
-> "Soos altyd is dit fassinerende werk wat die polsslag van die huidige Suid-Afrika feilloos weergee." – Luc Renders
 
 
 ## Photos
