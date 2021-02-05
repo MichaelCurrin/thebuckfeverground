@@ -1,17 +1,19 @@
 default: install
 
 h help:
-	@egrep '^\S|^$$' Makefile
+	@grep '^[a-z]' Makefile
 
-
-install:
-	bundle config set --local path vendor/bundle
-	bundle install
 
 .PHONY: hooks
 hooks:
 	cd .git/hooks && ln -s -f ../../hooks/pre-push pre-push
 
+install:
+	bundle config set --local path vendor/bundle
+	bundle install
+
+upgrade:
+	bundle update
 
 # Remove resized images. Optional. Resizing is faster if images already exist.
 clean:
