@@ -7,7 +7,7 @@ permalink: /:collection/satelliet/
 
 image: satelliet.jpg
 price_local:
-price_foreign:
+price_foreign: $3.99
 bandcamp:
     id: 3648166745
     name: satelliet
@@ -28,6 +28,6 @@ We hope you enjoy the music!
 
 ## Buy online
 
-Downloadable - name your price (no minimum).
+Download the album for $3.99 - all proceeds go to charity.
 
-- [Bandcamp](https://buckfeverunderground.bandcamp.com/album/satelliet)
+- [Satelliet on Bandcamp](https://buckfeverunderground.bandcamp.com/album/satelliet)
