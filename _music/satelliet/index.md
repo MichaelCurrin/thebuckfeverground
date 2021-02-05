@@ -5,7 +5,7 @@ description: Album
 date: 2020-12-09
 permalink: /:collection/satelliet/
 
-image: satelliet.jpg
+image: satelliet-reduced.jpg
 price_local:
 price_foreign:
 bandcamp:
