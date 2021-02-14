@@ -2,6 +2,7 @@ default: install
 
 all: install build
 
+
 h help:
 	@grep '^[a-z]' Makefile
 
@@ -16,6 +17,7 @@ install:
 
 upgrade:
 	bundle update
+
 
 # Remove resized images. Optional. Resizing is faster if images already exist.
 clean:
