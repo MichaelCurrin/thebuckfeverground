@@ -1,16 +1,43 @@
 ---
 title: Music
 permalink: /music/
+
+links:
+  - name: Band Camp
+    url: https://buckfeverunderground.bandcamp.com/
+    icon: bandcamp
+  - name: Apple Music
+    url: https://itunes.apple.com/ca/artist/the-buckfever-underground/265957199
+    icon: applemusic
+  - name: SoundCloud
+    url: https://soundcloud.com/thebuckfeverunderground
+    icon: soundcloud
+  - name: Spotify
+    url: https://open.spotify.com/artist/64CsQDGZFx0ejzIy8VFaI9/discography
+    icon: spotify
+  - name:  Deezer
+    url: https://www.deezer.com/us/artist/566238
+    icon: deezer
+  - name: CD Baby
+    url: https://store.cdbaby.com/Artist/TheBuckfeverUnderground
 ---
 
 ## Listen
 
 Hear our music online through these channels:
 
-- [Band Camp](https://buckfeverunderground.bandcamp.com/)
-- [Apple Music](https://itunes.apple.com/ca/artist/the-buckfever-underground/265957199)
-- [SoundCloud](https://soundcloud.com/thebuckfeverunderground)
-- [CD Baby](https://store.cdbaby.com/Artist/TheBuckfeverUnderground)
+<ul>
+{%- for platform in page.links %}
+    <li>
+        <a href="{{ platform.link }}">
+            {% if platform.icon %}
+              {%- include icon.html name=platform.icon -%}
+            {% endif %}
+            {{ platform.name }}
+        </a>
+    </li>
+{% endfor -%}
+</ul>
 
 
 ## Discography
