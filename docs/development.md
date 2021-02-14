@@ -73,7 +73,7 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 # Results in:
 /the-buckfever-underground/music/last-days-of-beautiful/index.html
 ```
-{% end raw}
+{% endraw %}
 
 If the result is capture, then a replace can be done to remove the name and extension.
 
