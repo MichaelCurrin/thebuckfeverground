@@ -9,8 +9,8 @@
     ],
 
     "files.associations": {
-        "*.html": "jekyll",
-        "*.md": "jekyll",
+        "*.html": "liquid",
+        "*.md": "liquid",
 
         "README.md": "markdown",
         // This cannot be done by directory - only by filename. A bug?
