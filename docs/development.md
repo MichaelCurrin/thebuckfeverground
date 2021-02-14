@@ -1,4 +1,24 @@
-# Development instructions
+# Development
+> Notes for developers
+
+
+## Image resizing
+
+This project uses the `jekyll-resize` plugin as a filter to resize images.
+
+It is used in `_includes/image-resize.html` file.
+
+Use it like this:
+
+{% raw %}
+```liquid
+{% include image-resize.html
+    path='/assets/images/merch/2020/hoodie-black-logo.jpg'
+    alt=''
+    options="550x550>"
+%}
+```
+{% endraw %}
 
 
 ## Categories
