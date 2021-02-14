@@ -55,6 +55,25 @@ See details of some of our albums below, including lyrics and pricing. To buy, s
 
 <br>
 
+<div align="center">
+
+{% include image-resize.html
+    path='/assets/images/albums/collage-4x4-a.png'
+    alt=''
+    options="500x500"
+%}
+
+<br>
+<br>
+
+{% include image-resize.html
+    path='/assets/images/albums/collage-4x4-b.png'
+    alt=''
+    options="500x500"
+%}
+
+</div>
+
 {% include image.html
     image_path="/assets/images/photos/prys die here god the buckfever underground.jpg"
     description="You wonder how those lyrics happen?"
