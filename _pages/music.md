@@ -29,7 +29,7 @@ Hear our music online through these channels:
 <ul>
 {%- for platform in page.links %}
     <li>
-        <a href="{{ platform.link }}">
+        <a href="{{ platform.url }}">
             {% if platform.icon %}
               {%- include icon.html name=platform.icon -%}
             {% endif %}
