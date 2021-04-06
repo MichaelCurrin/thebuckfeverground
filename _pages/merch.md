@@ -7,21 +7,43 @@ permalink: /merch/
 
 Place your orders for CDs or clothing with Toast at <info@toastcoetzer.com> .
 
-We do not deliver to Mars yet, unless of course you mean that farm of the same name just north of Hotazel in the Northern Cape. We've been there and it was nice.
+We use a courier service which costs **R70 - R100** depending on where you live in South Africa. Delivery is prompt upon proof of payment.
+
+For overseas deliveries we use airmail, we’ll let you know what it costs (it takes a while these days, but it will get there).
 
 
-## CDs
+## CDs and Books
 
-Select a CD to order from the Discography list on the [Music]({% link _pages/music.md %}) page.
+See albums (including covers) listed on the [Music]({% link _pages/music.md %}) page.
 
-Buy a digital copy email your order and we'll ship it to you - see [postage](#postage). We always bring CDs to sell at our gigs. Stock is limited.
+<!-- TODO: add thumbnails -->
+
+IN STOCK:
+
+- Jou Medemens Is Dood (1999) – R50
+- TAFL – Teaching Afrikaans As A Foreign Language (2002) – R50
+- The Buckfever Underground SAVES (2007) – R100
+- Verkeerdevlei (2012) – R100
+- [Last Days Of Beautiful]({% link _music/last-days-of-beautiful/index.md %}) (live album, 2019) – R200 (two discs)
+- Lyric book: Last Days of Beautiful (2019) – R100
+
+CD-R (HOME-MADE, ON DEMAND):
+
+- Survival Is Personal (demos, 2000) – R50
+- Trying To Do Something About This Goddamn Terrible Bleak Winter (live, 2005) – R50
+- Walk Fast, Whistle (2013) – R75
+- [Satelliet]({% link _music/satelliet/index.md %}) (EP, 2020) – R50
+
+OUT OF PRINT:
+
+- Limbs Gone Batty (live, 2008)
 
 
 ## Clothing
 
 ### Hoodies
 
-Just released! Black versions of our Sit Dit Af hoodie.
+Black versions of our Sit Dit Af hoodie.
 
 R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighting for Water Justice Coalition_.
 
@@ -50,7 +72,7 @@ R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighti
 
 ### Beanies
 
-New and limited edition. They say "Buckfever" and "Bokkoors".
+Currently sold out. Handmade by our pal Tannie Alida in Bloemfontein. Email us if you want one.
 
 R150 each. Plus [postage](#postage).
 
@@ -86,7 +108,9 @@ Our most popular shirt. In Men's and Women's cuts. R220 each. Plus [postage](#po
 
 ### Sit Dit Af t-shirts
 
-In Men's and Women's cuts. R220 each. Plus [postage](#postage).
+We have a handful of women’s cuts left.
+
+R220 each. Plus [postage](#postage).
 
 <div align="center">
 {% include image-resize.html
@@ -132,5 +156,5 @@ R250 each. Plus [postage](#postage).
 
 Additional courier cost:
 
-- R60 for major urban areas in SA
-- R100 for rural in SA
+- R70 for major urban areas in SA
+- R100 for rural areas in SA
