@@ -52,7 +52,11 @@ Stephen released a book he wrote in Feb 2021, titled **At Any Cost**.
 
 > The South African fraudster who took the tech world for more than $40 million
 
-The book is available to order at this [Book Lounge page](https://booklounge.co.za/product/at-any-cost-by-stephen-timm/) or read more about the book on this [LitNet page](https://www.litnet.co.za/296110-2/).
+The book is available to order on [Amazon][] (ebook available). Or read more about the book on [LitNet][] on on Stephen's [LinkedIn post][].
+
+[Amazon]: https://www.amazon.com/At-Any-Cost-African-fraudster-ebook/dp/B08VS99GGJ
+[LitNet]: https://www.litnet.co.za/296110-2/
+[LinkedIn post]: https://www.linkedin.com/feed/update/urn:li:activity:6782894568309305344/
 
 ### Michael Currin
 
