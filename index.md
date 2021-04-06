@@ -11,7 +11,7 @@ title: The Buckfever Underground
     {% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 
-Official website of _The Buckfever Underground_. We are also on [Facebook](https://www.facebook.com/TheBuckfeverUnderground), together with you, your mother and dogs and babies you've never met and never will.
+“Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
 
 
 ## Covid-19 announcement
@@ -72,17 +72,3 @@ This compresses the image too much.
 {% for post in posts %}
 - {{ post.date | date: '%F' }}: [{{ post.title }}]({{ post.url | absolute_url }})
 {% endfor %}
-
-
-## Photos
-
-{% include image.html
-    image_path="/assets/images/photos/2018/woodstock 16x9.jpg"
-    out_link="https://www.instagram.com/p/BjDP37clPpo/"
-    description="Photo: Alice Inggs."
-%}
-
-{% include image.html
-    image_path="/assets/images/shows/2018/Alex Bar MH2A5894edit1-reduced.JPG"
-    description="Alexander Bar show during 2018 tour. Photo: Dirk Hugo."
-%}
