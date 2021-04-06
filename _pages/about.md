@@ -48,6 +48,12 @@ Stephen plays the drums, sometimes keys and has occasional brings out the percus
     description='Stephen at the Alex Bar in 2018'
 %}
 
+Stephen released a book he wrote in Feb 2021, titled **At Any Cost**.
+
+> The South African fraudster who took the tech world for more than $40 million
+
+The book is available to order at this [Book Lounge page](https://booklounge.co.za/product/at-any-cost-by-stephen-timm/) or read more about the book on this [LitNet page](https://www.litnet.co.za/296110-2/).
+
 ### Michael Currin
 
 Michael plays electric guitar and sometimes acoustic guitar. He takes inspiration for his experimental ambient soundscapes from bands like the Doors, Pink Floyd, Explosions in the Sky and Tool.
@@ -63,7 +69,7 @@ The Buckfever Underground has been around since 1998 when then students [Toast C
     description="October 2011. Photo: Sam Reinders."
 %}
 
-The picture above is from just after we finished recording our Verkeerdevlei album at Teatime Studios out in Brackenfell. Picture from the left are: Gilad Hockman (bass, ideas, The Plan), Jon Savage (keyboards, big tunes), [Toast Coetzer](#toast-coetzer) (vocals, lyrics), [Stephen Timm](#stephen-timm) (drums, electronics, keyboards) and Righard Kapp (guitar magic). Righard lives in Bloemfontein and Gil lives in Joburg.
+The picture above is from just after we finished recording our Verkeerdevlei album at Teatime Studios out in Brackenfell. Pictured from the left are: Gilad Hockman (bass, ideas, The Plan), Jon Savage (keyboards, big tunes), [Toast Coetzer](#toast-coetzer) (vocals, lyrics), [Stephen Timm](#stephen-timm) (drums, electronics, keyboards) and Righard Kapp (guitar magic).
 
 
 {% include image.html
