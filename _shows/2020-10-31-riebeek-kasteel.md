@@ -3,7 +3,7 @@ title: Riebeek-Kasteel
 date: 2020-10-31
 ---
 
-We're playing a show in a scenic and green valley out in Riebeeck-Kasteel.
+We're playing a show in a scenic and green valley out in Riebeek-Kasteel.
 
 
 ## Details
@@ -26,7 +26,7 @@ Riebeek-Kasteel
 For directions, see [Riebeek-Kasteel](https://www.google.com/maps/place/Riebeeck+Kasteel,+7307/@-33.3824857,18.8918112,15z/data=!4m5!3m4!1s0x1dcd21f8bdd841cb:0x2b6b665cfcbda0fc!8m2!3d-33.3852645!4d18.8997119) on Google Maps.
 
 
-## More Riebeeck-Kasteel
+## More Riebeek-Kasteel
 
 From the [Wikipedia](https://en.wikipedia.org/wiki/Riebeek-Kasteel) page:
 

@@ -35,8 +35,8 @@ He is a travel writer at Go / Weg travel magazines. He's also one of the co-edit
 Read more on [toastcoetzer.com](https://www.toastcoetzer.com/) or on his [Afrikaans Wikipedia page](https://af.wikipedia.org/wiki/Toast_Coetzer).
 
 {% include image.html
-    image_path='/assets/images/photos/2018/alex bar - toast.jpg'
-    description='Stephen at the Alex Bar in 2018'
+    image_path='/assets/images/photos/riebeek-kasteel - toast.jpg'
+    description='Toast at Riebeek Kasteel. Photo by Rudolph Willemse.'
 %}
 
 ### Stephen Timm
@@ -44,8 +44,8 @@ Read more on [toastcoetzer.com](https://www.toastcoetzer.com/) or on his [Afrika
 Stephen plays the drums, sometimes keys and has occasional brings out the percussion set of bells and shakers.
 
 {% include image.html
-    image_path='/assets/images/photos/2018/alex bar - stephen.jpg'
-    description='Stephen at the Alex Bar in 2018'
+    image_path='/assets/images/photos/2018/riebeek-kasteel - stephen.jpg'
+    description='Stephen at Riebeek Kasteel. Photo by Rudolph Willemse.'
 %}
 
 Stephen released a book he wrote in Feb 2021, titled **At Any Cost**.
