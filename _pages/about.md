@@ -12,10 +12,9 @@ We tour yearly - throughout the Western Cape and sometimes across the country. W
     description="City soiree at Gerhard's house. Photo: Sam Reinders."
 %}
 
-
 {% include image.html
     image_path="/assets/images/shows/2018/Alex Bar MH2A5894edit1-reduced.JPG"
-    description="Alexander Bar show during 2018 tour. Photo: Dirk Hugo."
+    description="Alexander Bar show during the 2018 tour. Photo: Dirk Hugo."
 %}
 
 
@@ -33,11 +32,21 @@ Toast Coetzer writes and performs poetry in both English and Afrikaans.
 
 He is a travel writer at Go / Weg travel magazines. He's also one of the co-editors of the oldest (and most erratic) Afrikaans zine in the world, [Ons Klyntji](https://klyntji.com/). He co-hosts The Unhappy Hour on Bush Radio 89.5 fm every Sunday from 6-8 pm in Cape Town.
 
-Read more on [toastcoetzer.com](http://www.toastcoetzer.com/) or on [Afrikaans Wikipedia](https://af.wikipedia.org/wiki/Toast_Coetzer).
+Read more on [toastcoetzer.com](https://www.toastcoetzer.com/) or on his [Afrikaans Wikipedia page](https://af.wikipedia.org/wiki/Toast_Coetzer).
+
+{% include image.html
+    image_path='/assets/images/photos/2018/alex bar - toast.jpg'
+    description='Stephen at the Alex Bar in 2018'
+%}
 
 ### Stephen Timm
 
 Stephen plays the drums, sometimes keys and has occasional brings out the percussion set of bells and shakers.
+
+{% include image.html
+    image_path='/assets/images/photos/2018/alex bar - stephen.jpg'
+    description='Stephen at the Alex Bar in 2018'
+%}
 
 ### Michael Currin
 
