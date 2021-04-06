@@ -3,7 +3,7 @@ title: Buckfever & Orwellington
 date: 2020-12-05
 ---
 
-{% include image.html image_path='assets/images/promo/2020 wellington.jpg' %}
+{% include image.html image_path='/assets/images/promo/2020 wellington.jpg' %}
 
 We're playing a show in Wellington again along with our good friends _Orwellington_, who are a local band there.
 
