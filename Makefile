@@ -16,12 +16,14 @@ install:
 	bundle install
 
 upgrade:
+	bundle clean
 	bundle update
 
 
-# Remove resized images. Optional. Resizing is faster if images already exist.
 clean:
+	# Remove resized images. Optional. Resizing is faster if images already exist.
 	rm -rf cache
+
 
 
 s serve:
