@@ -59,7 +59,7 @@ See details of some of our albums below, including lyrics and pricing. To buy, s
 
 {% include image-resize.html
     path='/assets/images/albums/collage-4x4-a.png'
-    alt=''
+    alt='Collage'
     options="500x500"
 %}
 
@@ -68,7 +68,7 @@ See details of some of our albums below, including lyrics and pricing. To buy, s
 
 {% include image-resize.html
     path='/assets/images/albums/collage-4x4-b.png'
-    alt=''
+    alt='Collage'
     options="500x500"
 %}
 

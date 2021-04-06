@@ -28,7 +28,7 @@ R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighti
 <div align="center">
 {% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-logo.jpg'
-    alt=''
+    alt='Hoodie black logo'
     options="550x550>"
 %}
 </div>
@@ -36,12 +36,12 @@ R400 each, plus [postage](#postage). R50 of each hoodie sale goes to the _Fighti
 <div align="center">
 {% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-back-3.jpg'
-    alt=''
+    alt='Hoodie black back'
     options="500x500>"
 %}
 {% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-back-1.jpg'
-    alt=''
+    alt='Hoodie black back'
     options="500x500>"
 %}
 </div>
@@ -72,12 +72,12 @@ Our most popular shirt. In Men's and Women's cuts. R220 each. Plus [postage](#po
 <div align="center">
 {% include image-resize.html
     path='/assets/images/merch/2020/toast-shirt.jpg'
-    alt=""
+    alt="Shirt"
     options="730x730>"
 %}
 {% include image-resize.html
     path='/assets/images/merch/2020/toast-shirt-2.jpg'
-    alt=""
+    alt="Shirt"
     options="730x730>"
 %}
 </div>
@@ -91,11 +91,11 @@ In Men's and Women's cuts. R220 each. Plus [postage](#postage).
 <div align="center">
 {% include image-resize.html
     path='/assets/images/merch/Sit Dit Af alice.jpg'
-    alt=''
+    alt='Shirt'
 %}
 {% include image-resize.html
     path='/assets/images/merch/shirt and cap toast.jpg'
-    alt=""
+    alt="Shirt and cap"
 %}
 </div>
 
@@ -113,7 +113,7 @@ R250 each. Plus [postage](#postage).
 %}
 {% include image-resize.html
     path='/assets/images/merch/shirt and cap alice.jpg'
-    alt=""
+    alt="Shirt and cap"
 %}
 </div>
 
