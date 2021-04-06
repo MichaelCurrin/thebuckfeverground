@@ -20,6 +20,25 @@ Official website of _The Buckfever Underground_. We are also on [Facebook](https
 Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
 
 
+## Upcoming shows
+
+{% assign unix_now = 'now' | date: '%s' | plus: 0 %}
+{% assign shows = site.shows | sort: 'date' | reverse %}
+{% assign anyPosts = false %}
+
+{% for show in shows %}
+{% assign post_time = show.date | date: '%s' | plus: 0 %}
+{% if post_time >= unix_now %}
+- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
+{% assign anyPosts = true %}
+{% endif %}
+{% endfor %}
+
+{% unless anyPosts %}
+No shows scheduled yet. Watch this space and our social media.
+{% endunless %}
+
+
 ## Latest album
 
 Our new 6-track EP [Satelliet]({{ satelliet_url }}) now is available as a digital album.
@@ -44,25 +63,6 @@ This compresses the image too much.
     </a>
 </div>
 <br>
-
-
-## Upcoming shows
-
-{% assign unix_now = 'now' | date: '%s' | plus: 0 %}
-{% assign shows = site.shows | sort: 'date' | reverse %}
-{% assign anyPosts = false %}
-
-{% for show in shows %}
-{% assign post_time = show.date | date: '%s' | plus: 0 %}
-{% if post_time >= unix_now %}
-- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
-{% assign anyPosts = true %}
-{% endif %}
-{% endfor %}
-
-{% unless anyPosts %}
-No shows scheduled yet. Watch this space and our social media.
-{% endunless %}
 
 
 ## Recent posts
