@@ -36,7 +36,7 @@ Read more on [toastcoetzer.com](https://www.toastcoetzer.com/) or on his [Afrika
 
 {% include image.html
     image_path='/assets/images/photos/riebeek-kasteel - toast.jpg'
-    description='Toast at Riebeek Kasteel. Photo by Rudolph Willemse.'
+    description='Toast at Riebeek-Kasteel. Photo by Rudolph Willemse.'
 %}
 
 ### Stephen Timm
@@ -45,7 +45,7 @@ Stephen plays the drums, sometimes keys and has occasional brings out the percus
 
 {% include image.html
     image_path='/assets/images/photos/riebeek-kasteel - stephen.jpg'
-    description='Stephen at Riebeek Kasteel. Photo by Rudolph Willemse.'
+    description='Stephen at Riebeek-Kasteel. Photo by Rudolph Willemse.'
 %}
 
 Stephen released a book he wrote in Feb 2021, titled **At Any Cost**.
