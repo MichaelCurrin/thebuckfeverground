@@ -25,17 +25,17 @@ Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organi
 
 {% assign unix_now = 'now' | date: '%s' | plus: 0 %}
 {% assign shows = site.shows | sort: 'date' | reverse %}
-{% assign anyPosts = false %}
+{% assign any_posts = false %}
 
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
 - {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
-{% assign anyPosts = true %}
+{% assign any_posts = true %}
 {% endif %}
 {% endfor %}
 
-{% unless anyPosts %}
+{% unless any_posts %}
 No shows scheduled yet. Watch this space and our social media.
 {% endunless %}
 
