@@ -4,7 +4,7 @@
 
 ## Image resizing
 
-This project uses the `jekyll-resize` plugin as a filter to resize images.
+This project uses the `jekyll-resize` plugin as a filter to resize images to specific sizes.
 
 It is used in `_includes/image-resize.html` file.
 
@@ -19,6 +19,8 @@ Use it like this:
 %}
 ```
 {% endraw %}
+
+If you can also use `image.html`, which uses `image-simple.html` and that includes a piece to resize every image, based on the width of the content on the site. That also centers the image.
 
 
 ## Categories
