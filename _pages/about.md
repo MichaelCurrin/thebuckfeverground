@@ -44,7 +44,7 @@ Read more on [toastcoetzer.com](https://www.toastcoetzer.com/) or on his [Afrika
 Stephen plays the drums, sometimes keys and has occasional brings out the percussion set of bells and shakers.
 
 {% include image.html
-    image_path='/assets/images/photos/2018/riebeek-kasteel - stephen.jpg'
+    image_path='/assets/images/photos/riebeek-kasteel - stephen.jpg'
     description='Stephen at Riebeek Kasteel. Photo by Rudolph Willemse.'
 %}
 
