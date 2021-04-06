@@ -18,7 +18,7 @@ See albums (including covers) listed on the [Music]({% link _pages/music.md %}) 
 
 <!-- TODO: add thumbnails -->
 
-IN STOCK:
+#### IN STOCK
 
 - Jou Medemens Is Dood (1999) – R50
 - TAFL – Teaching Afrikaans As A Foreign Language (2002) – R50
@@ -27,14 +27,14 @@ IN STOCK:
 - [Last Days Of Beautiful]({% link _music/last-days-of-beautiful/index.md %}) (live album, 2019) – R200 (two discs)
 - Lyric book: Last Days of Beautiful (2019) – R100
 
-CD-R (HOME-MADE, ON DEMAND):
+#### CD-R (HOME-MADE, ON DEMAND)
 
 - Survival Is Personal (demos, 2000) – R50
 - Trying To Do Something About This Goddamn Terrible Bleak Winter (live, 2005) – R50
 - Walk Fast, Whistle (2013) – R75
 - [Satelliet]({% link _music/satelliet/index.md %}) (EP, 2020) – R50
 
-OUT OF PRINT:
+#### OUT OF PRINT
 
 - Limbs Gone Batty (live, 2008)
 
