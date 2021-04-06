@@ -8,7 +8,7 @@ date: 2021-05-08
 
 ## Details
 
-- Date: 8 Dec
+- Date: 8 May
 - Time: 4pm - 8pm
 - Cost: R200
 - Bookings: <8meikonsert@gmail.com)
