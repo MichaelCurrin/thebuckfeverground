@@ -11,14 +11,19 @@ title: The Buckfever Underground
     {% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 
-“Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
+> “Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
+
+{% include image.html
+    image_path='/assets/images/photos/2019/karoo.jpg'
+    description='In the Karoo during the 2019 tour'
+%}
 
 
 ## Covid-19 announcement
 
 {% include covid-banner.html %}
 
-Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
+Read our [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
 
 
 ## Upcoming shows
@@ -38,7 +43,6 @@ Read this [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organi
 {% unless any_posts %}
 No shows scheduled yet. Watch this space and our social media.
 {% endunless %}
-
 
 ## Latest album
 
@@ -72,3 +76,9 @@ This compresses the image too much.
 {% for post in posts %}
 - {{ post.date | date: '%F' }}: [{{ post.title }}]({{ post.url | absolute_url }})
 {% endfor %}
+
+
+{% include image.html
+    image_path='/assets/images/photos/stellenbosch.jpg'
+    description='Stellenbosch show in 2019'
+%}
