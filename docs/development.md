@@ -14,7 +14,7 @@ Use it like this:
 ```liquid
 {% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-logo.jpg'
-    alt=''
+    alt='Hoodie black logo'
     options="550x550>"
 %}
 ```
