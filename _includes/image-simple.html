@@ -8,7 +8,11 @@
     Optional args:
         description
 {% endcomment %}
-<img src="{{ include.image_path | relative_url }}"
+{% assign image_path = include.image_path %}
+{% unless include.image_path contains ".svg" %}
+    {% assign image_path = image_path | resize: "820x820>" %}
+{% endunless %}
+<img src="{{ image_path | relative_url }}"
     {%- if include.description %} alt="{{ include.description }}" {% endif %}
     class="center"
 />
