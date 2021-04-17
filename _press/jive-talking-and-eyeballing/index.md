@@ -85,7 +85,7 @@ In 2003 The Buckfever Underground released an album called ‘Teaching Afrikaans
 
 We could now play as a proper four-piece, with Stephen on drums, Gil on bass, and Jon on keyboards. Both Gil and Jon also played guitar – Buckfever has always been a band of instrument-swappers. We recorded the album with Parris Lucas in Fish Hoek, and the sessions were similar to our debut album in approach, but by now everyone were better musicians and more confident. Still, we had lots to learn but with someone like Parris we got great guidance. Generally, we entered a recording session on the back of having played live a lot, so that there were at least some musical ideas to build on. We are at heart an improv band, meaning that we don’t (or seldom) replay songs in the same way. We never have a set-list. Recording was thus a very important time, because we had to ensure that the songs were put down properly for posterity. I’m not a very good singer, but I had inched towards some way of singing which I felt comfortable with, so I tried it out on a couple of tracks.
  
-This is a snippet of Toast talking about one of the songs he wrote for The Buckfever Underground on February 6th 2019... Watch [here](https://fb.watch/3TCWkh-He_/)
+This is a snippet of Toast talking about one of the songs he wrote for The Buckfever Underground on February 6th 2019... Watch [here](https://fb.watch/3TCWkh-He_/).
  
 The Buckfever Underground's third release was ‘Trying To Do Something About This Goddamn Terrible Bleak Winter’ in 2005 and it was recorded live at The Hidden Cellar, Stellenbosch on Saturday 25 June 2005. Listen [here](https://buckfeverunderground.bandcamp.com/album/trying-to-do-something-about-this-goddamn-terrible-bleak-winter)... 
 
@@ -119,7 +119,7 @@ The album features some thought-provoking songs like “The South African”, �
  
 I’m a very big fan of his work, he truly is a pioneer and an influence on so many South African musos, especially our electronic acts. But also his punk ethos and longevity of his career, and the thought he puts into his projects – he really is a leading light. I have had the opportunity to work with him on a track back in 2013 when Michael Cross put together various collaborators on Gary Herselman’s songs for an album called ‘Rigtingbefok’ by Die Lemme. 
  
-See link for Die Lemme: [RIGTINGBEFOK](https://dielemme.bandcamp.com/album/rigtingbefok)
+See link for Die Lemme: [RIGTINGBEFOK](https://dielemme.bandcamp.com/album/rigtingbefok).
  
 ‘Limbs Gone Batty’ is a live album, recorded at the Independent Armchair Theatre and it’s a pretty good record of how we might have sounded like if you strolled in there on a random night somewhere before 2010. (On another night, there might have been Bingo with his angle-grinder showering sparks on the first few rows of people…) The album title is a shortened version of Gil’s sister’s (Dorit, a longtime fan of the band) masters thesis, which is about bats! The full title is: ‘Limbs Gone Batty, or The Role Of The Anterior-Posterior Patterning Signal, Sonic Hedgehog, In The Development Of The Unique Bat Limb’. Because why not?
  
@@ -147,7 +147,7 @@ Is “die volk” still “in die kak”? You better believe it! Although the ly
 On to Toast's writing and other things.
  
 While at university, Coetzer met Justin Nurse who was in charge of the "Laugh it Off" (LIO) independent T-Shirt company who print shirts with funny activist slogans and parodies of corporate company names. Toast suggested the slogan "Black Labour, White Guilt", a parody of the SAB Black Label beer brand with political implications. Following the controversy the shirt caused the matter was taken to court though LIO was found innocent of trademark infringement.
-This is a report on the incident courtesy of News 24 from 07 Mar 2005... [Laugh It Off goes to the top](https://www.news24.com/news24/laugh-it-off-goes-to-the-top-20050307)
+This is a report on the incident courtesy of News 24 from 07 Mar 2005... [Laugh It Off goes to the top](https://www.news24.com/news24/laugh-it-off-goes-to-the-top-20050307).
 
 ---
 
@@ -232,7 +232,7 @@ Stanford is a good space out of the city, and I like to think it will be a good 
 
 ---
 
-**Q.** Any last words for people reading this? Do you think there is a future for books and libraries or do you think Kindle and eBooks are the future?
+**Q.** _Any last words for people reading this? Do you think there is a future for books and libraries or do you think Kindle and eBooks are the future?_
  
 **A.** All these things can co-exist. Sure, the heyday of paper publications is probably behind us, but that’s only because something cheaper came along, and the mode of dissemination (the internet) is so effective. But reading on an electronic device isn’t exactly the same as reading a book, even if you’re reading the same novel. The same goes for magazines – you can get all the same info online, or read a PDF version, but you can’t replicate the physicality of a magazine, the way the paper feels and smells, the weight of it in your hand. Just like there still is a place for vinyl despite the dominance of streaming services, there will be (maybe not always, but for a long time still) a place for physical books alongside e-books, and digital libraries.
 
