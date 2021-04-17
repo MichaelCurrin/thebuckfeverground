@@ -187,11 +187,7 @@ The website [www.klyntji.com](https://www.klyntji.com) and Instagram page [@klyn
 Check out the website here: [klyntji.com/ons-klyntji](https://klyntji.com/ons-klyntji)
 
 I also found this small (klein) little video... [Klyntji Means Little One](https://www.youtube.com/watch?v=cXU0U_yp6zY)
- 
-Coetzer writes poetry, very descriptive poetry and some of his work has been published in Nuwe Stemme 2, in Groot Verseboek and also in magazines like Carapace and New Coin and on the LitNet website. Some of Coetzer's short stories, essays and social commentary have been published in Urban One (Spearhead 2001), Sport vs Art (Wits University Press 2010), Sonbrand en Braaiboud (Tafelberg 2009), and Laugh It Off Annuals. Here are 3 of Coetzer's poems, translated from Afrikaans courtesy of asymptotejournal.com...https://www.asymptotejournal.com/poetry/toast-coetzer-poems/
- 
-In 2009 Coetzer's debut novel, ‘Naweek’ was published. It tells the tale of the wannabe rockstar Maanhaar Basson's end and is written chronologically backwards from the Sunday to the Friday. This novel was shortlisted for an award at the University of Johannesburg in 2010 for a debut prize.
- 
+
 Coetzer writes poetry, very descriptive poetry and some of his work has been published in Nuwe Stemme 2, in Groot Verseboek and also in magazines like Carapace and New Coin and on the LitNet website. Some of Coetzer's short stories, essays and social commentary have been published in Urban One (Spearhead 2001), Sport vs Art (Wits University Press 2010), Sonbrand en Braaiboud (Tafelberg 2009), and Laugh It Off Annuals. Here are 3 of Coetzer's poems, translated from Afrikaans courtesy of asymptotejournal.com... [Toast Coetzer Poems](https://www.asymptotejournal.com/poetry/toast-coetzer-poems/)
 
 In 2009 Coetzer's debut novel, ‘Naweek’ was published. It tells the tale of the wannabee rockstar Maanhaar Basson's end and is written chronologically backwards from the Sunday to the Friday. This novel was shortlisted for an award at the University of Johannesburg in 2010 for a debut prize.
