@@ -8,7 +8,7 @@ This project uses the `jekyll-resize` plugin as a filter to resize images to spe
 
 It is used in `_includes/image-resize.html` file.
 
-Use it like this - including forwardslash at the start.
+Use it like this - including forward slash at the start.
 
 {% raw %}
 ```liquid
