@@ -33,3 +33,7 @@ img {
 .hero-logo {
     border: none;
 }
+
+hr {
+    margin: 15px;
+}
