@@ -1,39 +1,39 @@
 .medium {
-    max-width: 50%;
+  max-width: 50%;
 }
 
 .center {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
-    border: thin silver solid;
-    margin: 5px;
+  border: thin silver solid;
+  margin: 5px;
 }
 
 .captionedImage {
-    text-align: center;
-    font-style: italic;
-    font-size: smaller;
-    text-indent: 0;
-    margin: 20px;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 20px;
 }
 
 /* The theme's text is too small. */
 .post-meta {
-    font-size: inherit;
+  font-size: inherit;
 }
 
 /* Shortern tall images in the list view. */
 .shows-list img {
-    max-height: 400px;
+  max-height: 400px;
 }
 
 .hero-logo {
-    border: none;
+  border: none;
 }
 
 hr {
-    margin: 15px;
+  margin: 15px;
 }
