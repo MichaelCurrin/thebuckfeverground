@@ -1,112 +1,112 @@
 ---
-title: Jive Talking and Eyeballing
+title: Jive Talking and Eyeballing interview
 date: 2021-04-07
 permalink: /:collection/jive-talking-and-eyeballing/
 ---
 
 The interview below is courtesy of Ernesto Garcia Marques. Originally published on his Facebook page “Jive Talking and Eyeballing” on 7 April 2021. Follow Ernie’s page [here](https://www.facebook.com/groups/623022481618491).
 
- 
+
 ## Behind The Music # 11: Toast Coetzer - On the write track with The Buckfever Underground (and other suburban tales)
- 
+
 _The first time I heard the name Toast Coetzer was when I saw that The Buckfever Underground was playing a gig at Ruby in the Dust in Observatory, Cape Town in 1999. There was quite a buzz around Toast and his reputation stemmed from his time as a DJ on Rhodes Music Radio and for articles Toast had written for various magazines and newspapers. I have known Toast for many years though I think he is not that well known to English speaking music fans in Joburg and Durban so hopefully we can change that with this interview..._
- 
+
 _To get us in the mood this song by the late, great James Phillips and the Cherry Faced Lurchers should do the trick. [The Cherry Faced Lurchers - Toasted](https://www.youtube.com/watch?v=nxbH02PbuD0)_
 
 _Pieter Willemse Reino (Toast) Coetzer was born in Cradock in the Eastern Cape in 1977. He went to Gill College in Somerset East where he matriculated in 1995. At school he wrote about cricket for the local Somerset Budget newspaper and edited the school newspaper. From 1996 Toast studied journalism at Rhodes University in Grahamstown where he contributed to the student magazine, Activate. At university Toast became a radio DJ on Rhodes Music Radio and he met Gilad Hockman with whom he formed The Buckfever Underground in 1998. Let's ask Toast to tell the rest of the story himself shall we?_
- 
+
 ---
 
 **Q.** _Howzit Toast, been a while since we last met and I never realised that you had moved to Stanford, near Hermanus. So writing and music has always been in your blood. Which musicians/bands did you listen to at school/college? I presume you listened to English and Afrikaans music when you were young? Also, I think many people may not know how you ended up with the name Toast and they might want to know where that came from....._
- 
+
 **A.** Howzit, Ernie, it is lekker to speak to you and to contribute to this archive of interviews. I’m a big fan of the word “archive” – the more we make stuff the bigger the archive gets… I’m a hoarder, I’ve got archives (books, CDs, old posters…) coming out of my ears! And there’s no bigger hoarder than the internet itself, so here goes…
- 
-To start with it’s important to point out that I’m in a band, but I’m NOT a musician! I can’t play an instrument but thankfully I’ve been lucky to be in a band alongside some very talented musicians over the years. Being in a band is such a fun thing. In my mind, in a perfect world, a band is a group of friends who get together and decide to “make music”. But this is so broad – part of such a process might include drinking beer and coming up with a band name, or designing a poster, or setting up a PA, or hustling to get rehearsal space, driving to the neighbouring town for a show. Being in a band and making music together is simply a creative endeavour. It should be a joyful thing. There’s a role in band context for a variety of talents. If you end up making great music in the process – bonus! 
- 
+
+To start with it’s important to point out that I’m in a band, but I’m NOT a musician! I can’t play an instrument but thankfully I’ve been lucky to be in a band alongside some very talented musicians over the years. Being in a band is such a fun thing. In my mind, in a perfect world, a band is a group of friends who get together and decide to “make music”. But this is so broad – part of such a process might include drinking beer and coming up with a band name, or designing a poster, or setting up a PA, or hustling to get rehearsal space, driving to the neighbouring town for a show. Being in a band and making music together is simply a creative endeavour. It should be a joyful thing. There’s a role in band context for a variety of talents. If you end up making great music in the process – bonus!
+
 My nickname Toast dates from when I was maybe about 9 or 10. My older brother started calling me Toast because he said I wasn’t pronouncing “toast” correctly at the breakfast table. That I was saying it like it’s an Afrikaans word (how the hell are you supposed to know toast isn’t an Afrikaans word… no-one calls it roosterbrood, man!). Anyway, so it just become my nickname and I’ve always used it as my writing name, even from school when I wrote the odd article for the local newspaper. It’s been very useful since it’s much easier to spell and pronounce than my real name, Reino.
- 
+
 As far as early music that I listened to – there wasn’t much. I grew up in the platteland in a time before the internet, so if you didn’t year it on the radio, you didn’t hear it. My parents were into opera and classical music, not exactly genres that you easily gravitate to as a teenager. Even radio was hit and miss back then. The Eastern Cape’s regional station is Radio Algoa, which was a staple in our car on a Monday morning driving to boarding school. Out on our farm we only got Radio Sonder Grense, and the odd snippet of Radio 2000. To be honest, it didn’t bother me – I had a childhood spent outside in nature, and life on the farm was more than enough stimulation.
- 
-Once I moved schools from Cradock to Somerset East, one could find what was then still Radio 5 on your dial. (Yes, exactly, I had to move towns to get better reception…) That’s how I started listening to Barney Simon’s late-night rock show. Even this was a challenge as I was in boarding school and 10 pm was lights out – and that’s when Barney’s show started… No noise was allowed, so I had to listen to all that rock music very softly! Still, Barney’s show started opening my ears to a world of music, but crucially also to local rock. Bands like Springbok Nude Girls, Sugardrive, Squeal, Urban Creep, Lithium and Battery 9 were just putting out their first releases in about 1994, and some Valiant Swart and Koos Kombuis also occasionally made it onto his show. 
- 
-I also remember there was a late-night music video show, possibly on what was still called TV4 back then (or CCTV, who knows?), Zero Hour Zone. It was on late on Friday and Saturday nights, and I saw videos for acts like Björk, The Offspring, Oasis and so on. Sometimes some oke from Port Elizabeth who was sent to boarding school on the platteland for his sins rocked up in Somerset East with a Nirvana CD. I remember quite clearly when Green Day’s ‘Dookie’ album came into our lives… So, early exposure to cool music was meagre! At some point in late high school Weezer’s debut album reached me out there – it remains one of my top 10 albums of all time. My first CD purchases were random though, but one had to start with what the CNA in Cradock could give you, so I remember buying that golden boxed double CD set of Queen’s Greatest Hits I & II and a reggae compilation which had that song “Green, green” on it by [Gecko Moon](http://www.rock.co.za/files/gecko_moon.html). 
+
+Once I moved schools from Cradock to Somerset East, one could find what was then still Radio 5 on your dial. (Yes, exactly, I had to move towns to get better reception…) That’s how I started listening to Barney Simon’s late-night rock show. Even this was a challenge as I was in boarding school and 10 pm was lights out – and that’s when Barney’s show started… No noise was allowed, so I had to listen to all that rock music very softly! Still, Barney’s show started opening my ears to a world of music, but crucially also to local rock. Bands like Springbok Nude Girls, Sugardrive, Squeal, Urban Creep, Lithium and Battery 9 were just putting out their first releases in about 1994, and some Valiant Swart and Koos Kombuis also occasionally made it onto his show.
+
+I also remember there was a late-night music video show, possibly on what was still called TV4 back then (or CCTV, who knows?), Zero Hour Zone. It was on late on Friday and Saturday nights, and I saw videos for acts like Björk, The Offspring, Oasis and so on. Sometimes some oke from Port Elizabeth who was sent to boarding school on the platteland for his sins rocked up in Somerset East with a Nirvana CD. I remember quite clearly when Green Day’s ‘Dookie’ album came into our lives… So, early exposure to cool music was meagre! At some point in late high school Weezer’s debut album reached me out there – it remains one of my top 10 albums of all time. My first CD purchases were random though, but one had to start with what the CNA in Cradock could give you, so I remember buying that golden boxed double CD set of Queen’s Greatest Hits I & II and a reggae compilation which had that song “Green, green” on it by [Gecko Moon](http://www.rock.co.za/files/gecko_moon.html).
 
 ---
 
-**Q.** _Did The Buckfever Underground start in Grahamstown or only when you moved to Cape Town? I know you entered a competition on the SABC TV programme Geraas and won with the song: “Dink Harder”. This is the [demo](https://www.youtube.com/watch?v=GPwht1XNal0)..._ 
- 
-A. It all began in Grahamstown. I started my studies in 1996 and I guess like many young people those student years turned out to be incredibly formative. It exposed me to so much – from music and culture to friends and connections for the future. Along the way I even got a degree! 
- 
-Gilad (Gil) Hockman and I probably started connecting from about 1997. We were both part of the team at Rhodes Music Radio, which is where everyone who were into music hung out. I loved student radio, and I still love doing radio today. At a radio station you suddenly had access to drawers and drawers full of CDs, and my music education grew rapidly, also through meeting people like Gil and Jon Savage. Jon became part of the early version of The Buckfever Underground. Gil was already in another band, I think they were called Lurk. And Jon always had bands going (years later his most successful act became Cassette, which had many songs playlisted, and they toured Europe too). 
- 
+**Q.** _Did The Buckfever Underground start in Grahamstown or only when you moved to Cape Town? I know you entered a competition on the SABC TV programme Geraas and won with the song: “Dink Harder”. This is the [demo](https://www.youtube.com/watch?v=GPwht1XNal0)..._
+
+A. It all began in Grahamstown. I started my studies in 1996 and I guess like many young people those student years turned out to be incredibly formative. It exposed me to so much – from music and culture to friends and connections for the future. Along the way I even got a degree!
+
+Gilad (Gil) Hockman and I probably started connecting from about 1997. We were both part of the team at Rhodes Music Radio, which is where everyone who were into music hung out. I loved student radio, and I still love doing radio today. At a radio station you suddenly had access to drawers and drawers full of CDs, and my music education grew rapidly, also through meeting people like Gil and Jon Savage. Jon became part of the early version of The Buckfever Underground. Gil was already in another band, I think they were called Lurk. And Jon always had bands going (years later his most successful act became Cassette, which had many songs playlisted, and they toured Europe too).
+
 There were always about five or six active student bands during my years at Rhodes. Some made it “big”, ie they had their song played on 5 FM (who remembers One Large Banana, and a song called “Leave This Town”? [One Large Banana - Leave This Town](https://www.youtube.com/watch?v=nn_8UK7VkZ0) ), or managed to get a slot at Oppikoppi through some student band competition (examples here would be Jon’s band Karmic Drink, although they might have been called The Jon Savage Band by then, also Four Ways to Skin A Cactus might have cracked an Oppikoppi gig).
- 
-The wonderful thing about Grahamstown back then was that nobody cared what the hell you were doing. The Student Union (the bar on the university grounds) hosted a weekly series of live music called Fireside Jam. Any band or muso keen to get on the stage was welcome. Gil could play an instrument, and I had just started writing poetry during 1996 and 1997 (I never wrote any during my high school years) so I had stacks of A4 Inkjet printouts with words, some in Afrikaans, and some in English. The band was bilingual from the start. 
- 
-We just did what we did with no real plan, but we got lucky very early on. We heard about the Geraas Vuurdoop songwriting competition – they had an “alternative” section, so we figured we’d give it a shot. Our friend Rich Holmes had by that time learnt how to press record on a sound desk, so we went into the Journalism Department’s radio studio one night and recorded “Dink Harder” and sent it off. Clearly, the right kind of people judged the competition because spoken word isn’t everyone’s cup of Tassies. Maybe it was just sufficiently odd to stand out from the crowd. Or maybe no-one entered! We knew at least someone did, because our friend Kytie Koekblik came top three in the same competition, and we were all from the same little Eastern Cape town! 
+
+The wonderful thing about Grahamstown back then was that nobody cared what the hell you were doing. The Student Union (the bar on the university grounds) hosted a weekly series of live music called Fireside Jam. Any band or muso keen to get on the stage was welcome. Gil could play an instrument, and I had just started writing poetry during 1996 and 1997 (I never wrote any during my high school years) so I had stacks of A4 Inkjet printouts with words, some in Afrikaans, and some in English. The band was bilingual from the start.
+
+We just did what we did with no real plan, but we got lucky very early on. We heard about the Geraas Vuurdoop songwriting competition – they had an “alternative” section, so we figured we’d give it a shot. Our friend Rich Holmes had by that time learnt how to press record on a sound desk, so we went into the Journalism Department’s radio studio one night and recorded “Dink Harder” and sent it off. Clearly, the right kind of people judged the competition because spoken word isn’t everyone’s cup of Tassies. Maybe it was just sufficiently odd to stand out from the crowd. Or maybe no-one entered! We knew at least someone did, because our friend Kytie Koekblik came top three in the same competition, and we were all from the same little Eastern Cape town!
 
 ---
 
 **Q.** _With their winnings from Geraas the Buckfever Underground recorded and released their debut album, ‘Jou Medemens Is Dood’ in 1999. Can you tell us where you recorded your debut album?_
- 
+
 **A.** Winning the competition meant we had a small budget to record a CD, and we also got to play at Oppikoppi. Both these things really blew our minds, because at that stage it seemed like only our heroes got to record CDs and play at Oppikoppi. We recorded ‘Jou Medemens Is Dood’ in Grahamstown at Corinne Cooper’s studio in Oatlands Road. We did it very quickly as we only had a few hours’ worth of recording time. Jon Savage joined me and Gil by then, and he added some drumming. In general, instrumentation was sparse. On one track, the backing is provided by the looped recording of the call of a ground hornbill… We also got our friend Double E (later to become a well-known hip hop artist called Zubz) to programme a beat for us, which became the beat for “Die Volk (is in die kak)”.
 
 ---
 
 **Q.** _With The Buckfever Underground it is basically your poems which you recite and then the other guys write the music. Are you involved in the creation of the music or do you just let the guys come up with the tunes and music? Which poets, and musicians inspired you to form The Buckfever Underground? I would presume Breyten Breytenbach, Ingrid Jonker, Koos Kombuis, Bob Dylan, Patti Smith and Jim Morrison were big influences?_
- 
+
 **A.** I leave the music to the musicians, although I occasionally chip in from the sidelines. I have a good idea about the kind of mood a soundscape must have to accompany a certain set of words, but I’m not well equipped (because I’m not a musician) to explain what it is I think the musicians should do (my general instructions are limited to “faster” and “slower”…). I rather leave it to them to create a soundscape, and then I find a set of words that fit that mood. It’s reverse-engineered.
- 
+
 All the people you mention were surely influences in one way or another, but also not at all. It’s not like I listened to Jim Morrison and felt, ja, I could do this – I couldn’t! And though I love Breyten’s poetry, we don’t really write the same way at all – and he’s infinitely better than I am! Gil (Oasis, The Stone Roses, The Chemical Brothers) and Jon (Aerosmith!) of course would have different influences, but to me it was more a step by step thing. I’ll do what I can (write, and recite) and see where that fits in within the band context – and then we’ll see where it leads to. We loved oddball indie bands of the time, and certainly The Beta Band (from Scotland) was a big influence, because they proved to us that you could do totally non-song like songs but still end up engaging and interesting. Same goes for a lot of the early Beck stuff – he reinvented the wheel in many ways. Gil introduced me to Linton Kwesi Johnson, and also Gil Scott-Heron. Much later I would discover SA band KOOS too, so you slowly realised that what you did – in our case, roughly speaking, spoken word with improv music – was of course nothing new, and fitted into a bigger world of music from all over the world. It was cool to feel like a small part of such a scene, stretched out over continents and decades.
- 
+
 Our influences were often simply bands that inspired us, and certainly at the time Chris Letcher and Matthew van der Want’s albums (‘Low Riding’ and ‘Bignity’, plus also the EP hilariously called ‘EP Tombi’) were hugely influential. I’ve also always been a huge fan of Benguela, the Cape Town instrumental trio.
- 
+
 I never felt that the band would be a career to me, I was studying journalism and planned to work in the media industry, which is what I did. The band – the friends I’ve made, the music we have created, the shows we have played – has been a comforting creative companion to me for over 20 years now. I still see myself as a “chancer” who got involved in music despite really having no talent for it. I am in awe of musicians who make a living out of their craft, and who have literally put everything on the line for it. South Africa is full of such legends.
- 
+
 The second album, ‘Survival is Personal’ (2000) was a collection of unreleased demos and works in progress which includes some Hip Hop on “The Way of the Noodle”, “The Antiboxer” features the actual sounds of motorbikes at the 500cc race in the Welkom GP2000… Other tracks feature some trippy sounds and track 6 and 7 contain extremely small snippets of Cornershop's “Candyman” which in turn contains elements of a Larry Corryel track. The TV snippets on track 6 are completely random and feature random sounds from Love Boat, some CNN, some Isabel Jones and assorted SABC programmes. This is Cornershop's [Candyman](https://www.youtube.com/watch?v=LJGrVnqPpzA) (YouTube).
 
 ---
 
 **Q.** _Who decided to use the samples and who chose them? Why did you decide to release an EP of demos and unfinished songs? Were you trying to attract the interest of record companies?_
- 
+
 _This is [Survival is Personal](https://buckfeverunderground.bandcamp.com/album/survival-is-personal)._
 
-**A.** ‘Survival Is Personal’ isn’t a “proper” release, it really just is a collection of demos and ideas (they were certainly not meant to attract record company attention!) which we put out on CD-R to die-hard fans who really wanted it. I wonder if we’ve made 100 of those CD-Rs over the years. By 2000 Gil had left Grahamstown and moved to Joburg and then to the UK – one of the songs is “Email from England” which is me reading an email Gil had sent me. So in 2000 the band existed more as an idea, even though Jon was still around and I connected with a couple of other musicians who added instrumentation to some tracks. But I was just fooling around – the TV snippets were recorded one afternoon just flicking through channels and recording (on a Walkman-style dictaphone). Maybe I was trying to make a point – by referencing the Cornershop sleeve notes – that a lot of what we listen to references other artists and sounds, and that somewhere, somehow, it is all related, all spliced together, all just one big, crazy mix tape. 
- 
+**A.** ‘Survival Is Personal’ isn’t a “proper” release, it really just is a collection of demos and ideas (they were certainly not meant to attract record company attention!) which we put out on CD-R to die-hard fans who really wanted it. I wonder if we’ve made 100 of those CD-Rs over the years. By 2000 Gil had left Grahamstown and moved to Joburg and then to the UK – one of the songs is “Email from England” which is me reading an email Gil had sent me. So in 2000 the band existed more as an idea, even though Jon was still around and I connected with a couple of other musicians who added instrumentation to some tracks. But I was just fooling around – the TV snippets were recorded one afternoon just flicking through channels and recording (on a Walkman-style dictaphone). Maybe I was trying to make a point – by referencing the Cornershop sleeve notes – that a lot of what we listen to references other artists and sounds, and that somewhere, somehow, it is all related, all spliced together, all just one big, crazy mix tape.
+
 In 2003 The Buckfever Underground released an album called ‘Teaching Afrikaans as a Foreign Language’ (TAFL for short) which was recorded in Fish Hoek in 2002... Listen [here](https://buckfeverunderground.bandcamp.com/album/teaching-afrikaans-as-a-foreign-language)...
 
 ---
 
 **Q.** _I always thought this was more musical than the previous albums and it does not sound like poems set to music. On “Blood Red Land” & “Die Ou Man en die Vrou” Toast tries to sing which turns the poems into songs..._
- 
+
 **A.** Yes, this is way more musical and shows how we progressed. By now we were joined by drummer Stephen Timm. He was also from Cape Town and as it turned out Gil came back from the UK and moved to Cape Town, and I had settled there too, trying to make headway as a photojournalist. Jon was a Capetonian too, and very involved in the TV industry at the time – we all studied journalism, by the way, Jon’s focus was TV, Gil and I did photojournalism, and Stephen is also a journalist (he has just released a book called ‘At Any Cost’ – you can read an extract at the link below).
 
-[Eran Eyal, the South African fraudster who took the tech world for more than $40-million](https://www.dailymaverick.co.za/article/2021-02-23-eran-eyal-the-south-african-fraudster-who-took-the-tech-world-for-more-than-40-million/) 
+[Eran Eyal, the South African fraudster who took the tech world for more than $40-million](https://www.dailymaverick.co.za/article/2021-02-23-eran-eyal-the-south-african-fraudster-who-took-the-tech-world-for-more-than-40-million/)
 
 We could now play as a proper four-piece, with Stephen on drums, Gil on bass, and Jon on keyboards. Both Gil and Jon also played guitar – Buckfever has always been a band of instrument-swappers. We recorded the album with Parris Lucas in Fish Hoek, and the sessions were similar to our debut album in approach, but by now everyone were better musicians and more confident. Still, we had lots to learn but with someone like Parris we got great guidance. Generally, we entered a recording session on the back of having played live a lot, so that there were at least some musical ideas to build on. We are at heart an improv band, meaning that we don’t (or seldom) replay songs in the same way. We never have a set-list. Recording was thus a very important time, because we had to ensure that the songs were put down properly for posterity. I’m not a very good singer, but I had inched towards some way of singing which I felt comfortable with, so I tried it out on a couple of tracks.
- 
+
 This is a snippet of Toast talking about one of the songs he wrote for The Buckfever Underground on February 6th 2019... Watch [here](https://fb.watch/3TCWkh-He_/).
- 
-The Buckfever Underground's third release was ‘Trying To Do Something About This Goddamn Terrible Bleak Winter’ in 2005 and it was recorded live at The Hidden Cellar, Stellenbosch on Saturday 25 June 2005. Listen [here](https://buckfeverunderground.bandcamp.com/album/trying-to-do-something-about-this-goddamn-terrible-bleak-winter)... 
+
+The Buckfever Underground's third release was ‘Trying To Do Something About This Goddamn Terrible Bleak Winter’ in 2005 and it was recorded live at The Hidden Cellar, Stellenbosch on Saturday 25 June 2005. Listen [here](https://buckfeverunderground.bandcamp.com/album/trying-to-do-something-about-this-goddamn-terrible-bleak-winter)...
 
 ---
 
 **Q.** _Was that a special gig that you decided to record and release this or was that planned beforehand? I assume that most of your fans and supporters were Afrikaans or did you have a lot of English speaking fans as well? Did you ever get English dudes coming up to you and asking what the songs were about? Speaking for myself, I can speak and understand Afrikaans but I have to think when I listen to your lyrics which is good..._
- 
-**A.** Ja, the English dudes in the band would sometimes come up and ask what the songs were about! No, there were no prior plans to release this. At the time Gil often recorded our shows on a portable recorder he had. It was very simple – just a unit at the back of the room, so no fancy multi-channels or mixing etc. Just what it sounded like in the room. So it’s very lo-fi, but we loved the vibe of this show when we listened back to it, and decided to put it out as a limited release CD-R. Again, I don’t think more than 100 of these CD-Rs exist. 
+
+**A.** Ja, the English dudes in the band would sometimes come up and ask what the songs were about! No, there were no prior plans to release this. At the time Gil often recorded our shows on a portable recorder he had. It was very simple – just a unit at the back of the room, so no fancy multi-channels or mixing etc. Just what it sounded like in the room. So it’s very lo-fi, but we loved the vibe of this show when we listened back to it, and decided to put it out as a limited release CD-R. Again, I don’t think more than 100 of these CD-Rs exist.
 
 We’ve always had English and Afrikaans fans and can therefore tailor a show to suit either a bilingual crowd, or make it all English, or all Afrikaans, or whatever. (It is easy to adjust the tone of our performance – we have played to a crowd of folk from the old age home in Bethulie, and we have also supported Fokofpolisiekar…) In general, when you come to one of our shows, you’ll get both languages. We often underestimate how bi- and multilingual South Africans are – I love using both English and Afrikaans, but really wish I could speak 10 more languages!
- 
+
 The fourth album, ‘SAVES’, was released on 26 September 2007 and is available on CD, like the others but you can listen to it [here](https://music.apple.com/us/album/saves/265957191) on Apple...
 
 ---
 
 **Q.** _This album features poems in English and Afrikaans and contain Toast's observations and stories about South Africa and its people. On “I Want To Die On a Tuesday Afternoon” Toast screams/shouts to dramatic effect over some guitar feedback. The combination is stunning! What made you decide to scream on that track because it really makes the song powerful. You should do that more often... “SAVES” was named as one of the Top 10 albums of the previous decade by the Mail & Guardian newspaper in 2010._
- 
-**A.** Haha, yes, that screaming is very uncharacteristic for me, and I don’t really have the confidence to do it more often. Most of us never really scream as adults – it’s such a liberating thing, it exposes some part of you that is normally hidden, I think. But it makes for an album highlight as it stands out above the more drone-like general tone of my reading/speaking voice. 
- 
+
+**A.** Haha, yes, that screaming is very uncharacteristic for me, and I don’t really have the confidence to do it more often. Most of us never really scream as adults – it’s such a liberating thing, it exposes some part of you that is normally hidden, I think. But it makes for an album highlight as it stands out above the more drone-like general tone of my reading/speaking voice.
+
 We recorded ‘The Buckfever Underground SAVES’ (this album title was Gil’s idea, he loved reading the title as one with the band name, so it’s ‘The Buckfever Underground SAVES’ in full, and if you look closely at the album art, the designer added “lank” as well…) with Tara Fataar when she had a studio in Derry Street, Vredehoek (Cape Town). By this stage experimental guitarist Righard Kapp had joined the band, so the sonic palette of the band had expanded yet again. Looking back, the years 2007-2012, framed by the release of ‘SAVES’ and ‘Verkeerdevlei’, were a creative high point for the band as we were a five piece with a dynamic live show playing often in Cape Town’s indie venues, most notably The Independent Armchair Theatre in Observatory, which was also owned by Gil for a few years. This allowed us to play alongside bands ranging from Fokofpolisiekar to BLK JKS, although acts we resonated with most are probably the ones we shared short tours with, like Lilo from Durban, and Trike and Plank from Joburg, and Rokkeloos from Pretoria. Sometime in 2007 we even did a collaboration (a single live show) with Xhosa singer and musician Madosini.
- 
+
 The ‘Limbs Gone Batty (Live)’ album was released in 2009 and you can listen to the album [here](https://buckfeverunderground.bandcamp.com/album/limbs-gone-batty)...
 
 The album features some thought-provoking songs like “The South African”, “I'm On Facebook, Now What?”, “Aids Test” and “I Saw What Warrick Sony Saw” which has quite an eastern feel...
@@ -114,38 +114,38 @@ The album features some thought-provoking songs like “The South African”, �
 ---
 
 **Q.** _What inspires these songs? Do you actively observe people and are you a Kalahari Surfers fan? Did you send your song to Warrick?_
- 
+
 **A.** A lot of my writing at the time was about observations in the city, or wherever I travelled. Newspaper reports seep into songs constantly, and “The South African” consists almost entirely of vignettes inspired by news articles in a certain week. “I saw what Warrick Sony saw” was written after I once stood in the queue behind Warrick – whom I didn’t really know well enough at the time to say hi – at the Wizardz Inc copy and print shop in the Gardens Centre. The queue moved very slowly and there was a TV behind the counter, playing music videos. So it’s kind of inane but I’m just saying that I saw what Warrick Sony saw, because we were looking at the same TV, and then “Wonderwall” by Oasis came on, and I was wondering how Warrick perceived the song.
- 
-I’m a very big fan of his work, he truly is a pioneer and an influence on so many South African musos, especially our electronic acts. But also his punk ethos and longevity of his career, and the thought he puts into his projects – he really is a leading light. I have had the opportunity to work with him on a track back in 2013 when Michael Cross put together various collaborators on Gary Herselman’s songs for an album called ‘Rigtingbefok’ by Die Lemme. 
- 
+
+I’m a very big fan of his work, he truly is a pioneer and an influence on so many South African musos, especially our electronic acts. But also his punk ethos and longevity of his career, and the thought he puts into his projects – he really is a leading light. I have had the opportunity to work with him on a track back in 2013 when Michael Cross put together various collaborators on Gary Herselman’s songs for an album called ‘Rigtingbefok’ by Die Lemme.
+
 See link for Die Lemme: [RIGTINGBEFOK](https://dielemme.bandcamp.com/album/rigtingbefok).
- 
+
 ‘Limbs Gone Batty’ is a live album, recorded at the Independent Armchair Theatre and it’s a pretty good record of how we might have sounded like if you strolled in there on a random night somewhere before 2010. (On another night, there might have been Bingo with his angle-grinder showering sparks on the first few rows of people…) The album title is a shortened version of Gil’s sister’s (Dorit, a longtime fan of the band) masters thesis, which is about bats! The full title is: ‘Limbs Gone Batty, or The Role Of The Anterior-Posterior Patterning Signal, Sonic Hedgehog, In The Development Of The Unique Bat Limb’. Because why not?
- 
+
 As far as subject matter for lyrics go: I believe we have so much completely unique experiences, landscapes, events, history, personalities and so on in South Africa (and Africa) that a South African lyricist should never really be short of raw material to work with. However, it’s easy to get trapped in the broader lyrical themes of certain genres (say for example, country music) and therefore to get stuck in generic interpretations. James Phillips is a great example of how liberating it can be to address all that is around you, right now, in the language you’re already speaking. Many years later, Jim Neversink (although working within an alt.country genre) did exactly the same, ploughing the rich fields of the South African subconscious to great effect. Of course, musicians like Valiant Swart and Koos Kombuis have made entire careers out of this – being inextricably linked to the place they’re from.
- 
+
 By 2012 we released an album called ‘Verkeerdevlei’, this was our last with the line-up of myself, Gil, Stephen Timm, Jon Savage and Righard Kapp. (Although, mind you, we did record another album a couple of years later, but we’ve never released it – maybe this year? We are legendary slackers.) We recorded ‘Verkeerdevlei’ with Tim Rankin (Dorp, Bed on Bricks) in Brackenfell, and the album features guest performances by incredible talents like Juliana Venter and Jaco van Schalkwyk. I would say this is our most accomplished and varied album, one which, musically and lyrically, takes you on a proper journey. It’s best listened to on a solo night-drive somewhere away from the city, I’ve always felt.
 After ‘Verkeerdevlei’ things started changing – Gil moved to Joburg and later to Berlin, where he has continued his solo career. He has released four awesome albums, check out his Bandcamp page: [gilhockman.bandcamp.com](https://gilhockman.bandcamp.com/).
- 
+
 Righard also moved out of Cape Town and has spent most of the past decade in the Free State and Eastern Cape – he has only just this month returned to Cape Town. Also check out Righard’s great solo album ‘Strung Like A Compound Eye’ if you can find it.
- 
+
 With key members not available for shows, Stephen and I became the core of the band. We played with Jon from time to time, but also got other friends to jam with us whenever a gig came along. I often performed poetry solo too, at small festivals like the McGregor Poetry Festival, for example. Stephen also has a long-running solo electronica act called Myrid Ambre – see Spotify. Along the way I also recorded an album called ‘Emoticon Breakdown’ with Jon Savage and his wife Jane Breetzke (both were in Cassette) under the name Simply Dead, which is way more poppy as both Jon and Jane are outstanding songwriters and can turn anything into something memorable. Jane and I share singing duties on the album too – and yes, I do a lot of singing on it!
- 
+
 Buckfever only became more active again in late 2017 when Michael Currin joined us full-time on guitar. He and Stephen had met at open mic sessions and Stephen realised that Michael’s style could work with our freeform approach to songs. It has been a very fruitful few years since as a trio, and we released a double album called ‘Last Days of Beautiful’ in 2019 to have a record of how we sound at this point in time. We decided to make it a live album and got Dirk Hugo to record performances in Darling, the Alexander Bar and McBains – which is my friend Justin’s place up on Bainskloof Pass. It’s a double album because one track – “Eating the Land” – is 50 minutes long and needed a CD all to itself!
- 
+
 “Eating the Land” comes from a text (about driving up the N1 through the Karoo) I wrote for conceptual artist Gerhard Marx. The text became the narration to his performance piece entitled ‘Vehicle’ which has been shown in Joburg, Holland and Stellenbosch.
 
 ---
 
 **Q.** _I believe “Die Volk (Is in die Kak)” was nominated as one of the Top 100 Best Resistance Songs in a Dutch broadcast. The lyrics deal with the young Afrikaners disillusionment in the community after Apartheid. Do you think the “volk” are still in the shit in 2021 or have they made their peace with this and moved on?_
- 
+
 **A.** Die Volk” is probably our best-known song as it became a minor hit on Radio Tuks, and many students who spent time in Pretoria in the late 1990s will know it. It also appeared on one or two of those ‘Alternatief op sy Beste’ compilations when that was still a thing. Dutch singer Stef Bos, who spends a lot of time in SA, has always been a big supporter of Buckfever and he nominated “Die Volk” for a place on the list, which is how it made that specific Top 100.
- 
+
 Is “die volk” still “in die kak”? You better believe it! Although the lyrics in the song makes it to be very specifically about the Afrikaner, I’ve always thought of the song title to be applicable to any “volk” or nation or cultural group in the world, provided you change a few cultural references. The bigger picture is that the world is not a very well place right now, and it hasn’t been for a long time. Climate change is the biggest issue which will underpin everything for centuries to come. We are all knee-deep in die kak!
- 
+
 On to Toast's writing and other things.
- 
+
 While at university, Coetzer met Justin Nurse who was in charge of the "Laugh it Off" (LIO) independent T-Shirt company who print shirts with funny activist slogans and parodies of corporate company names. Toast suggested the slogan "Black Labour, White Guilt", a parody of the SAB Black Label beer brand with political implications. Following the controversy the shirt caused the matter was taken to court though LIO was found innocent of trademark infringement.
 This is a report on the incident courtesy of News 24 from 07 Mar 2005... [Laugh It Off goes to the top](https://www.news24.com/news24/laugh-it-off-goes-to-the-top-20050307).
 
@@ -154,36 +154,36 @@ This is a report on the incident courtesy of News 24 from 07 Mar 2005... [Laugh 
 **Q.** _Cool, so you were responsible for that slogan. Are there any other slogans you would like to see on a shirt? I just love that one; Jou Ma se Fynbos (your mothers wild bush), LOL._
 
 **A.** Haha, yes, I also seem to recall a funny sticker, maybe Paul Riekert made back then: Stamp out fynbos! (As a joke, of course…)
- 
+
 Justin is one of the many creative geniuses I met during my varsity years. He went one step further and started a business that straight-up called out big companies, while at the same time having fun with t-shirts but also simultaneously drawing people’s attention to brands and how clever marketing can manipulate us (have we learnt anything from this? I wonder!). Culture-jamming, is what this was called back then. We have always been big fans of Naomi Klein’s book ‘No Logo’, which was a big influence at the time, together with the Italian magazine COLOURS and the satirical news website The Onion. Justin and I were friends so I occasionally brain-stormed on some of his T-shirt slogans and ideas (there was always a whole gang of people involved). I am glad that the Black Labour one has stood the test of time, so to speak…
- 
+
 I still love making T-shirts and to this day I still do all our Buckfever merch (t-shirts, hoodies, caps) through Justin’s Laugh it Off imprint. We see each other often and Justin remains an inspirational figure to me and many others, even though these days he does it more by jumping off high cliffs into clear mountain pools – hang out with him at McBains up in Bainskloof near Wellington – see [mcbains.co.za](https://mcbains.co.za/).
- 
+
 Toast was awarded his B.Journ degree with distinctions in journalism and Afrikaans/Nederlands in 1999. In 2000 and early in 2000 Toast was still at Rhodes University under Monty Cooper in the Department of Photojournalism. After university he became a freelance journalist and he spent 2003 in South-Korea where he taught English. Returning to South Africa in 2004, Toast did more freelance reporting and in 2006 joined the editorial team of the Weg/Go magazine. Through his work Toast got to travel to exotic places such as St Helena Island where Napoleon died and where Afrikaner POW’s were held during the Anglo Boer War. In 2010 Coetzer won the Pica prize for the travel journalist of the year.
- 
+
 ---
 
 **Q.** _Some guys have all the luck hey but you do deserve it. When you were traveling to exotic locations did you report on the places and the people and the culture as well? Did you come across any exotic music on your travels that you would like to share?_
- 
-**A.** The Weg/Go philosophy of travel writing very much includes the people that inhabit a certain space. I’ve been lucky to work with the best people at the magazine over the years – editors, sub-editors, layout artists, photographers, fellow writers and so on. The magazine has been that very rare space where great concepts come together in an engaging product that has been hugely popular among readers since day one. The community of people who read our magazine share interests like travel, nature, wildlife photography, hiking, and so on. This community of people provide you with a real sense of support and belonging as a writer – it feels like you’re actively contributing to something bigger, rather than just doing a 9-5. 
- 
+
+**A.** The Weg/Go philosophy of travel writing very much includes the people that inhabit a certain space. I’ve been lucky to work with the best people at the magazine over the years – editors, sub-editors, layout artists, photographers, fellow writers and so on. The magazine has been that very rare space where great concepts come together in an engaging product that has been hugely popular among readers since day one. The community of people who read our magazine share interests like travel, nature, wildlife photography, hiking, and so on. This community of people provide you with a real sense of support and belonging as a writer – it feels like you’re actively contributing to something bigger, rather than just doing a 9-5.
+
 It’s been a very stimulating work environment, which has taken me to some of Africa’s most spectacular corners like Kaokoland in Namibia, the Okavango in Botswana and the Serengeti in Tanzania. I’ve even been to distant islands like Marion Island, St Helena Island and Tristan da Cunha. But some of the stories are much closer to home and I’ve always enjoyed the challenge of going to seemingly ‘non-touristy’ places like, say, Reitz in the Free State, or Zeerust in Northwest, or Copperton in the Northern Cape and return with a story about the people that thrive in such places. Without people our stories won’t have the life they do.
- 
+
 I’m always on the lookout for cool music when I travel. I remember buying some seriously bootlegged tapes from artists like Oumou Sangaré when in Mali and Senegal – the kind of stuff you buy from some oke at a Stop street. Especially in new countries I visit I make a point of buying three CDs of local artists. I remember on a first visit to Botswana as a student I was travelling with my friend Leanne who is from there, and I bought this tape by a band called Vomit… they had such catchy songs, I recall the chorus from one: “When your mommy is not around, when your daddy is not around… it’s freedom time!”
 Music can add so much to a landscape. I remember being outside a church in a place called Kibuye in Rwanda. It’s on a high slope, overlooking Lake Kivu. During the genocide, hundreds of people were killed in this church, but on the day I stood outside I could hear a choir practicing inside. It was a haunting, beautiful song and left me with a heightened perception of that place. I will never forget it.
- 
-At the University of Cape Town Coetzer wrote in for a M.A. degree for Creative Writing under the legendary Afrikaans author Etienne van Heerden, where his novel Naweek. Coetzer received this M.A. with distinction in 2008. Together with Erns Grundling, Coetzer is co-editor of the legendary Afrikaans fanzine: Ons Klyntji which publishes literary submissions by anyone who would like to submit them. 
- 
+
+At the University of Cape Town Coetzer wrote in for a M.A. degree for Creative Writing under the legendary Afrikaans author Etienne van Heerden, where his novel Naweek. Coetzer received this M.A. with distinction in 2008. Together with Erns Grundling, Coetzer is co-editor of the legendary Afrikaans fanzine: Ons Klyntji which publishes literary submissions by anyone who would like to submit them.
+
 ---
 
 **Q.** _Tell us more about Ons Klyntji, where it began, who started it and how it works? I know Koos Kombuis edited it for a while. Where can people subscribe and can anybody submit articles for inclusion? Are you working on a new edition for 2021?_
- 
-**A.** The short history of Ons Klyntji: It was founded in 1986 by the Genootskap van Regte Afrikaners in Paarl and was officially the first ever Afrikaans magazine. It fizzled out after the Anglo Boer War, was briefly revived in the 1950s but died again and then Koos Kombuis resurrected the title, in an ironic way, of course, in the mid-1990s. He used it as a mouthpiece for some of his own political satire, but also published poetry and stories by other underground writers. Erns Grundling and I discovered Ons Klyntji at around the same time – we both studied in the Eastern Cape, Erns was at Port Elizabeth. Somewhere between poetry, zines and Koos Kombuis Erns and I became friends. By about 2000 Koos asked us – he must have recognised our youthful zeal… – if we wanted to take over Ons Klyntji as he didn’t have time for it any longer. We jumped at it. Since then we’ve brought out a new edition most years (there were some years when we didn’t have the time or money to produce one), and it is not just Afrikaans any more; it has become multilingual. 
+
+**A.** The short history of Ons Klyntji: It was founded in 1986 by the Genootskap van Regte Afrikaners in Paarl and was officially the first ever Afrikaans magazine. It fizzled out after the Anglo Boer War, was briefly revived in the 1950s but died again and then Koos Kombuis resurrected the title, in an ironic way, of course, in the mid-1990s. He used it as a mouthpiece for some of his own political satire, but also published poetry and stories by other underground writers. Erns Grundling and I discovered Ons Klyntji at around the same time – we both studied in the Eastern Cape, Erns was at Port Elizabeth. Somewhere between poetry, zines and Koos Kombuis Erns and I became friends. By about 2000 Koos asked us – he must have recognised our youthful zeal… – if we wanted to take over Ons Klyntji as he didn’t have time for it any longer. We jumped at it. Since then we’ve brought out a new edition most years (there were some years when we didn’t have the time or money to produce one), and it is not just Afrikaans any more; it has become multilingual.
 
 The last decade or so has been very good for Ons Klyntji, we’ve had support from Oppikoppi for some years, and also from other festivals like US Woordfees. But the major success of Ons Klyntji is that it is a massive community effort – we get contributions from all over South Africa, elsewhere in Africa and from writers in the diaspora. Many people pour their energies into the making of the zine, and it is an immensely satisfying project to work on. We accept contributions throughout the year – email your best three poems and/ or a short story (max 2000 words) to sendusyourpoems@gmail.com You can also submit photos, cartoons, drawings – anything, really. We will definitely bring out a 2021 edition, probably by around September. You can’t subscribe to it, but you can buy copies directly from me (email <info@toastcoetzer.com>) or from indie book shops like Love Books (JHB) and The Book Lounge and Clarke’s Bookshop in Cape Town.
 
 The website [www.klyntji.com](https://www.klyntji.com) and Instagram page [@klyntji](https://www.instagram.com/klyntji/) is not the same as Ons Klyntji. It is run by friends of ours and they produce related but different content. We run the physical zine (annual edition) and they bring out more current content online, focusing on arts and culture.
- 
+
 Check out the website here: [klyntji.com/ons-klyntji](https://klyntji.com/ons-klyntji)
 
 I also found this small (klein) little video... [Klyntji Means Little One](https://www.youtube.com/watch?v=cXU0U_yp6zY)
@@ -191,14 +191,14 @@ I also found this small (klein) little video... [Klyntji Means Little One](https
 Coetzer writes poetry, very descriptive poetry and some of his work has been published in Nuwe Stemme 2, in Groot Verseboek and also in magazines like Carapace and New Coin and on the LitNet website. Some of Coetzer's short stories, essays and social commentary have been published in Urban One (Spearhead 2001), Sport vs Art (Wits University Press 2010), Sonbrand en Braaiboud (Tafelberg 2009), and Laugh It Off Annuals. Here are 3 of Coetzer's poems, translated from Afrikaans courtesy of asymptotejournal.com... [Toast Coetzer Poems](https://www.asymptotejournal.com/poetry/toast-coetzer-poems/)
 
 In 2009 Coetzer's debut novel, ‘Naweek’ was published. It tells the tale of the wannabee rockstar Maanhaar Basson's end and is written chronologically backwards from the Sunday to the Friday. This novel was shortlisted for an award at the University of Johannesburg in 2010 for a debut prize.
- 
+
 ---
 
 **Q.** _Sounds like a great read and I need to get a copy of that from you sometime. Were the characters in your book based on people you knew or was it purely fiction? This should be a movie and perhaps if someone reading this would be interested in filming this story._
- 
-**A.** No, the characters are entirely fictional – thankfully, as Maanhaar and friends get up to some hectic stuff. I think I felt the need to write a gritty story, and used the city landscape and suburban mundanity to enhance the sense of dread experienced by the characters – the main one which you know from the start is doomed. There has been some interest with regards to filming it, but it hasn’t quite come together. Writing fiction was very hard for me – very different from journalistic writing but again I had great guidance from my supervisor, Etienne van Heerden, who is of course one of our great novelists. 
+
+**A.** No, the characters are entirely fictional – thankfully, as Maanhaar and friends get up to some hectic stuff. I think I felt the need to write a gritty story, and used the city landscape and suburban mundanity to enhance the sense of dread experienced by the characters – the main one which you know from the start is doomed. There has been some interest with regards to filming it, but it hasn’t quite come together. Writing fiction was very hard for me – very different from journalistic writing but again I had great guidance from my supervisor, Etienne van Heerden, who is of course one of our great novelists.
 When Coetzer is not travelling, he presents a radio programme, The Unhappy Hour on the Cape Town community-based Bush Radio (89.5 FM).
- 
+
 ---
 
 **Q.** _I am embarrassed to admit that I have not listened to Bush Radio for a while, too busy doing these interviews I am. Are you still presenting The Unhappy Hour?_
@@ -212,20 +212,20 @@ When Coetzer is not travelling, he presents a radio programme, The Unhappy Hour 
 **A.** No, only some. We’re a bit slapgat, and sometimes the shows were never recorded because of technical issues which sometimes ran for months on end. But there are many on Mixcloud to keep yourself busy with: [The Unhappy Hour](https://www.mixcloud.com/TheUnhappyHour/)
 
 And also some older ones over [here](https://sites.google.com/site/unhappyhour/allseasononeshowsplusextras).
- 
+
 I did a short interview on Toast's show a few years back about Cape Town Vinyl Fairs and Medicine Boy were Toast's special guests...
 As an actor, Coetzer has performed at the Klein Karoo Nasionale Kunstefees and elsewhere in Smag, Willem Anker's translation of Sarah Crane’s ‘Crave’...
 
 ---
 
 **Q.** _Would you like to do more acting in movies or on TV?_
- 
+
 **A.** I’m not an actor (again, I’m a chancer!) – the role in ‘Smag’ was very specific, it was almost like I was cast on my skills as a good reader of text, much like what I do as frontman for the band. So the director didn’t need me to learn my lines (I have no idea how actors memorise so much for stage shows, it’s so hard!), I simply sat there and read them. It was a very intense play and the 20 or so shows we did – spread over three runs in different cities – really took it out of me emotionally. I have a lot of respect for actors who can embody characters for long periods of time in an authentic and convincing manner. I can’t do that!
- 
+
 ---
 
 **Q.** _Well Toast, I think that pretty much covers most of what you have done over the past 25 years but I am sure you have other projects, books, more The Buckfever Underground albums in the pipeline so could you please bring us write up to date please, pun intended? When did you move to Stanford and what are you doing there?_
- 
+
 **A.** Most of the projects we spoke about keep chugging along. Buckfever released a new EP late in 2020 called ‘Satelliet’, which consists of songs mostly built around guitar tunes dreamt up by Michael Currin. It was a proper lockdown-album, with all the recordings done via our cell phones and distributed via WhatsApp and email. Stephen mixed it down and added some further touches – it’s very lo-fi but I like its vibe.
 
 Stanford is a good space out of the city, and I like to think it will be a good place for writing books, so let’s see!
@@ -233,13 +233,13 @@ Stanford is a good space out of the city, and I like to think it will be a good 
 ---
 
 **Q.** _Any last words for people reading this? Do you think there is a future for books and libraries or do you think Kindle and eBooks are the future?_
- 
+
 **A.** All these things can co-exist. Sure, the heyday of paper publications is probably behind us, but that’s only because something cheaper came along, and the mode of dissemination (the internet) is so effective. But reading on an electronic device isn’t exactly the same as reading a book, even if you’re reading the same novel. The same goes for magazines – you can get all the same info online, or read a PDF version, but you can’t replicate the physicality of a magazine, the way the paper feels and smells, the weight of it in your hand. Just like there still is a place for vinyl despite the dominance of streaming services, there will be (maybe not always, but for a long time still) a place for physical books alongside e-books, and digital libraries.
 
 ---
 
 In closing, I thought it would be good to post this interview with Toast during lockdown on Apr 19, 2020 where Dewald Kirsten speaks to him about his writings for Weg/Go Magazine... [Lockdown Live with Toast Coetzer](https://www.youtube.com/watch?v=i62yhhSsMBw)
- 
+
 Links:
 
 - All releases by The Buckfever Underground are available on Bandcamp: [Buckfever Underground](https://buckfeverunderground.bandcamp.com/)
@@ -249,7 +249,7 @@ Links:
 - Toast’s website: [www.toastcoetzer.com](https://www.toastcoetzer.com)
 - Contact Toast: <info@toastcoetzer.com>
 - Toast on Facebook: Toast Coetzer
- 
+
 You can read about his writings on City Books: [here](http://www.citybooks.eu/en/artist/p/toast-coetzer).
 
-Thanks Toast and thanks for reading everyone. Hopefully this article will inspire you to look for Toast's books and albums by The Buckfever Underground. Cheers, Ernesto Garcia Marques, 07/04/2021 
+Thanks Toast and thanks for reading everyone. Hopefully this article will inspire you to look for Toast's books and albums by The Buckfever Underground. Cheers, Ernesto Garcia Marques, 07/04/2021
