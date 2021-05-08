@@ -47,15 +47,17 @@ No shows scheduled yet. Watch this space and our social media.
 
 ## Latest album
 
-Praise for our new EP, Satelliet: 
+Our new 6-track EP, _Satelliet_, is now is available as a digital album.
 
-> “‘The Buckfever Underground’ have created a work of art that may leave you feeling strong and somewhat mellow, wallowing in the calm after entertaining the demands of chaos.” – Jodie Reid, Underground Press
+Praise for our new EP, Satelliet:
 
-Read the review [here]({% link _press/satelliet/index.md %}.
+> “‘The Buckfever Underground’ have created a work of art that may leave you feeling strong and somewhat mellow, wallowing in the calm after entertaining the demands of chaos.”
+>
+> – Jodie Reid, Underground Press
 
-Our new 6-track EP [Satelliet]({{ satelliet_url }}) now is available as a digital album. 
+Read the review [here]({% link _press/satelliet/index.md %}).
 
-During lockdown in 2020, we recorded this album together without being in the same room. We sent recordings to each other and then mixed them together as full tracks.
+During lockdown in 2020, we recorded this album together without being in the same room. We sent recordings to each other and then mixed them together as full tracks. Listen to it [here]({{ satelliet_url }}).
 
 {% comment %}
 This compresses the image too much.
