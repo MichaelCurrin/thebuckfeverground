@@ -2,10 +2,11 @@ source "https://rubygems.org"
 
 # Note this is not built with GH Pages so there is more freedom to get newer gems.
 
-gem "jekyll", "~> 4.1"
+gem "jekyll", "~> 4.2"
+gem "webrick", "~> 1.7"
 
 # Includes jekyll-feed and jekyll-seo plugins.
-gem "minima", "~> 2.5.1"
+gem "minima", "~> 2.5"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
